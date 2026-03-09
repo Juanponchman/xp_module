@@ -1,1449 +1,971 @@
-Note: All resources are from [Coolapk] Midnight God    
-
-Lanzou Cloud Drive unified password: OJBK    
-
-Update Collection: Click to view. Please buy me a Coke to support me: Donate to my Telegram channel: OJBK233320220220142638Aicy775.png【MAGISK】Mask Stable Version    It's best to ensure that the version numbers of the flashable ROM and the file manager are consistent to avoid unnecessary problems.Mask card swipe package: Click to viewMask Manager: Click to view【MAGISK】Mask Canary Version    It's best to ensure that the version numbers of the flashable ROM and the file manager are consistent to avoid unnecessary problems.Canary Edition Manager: Click to viewCanary Edition SIM Card Pack: Click to viewShamiko (Hidden MagiskHide): Click to view【MAGISK】Mask Alpha Version    Author: vvb2060, based on the Canary version, with added new features.    It's best to ensure that the version numbers of the flashable ROM and the file manager are consistent to avoid unnecessary problems.Alpha Manager: Click to viewAlpha version SIM card flashable package: Click to viewShamiko (Hidden MagiskHide): Click to viewIMG_20240111_190420190519.png【MAGISK】Mask Manager Delta Edition    Author: Magisk branch created by HUSKYDG    Built-in brick recovery protection, core mode switch, multi-instance application hide, unencrypted F2FS optimization, and enhanced module mounting.    It's best to ensure that the version numbers of the flashable ROM and the file manager are consistent to avoid unnecessary problems.
-
-Delta Manager: Click to view
-
-Delta version SIM card swipe package: Click to view
-MAGISK Mask Lite Version
-
-    Initially released as a root manager, it did not offer module support. However, later versions restored module support. In whitelist mode, all applications are hidden by default, and only selected applications can obtain superuser privileges.
-
-    It's best to ensure that the version numbers of the flashable ROM and the file manager are consistent to avoid unnecessary problems.
-
-Lite version of Mask Manager: Click to view
-
-Lite version of the mask swipe pack: Click to view
-
-Mask customization channel: Click to view
-
-Mask font: Tsukushi Maru: Click to view
-
-Mask Module Collection: Click to view
-
-IMG_20240111_141329141538190626.png
-【APatch】
-
-    APatch is a new root solution following Magisk and Kernel SU, supporting kernel-level rooting, but offering more features. It supports kernel modules and Magisk modules; some modules, such as lsposed, require flashing a ZygiskNext module to function.
-
-APatch: Click to view
-
-ZygiskNext: Click to view
-
-How to use: Click to view
-
-More detailed usage instructions (requires VPN): Click to view
-
-2022-02-02_14-27-30776778.png
-【LSPOSED】Framework - (Android 8.1-12)
-
-Riru module: Click to view
-
-LSPosed official version: Click to view
-
-LSPosed beta version: Click to view
-
-Available Android 8.0 versions: Click to view
-
-IMG_20220220_144538780.png
-【EDXPOSED】Framework - (Android 8.0-11)
-
-EDxposed Manager (Branch Enhanced Version): Click to view
-
-EdXposed Manager (Official Version): Click to view
-
-EdXposed Manager (Official Early Access Version): Click to view
-
-Riru module: Click to view
-
-Edxposed Alpha (S version): Click to view
-
-Edxposed Alpha (Y version): Click to view
-
-Edxposed Canary (S and Y versions): Click to view
-
-IMG_20220220_150153781783.png
-【DREAMLAND】Dream Frames - (Android 7.0-12)
-
-Riru module: Click to view
-
-Dream Manager: Click to view
-
-Magisk-Dreamland: Click to view
-
-IMG_20220220_152839785.png
-Rootless XPOSED framework
-
-Tianjian: (Enter 0000, long press D, tap "Visit" in the upper right corner to get the password): Click to view
-
-Tai Chi: Click to view
-
-Application Rebirth: Click to view
-
-VirtualXposed: Click to view
-
-SandVXposed: Click to view
-
-God's Hand: Click to view
-
-VMOS Pro (Virtual Master): Click to view
-
-SlimVXP: Click to view
-
-BlackBox: Click to view
-
-LSPatch Stable Version: Click to view
-
-LSPatch beta version: Click to view
-
-X Open: Click to view
-
-IMG_20220220_161114788.png
-[XP Module] TikTok Module
-
-TikTok Assistant: Click to view
-
-Douyin+: Click to view
-
-TikTok Companion: Click to view
-
-AdAway: Click to view
-
-I'll take your life three thousand times: Click to view
-
-Nono no um: Click to view
-
-HookBox: Click to view
-
-CJ7: Click to view
-
-Little Pigeon (Video download without watermark): Click to view
-
-Destiny (formerly LanFeng): Click to view
-
-Douyin Master: Click to view
-
-VodkaMod: Click to view
-
-DestinyImm (TikTok Immersive Module): Click to view
-
-Freedom: Click to view
-
-IMG_20240112_075424080005.png
-[XP Module] Ant Forest Module
-
-    Ant Forest 🌱 Automatic watering, energy collection, chicken feeding, check-in...
-
-Crystal version: Click to view
-
-Autumn Wind Version: Click to view
-
-Crayon Shin-chan version: Click to view
-
-Rainy Season Version: Click to view
-
-Sesame seeds: Click to view
-
-Sesame Paste X: Click to view
-
-IMG_20240112_075424081539.png
-[XP Module] Hide Application List
-
-    This module provides several hiding methods for specific software to avoid detection.
-
-Hide app list: Click to view
-
-Riru-Hide My Applist: Click to view
-
-Application list detector: Click to view
-
-Hidden Space: Click to view
-
-IMG_20240112_075424082040.png
-[XP Module] Core Crack
-
-    Allow downgraded app installation, disable package manager signature verification, disable APK signature verification
-
-Core crack 3.8 (Android 10-12): Click to view
-
-Core crack 2.2 (Android 9-10): Click to view
-
-Core crack 2.1 (Android 8.x): Click to view
-
-Core Hack 2.0 (Android 7.x): Click to view
-
-Core crack 1.4 (Android 4.x-6.x): Click to view
-[XP Module] Application Management Module
-
-Application Management: Click to view
-
-Prevent execution: Click to view
-
-Green Guardian: Click to view
-
-Application Controller: Click to view
-
-Thanos: Click to view
-
-DeepSleep (Controls application background wake-up): Click to view
-
-Automatic Tombstone Backend: Click to view
-
-NoActive (Tombstone): Click to view
-
-MiTlite (Tombstone Module): Click to view
-
-DMINI_8aef76ad581e7105.jpg
-[XP Module] Fingerprint Payment Module
-
-Xposed version: Click to view
-
-Riru version of the mask: Click to view
-
-Zygisk version of the mask: Click to view
-[XP Module] Cancel dialog box
-
-Cancel dialog box: Click to view
-
-Cancel beta version in dialog box: Click to view
-
-Dialog box unfixed version: Click to view
-
-Cancel the new version of the dialog box: Click to view
-
-Dia (Cancel the new version of the dialog box) Click to view
-
-v2-21786f18225c06f4d135082d97ecc7b3_1440w083937.png
-[XP Module] Privacy Protection Module
-
-My privacy: Click to view
-
-X Privacy Protection: Click to view
-
-XPrivacyLua: Click to view
-
-Release my clipboard: Click to view
-
-v2-21786f18225c06f4d135082d97ecc7b3_1440w090052.png
-[XP Module] Application Cracking Module: Allows you to get some software and single-player games for free.
-
-vipHook: Click to view
-
-GodVip: Click to view
-
-BuyTool Lucky In-App Purchase: Click to view
-
-BuyTool User Guide: Click to view
-
-Heavenly Emperor VIP (Cracked App VIP): Click to view
-
-Dao Dao Dao (Cracked App VIP): Click to view
-
-Jasi cracker: Click to view
-
-simpleVip: Click to view
-
-mHook Manager: Click to view
-
-esXplorer (Cracked ES File Explorer VIP): Click to view
-
-Hook module: Click to view
-
-KModule (Cracked VIP Software): Click to view
-
-WuWei (VIP access to some cracked software): Click to view
-
-Wild Grass Collection: (Cracked VIP access to some novel reading software) Click to view
-
-Coolhook: Click to view
-
-Hippo Video and other universal modules: Click to view
-
-Master Brother Film and Television Module: Click to view
-
-Feigua Video and other compatible modules: Click to view
-
-Xiaocao Video All-in-One Module: Click to view
-
-Fuck VIP (Cracked VIP for some apps): Click to view
-
-Fuck Light Speed ​​Virtual Machine XP Module: Click to view
-
-JsHook (Cracked VIP Software): Click to view
-
-VIP Kill (Cracks VIP for Some Software): Click to view
-
-UnlockVIP (Crack some software VIPs): Click to view
-
-Hooker (Cracks some software VIP): Click to view
-
-FCHook (VIP access to cracked software): Click to view
-
-VMOS Pro++ (Virtual Machine Cracking Module): Click to view
-
-Fuck VMOS Pro (virtual machine hacking module): Click to view
-
-Fuck MP3 Extractor Converter: Click to view
-
-VIP for Yuki (VIP access to some cracked software): Click to view
-
-Hook VIP (Crack some software VIPs): Click to view
-
-FakeFL (Fake Location module): Click to view
-
-Enjoy premium membership services (VIP access to some software): Click to view
-
-VIP module (cracked VIP access to some software): Click to view
-
-MyApp (Cracked VIP for Some Software): Click to view
-
-Lucky Patcher: Click to view
-
-MyHook (Cracked VIP Software): Click to view
-
-Dawn Break (Cracked VIP Software): Click to view
-
-Fuck VIP: (Cracked VIP software) Click to view
-
-Fuck for VIP (Code unlocks some software membership and ad-removal modules): Click to view
-
-Hook Tools (Crack some software VIP): Click to view
-
-IMG_20220221_2130196276.png
-[XP Module] Kuwo Music Module
-
-Kuwo and Kugou VIP: Click to view
-
-Kuwo Enhancement Plugin: Click to view
-
-Kuwo VIP: Click to view
-
-Kuwo Enhancement: Click to view
-
-Love Cool Me: Click to view
-
-IMG_20221011_1538532889.png
-[XP Modules] Collection of WeChat Enhancement Modules
-
-V++: Click to view
-
-Nuwa Stone: Click to view
-
-Micro-exercise: Click to view
-
-Micro X Module: Click to view
-
-WeChat groups: Click to view
-
-WeChat group messaging: Click to view
-
-WeChat close friends: Click to view
-
-WeChat Enhancements: Click to view
-
-WeChat Meme Battle: Click to view
-
-Enjoy WeChat: Click to view
-
-Enterprise Assistant: Click to view
-
-Learn English on WeChat: Click to view
-
-TSBattery (Power Saving Module): Click to view
-
-Simulate WeChat's Shake feature: Click to view
-
-MDWechat (WeChat customization): Click to view
-
-To hell with WeChat's news feed: Click to view
-
-I don't need confirmation: Click to view
-
-QQCleaner Lite (a lightweight, streamlined module): Click to view
-
-QQ Slimming Module (QQ/TIM/WeChat Cache and Junk Cleaner): Click to view
-
-Disable WeChat signature verification: Click to view
-
-Feige Legend (Enterprise WeChat Red Envelope Grab): Click to view
-
-Enterprise Micro-Henchman (Taking over Enterprise WeChat Location Services): Click to view
-
-WeChat Pad (Enable simultaneous login on mobile and tablet): Click to view
-
-WeChat Group Message Assistant: Click to view
-
-WeChat Face Mask: Click to view
-
-Leap February (WeChat Enhancement Module): Click to view
-
-20220220194848Aicy-1798.png
-[XP Modules] Collection of QQ Enhancement Modules
-
-QN (Enhancement Module): Click to view
-
-QX (Enhanced Module): Click to view
-
-Green Bean (Enhanced Module): Click to view
-
-QScript module: Click to view
-
-H.entai.Q (Enhanced Module): Click to view
-
-ColorQQ2 (Theme Customization): Click to view
-
-XAutoDaily (Automatic Check-in): Click to view
-
-Flower Q: Click to view
-
-QQ power saving module: Click to view
-
-QQ Cleanup: Click to view
-
-QQ Slimming (Cache Cleanup): Click to view
-
-TSBattery (Power Saving Module): Click to view
-
-QAuxiliary (Enhancement Module): Click to view
-
-QQCleaner Lite (a lightweight, streamlined module): Click to view
-
-QTool (QQ Enhancement Module): Click to view
-
-Little Colorful Bean (QQ Auxiliary Module): Click to view
-
-QQ Repeater: Click to view
-
-TL_ing (QQ Enhancement Module): Click to view
-[XP Module] System Enhancement Module
-
-XP Translate: Click to view
-
-Global copy: Click to view
-
-Forced screenshot: Click to view
-
-Fingerprint payment: Click to view
-
-Locked notification: Click to view
-
-Custom text: Click to view
-
-Hammer BigBang: Click to view
-
-Fake WiFi connection: Click to view
-
-Remove screenshot delay: Click to view
-
-Accessibility - Daemon: Click to view
-
-Mi Window - Global Mini Window: Click to view
-
-Native music notification bar: Click to view
-
-SMS verification code extraction: Click to view
-
-Navigation bar extension module: Click to view
-
-xSuite (Change App Icon): Click to view
-
-Xposed Edge Pro (Edge Gestures): Click to view
-
-iPlayMachines - Installer Takeover: Click to view
-
-Prevent update: Click to view
-
-Flat Style Bar Indicators (Status Bar Customization): Click to view
-
-Clipboard Filter: Click to view
-
-Lyrics in the status bar: Click to view. Use in conjunction with (Wine Domain - Lyrics Acquisition).
-
-Lyrics for Wine Domain: Click to view
-
-Volume Level +: Click to view
-
-Non-disabled (pretending not to use accessibility services): Click to view
-
-SkyOlin Assistant (Split Screen): Click to view
-
-Hidden Space: Click to view
-
-Free screen rotation: Click to view
-
-Reject forced brightness: Click to view
-
-Set app to full screen: Click to view
-
-Process lock: Click to view
-
-Force Dark - Force Dark Mode: Click to view
-
-NekoSMS - Spam SMS Blocker: Click to view
-
-HideZoomWindow (hides the small window from screenshots and screen recordings): Click to view
-[XP Module] Fake Device Information
-
-App disguise: Click to view
-
-Application variables: Click to view
-
-Playful Gadgets - App Disguise: Click to view
-
-Mobile viewer: Click to view
-
-Android Faker: Click to view
-
-Device ID Changer: Click to view
-
-Guise - Applying Variables: Click to view
-[XP Module] Storage Redirection
-
-    Redirect the paths of folders and files created by applications in the SD card directory to prevent applications from leaving unnecessary files in the SD card directory.
-
-Storage redirection: Click to view
-
-XInternalSD: Click to view
-
-LT NoLitter Remastered: Click to view
-
-Media storage device management: Click to view
-
-IMG_20220221_153614822.png
-[XP Module] Powerful Nation Assistant Module
-
-    Simulates clicks, freeing your hands; a must-have app for students. Features include point-based execution, sequential execution, challenge quizzes, weekly quizzes, two-player battles, and four-player battles.
-
-Dominant Nation: Click to view
-
-Want Want Power: Click to view
-
-School Lei Feng Strengthens the Nation: Click to view
-
-Achaebol Powerhouse: Click to view
-
-Advanced Power: Click to view
-
-Learning Machine Powerhouse: Click to view
-
-Automatic Learning Power: Click to view
-
-Time Power: Click to view
-
-Learning Assistant: Click to view
-
-AI Powerhouse: Click to view
-
-One-click to strengthen the nation: Click to view
-
-A technologically advanced nation: Click to view
-
-A Master of National Strength: Click to view
-
-Learn from the strength of a powerful nation: Click to view
-
-IMG_20221011_1552062891.png
-[XP Module] Virtual Location
-
-    It can simulate a fake geographical location.
-
-Simulated location: Click to view
-
-lataclysm: Click to view
-
-X-Location Protection: Click to view
-
-Cancel beta version in dialog box: Click to view
-
-Virtual location: Click to view
-
-aca24bc17f1092792882.png
-[XP Module] Translation Module
-
-    Translate the text within the app into Chinese
-
-AllTrans: Click to view
-
-AllTrans User Guide: Click to view
-
-Learn English on WeChat: Click to view
-
-XP Translate: Click to view
-
-20220221084110Aicy799.png
-[XP Modules] A Collection of MIUI System-Specific Modules
-
-XMiTools: Click to view
-
-Xiaomi Air Purifier: Click to view
-
-MIUI Global High Frame Rate: Click to view
-
-MIUI 12 Dual Status Bar: Click to view
-
-Unlock MIUI keyboard optimization: Click to view
-
-Miui Home Desktop Enhancement Module: Click to view
-
-ChiMi (MIUI Enhanced Module): Click to view
-
-CustoMIUIzer (MIUI Dedicated): Click to view
-
-MIUI Dual App Restriction Removal Module: Click to view
-
-Remove the system camera shutter sound module: Click to view
-
-Aiwanji - MIUI Installer: Click to view
-
-MIUI Advanced Settings - Click to view
-
-Rice Water (MIUI Ad Removal Module): Click to view
-
-Mind your own business (kill the barrier-free wait of ten seconds): Click to view
-
-MIUI accent colors: Click to view
-
-MIUltra (MIUI 12.5 extension): Click to view
-
-Xiaomi Sports Hook: Click to view
-
-Status bar lyrics: Click to view
-
-Xiaomi Push Enhancement Module: Click to view
-
-Hide MIUI Warrior icon: Click to view
-
-AppLock (prevents specific apps from being killed or cleared with a single swipe): Click to view
-
-MiCode (Xiaomi Browser Enhancement Module): Click to view
-
-Independent second display: Click to view
-
-MIUI native notification icons: Click to view
-
-Whole grains: Click to view
-
-Xiaomi Translate+: Click to view
-
-MIUI Time Display in Seconds: Click to view
-
-Unlock Xiaomi Miao: Click to view
-
-WooBoxForMIUI (MIUI 13 System Extension): Click to view
-
-Unlock MIUI+: Click to view
-
-No Kami allowed: Click to view
-
-MIUI theme hack: Click to view
-
-MIUI Toolbox: Click to view
-
-AppLock (prevents apps from being killed by swiping or allows for one-click cleanup): Click to view
-
-MIUI Performance Savior: Click to view
-
-MaxFreeForm (Remove MIUI 13 Multi-Window Restriction): Click to view
-
-MiuiMediaEditor (MIUI Gallery Enhancement Module): Click to view
-
-MIUI Mask Evolution: Click to view
-
-MIUI Modified Native Installer: Click to view
-
-Ink & Table: Click to view
-
-AutoNFC: Click to view
-
-MIUI QOL (System Enhancement Module): Click to view
-
-MIUI Screen Recording Evolution: Click to view
-
-Xiaomi is in trouble: Click to view
-
-MiTlite (Tombstone Module): Click to view
-
-MIUI Installer Evolution: Click to view
-
-Miller (MUI power optimization module): Click to view
-
-Your marketing messages are basically all ads: Click to view
-
-MIUI Update & Evolution: Click to View
-
-WINI - Floating Notification Blur Module: Click to view
-
-5G switch: Click to view
-
-MIUI notification fix: Click to view
-
-BetterMiuiExpress (directly displays package information on the negative one screen): Click to view
-
-Enhanced portal: Click to view
-
-MIUI FreeFormX: Click to view
-
-Cemiuiler-MIUI System Enhancement Module: Click to view
-
-StarVoyager (System Enhancement): Click to view
-
-IMG_20220221_085858801.png
-[XP Modules] Collection of Flyme System Dedicated Modules
-
-FXposed: Click to view
-
-Flyme Assistant: Click to view
-
-Flyme 10 Assistant: Click to view
-
-MZXPT (Meizu Toolbox): Click to view
-
-Flyme Toolbox: Click to view
-
-IMG_20220422_1925241225.png
-[XP Modules] Collection of ColorOS System Dedicated Modules
-
-Everything: Click to view
-
-OnePlus Expansion: Click to view
-
-OnePlus Hydrogen Oxygen Theme: Click to view
-
-OnePlus fingerprint extension: Click to view
-
-OnePlus status bar network speed: Click to view
-
-ColorOSTool System Enhancement Module: Click to view
-
-WooBox for ColorOS: Click to view
-
-Enhanced ColorOS notification icons: Click to view
-
-LuckyTool: Click to view
-
-ColorOS6 (System Enhancement Module): Click to view
-
-OxygenCustomizer (System Enhancement): Click to view
-
-20220221091208Aicy804.png
-[XP Modules] NetEase Cloud Music Module Collection
-
-Cloud Village Cleaners: Click to view
-
-Dolby Big Speaker Beta: Click to view
-
-UnblockMusic Pro: Click to view
-
-NetEase Cloud Music Plugin: Click to view
-
-Album cover cannot be rotated: Click to view
-
-NetEase Diaomao Cloud: Click to view
-
-IMG_20220221_113124805.png
-[XP Module] Weibo Cleanup Module
-
-Weibo+: Click to view
-
-AdAway: Click to view
-
-Weibo Assistant: Click to view
-
-This is truly a lightweight experience (Weibo Lite/Lite version, ad-free): Click to view
-
-20220221141156Aicy809828.png
-[XP Module] Baidu Tieba Cleanup Module
-
-Baidu Tieba Companion: Click to view
-
-Baidu Tieba Assistant: Click to view
-
-Tieba TS (Tieba Cleanup): Click to view
-
-Lianbi module: Click to view
-[XP Module] CCB & ICBC Module: Ignore ROOT Detection Module
-
-China Construction Bank Killer: Click to view
-
-China Construction Bank's root-ignore fixed version: Click to view
-
-BankRX (ICBC and CCB): Click to view
-
-Infernal Affairs (Agricultural Bank of China, Industrial and Commercial Bank of China, Anti-Fraud Center blocks root detection): Click to view
-
-20220221142448Aicy812.png
-[XP Module] Bilibili Enhancement Module
-
-Bilibili Roaming: Click to view
-
-Bilibili Patch: Click to view
-
-Lianbi module: Click to view
-
-FuckBilibiliVote (Fuck your mother's Bilibili video pop-up): Click to view
-
-Do not use portrait mode: Click to view
-
-Bilibili Roaming X: Click to view
-
-Bilibili VIP video quality: Click to view
-
-IMG_20220529_0705171935.png
-Novel cracking module
-
-Tomato Novel Hook VIP Module: Click to view
-
-Novel Hook module: Click to view
-
-Wild Grass Collection: Click to view
-
-Tomato Novels: Click to view
-
-Tomato Killer: Click to view
-
-S21011-144657422890.png
-[XP Module] Motion Modification Module
-
-    Modify your step count and show off effortlessly!
-
-Motion Modifier: Click to view
-
-Motion Accelerator: Click to view
-
-Sports simulator: Click to view
-[XP Module] Status Bar Color Change
-
-Weiju Old Version: Click to view
-
-New version of Weju: Click to view
-
-PerfectColorBar: Click to view
-
-Automatic immersive status bar: Click to view
-[XP Module] Hides Root and Xposed from being detected.
-
-RootCloak (Hidden Root): Click to view
-
-Zuper (hides Xposed and Root): Click to view
-
-Hide app list: Click to view
-
-XposedHider (Hidden Xposed): Click to view
-
-SudoHide (Hide Xposed): Click to view
-[XP Module] Bypassing VPN Detection
-
-NoVPNDetect: Click to view
-
-Bypass VPN detection: Click to view
-
-Algorithm Assistant: Click to view
-
-Dialbox: Click to view
-[XP Module] Gravity Toolbox
-
-GravityBox [Android 8]: Click to view
-
-GravityBox [Android 9]: Click to view
-
-GravityBox [Android 10]: Click to view
-
-GravityBox [Android 11]: Click to view
-
-IMG_20221011_1519312886.png
-[XP Module] Ad Removal Module
-
-Fast-Moving Consumer Goods (FMCG): Click to view
-
-Great Sage Purification: Click to view
-
-Great Sage Purification - Magisk Version: Click to view
-
-Wukong Accelerator: Click to view
-
-AdBlocker: Click to view
-
-Lianbi module: Click to view
-
-Xianyu Assistant: Click to view
-
-Telegram Ad Blocker: Click to view
-
-Telegram ad-blocking module: Click to view
-
-Twitter ad-free module: Click to view
-
-Twitter Ad Eater: Click to view
-
-FuckCoolapkR - Ad-removal module on Coolapk: Click to view
-
-VideoAdKill (Ad-removal module for Tencent, Youku, iQiyi, and Huya): Click to view
-
-ZuiYouHook ad-free module: Click to view
-
-Screw your ads: Click to view
-
-FuckAD - Fuck Ads: Click to view
-
-Splash screen assistant: Click to view
-
-IMG_20220221_143749814.png
-[XP Modules] Pipi Shrimp Kuaishou Module Collection
-
-Kuaishou+: Click to view
-
-AdAway: Click to view
-
-Nono no um: Click to view
-
-Pipi Shrimp Assistant: Click to view
-
-I'll take your life three thousand times: Click to view
-
-Pipi Funny Assistant: Click to view
-
-S21011-150318612888.png
-[XP Module] Xiaohongshu Module
-
-AdAway: Click to view
-
-Xiaohongshu: Click to view
-
-Xiaohongshu+: Click to view
-
-Sweet Potato and Pig Trotters: Click to view
-
-IMG_20221011_1555412892.png
-[XP Module] DingTalk Module
-
-DingTalk Check-in: Click to view
-
-DingTalk Assistant: Click to view
-
-DingTalk Anti-Recall Tool: Click to view
-
-DingTalk Enhancements: Click to view
-
-Hammer: Click to view
-
-IMG_20221011_1524592887.png
-[XP Module] Telegram Module
-
-TMoe (Telegraph Enhancement Module): Click to view
-
-Telegram Ad Blocker: Click to view
-
-Telegram ad-blocking module: Click to view
-
-TeleSpeed ​​(improves Telegram download speed): Click to view
-
-Telegram Helper: Click to view
-
-TG++: Click to view
-
-Telegram Assistant: Click to view
-
-Re-telegram: Click to view
-
-IMG_20221016_0037052984.png
-[XP Module] YouTube Module
-
-YouTube AdAway: Click to view
-
-YouTube Assistant: Click to view
-[XP Modules] Other Module Collection
-
-Algorithm Assistant (Hook Tool): Click to view
-
-God Mode: Click to view
-
-Heavenly Emperor Mode: Click to view
-
-Scheduled cleanup (clean up files and folders): Click to view
-
-Xposed Blacklist (Disable Xposed): Click to view
-
-AllTrans (In-App Translation): Click to view
-
-Go to your grandpa's built-in browser: Click to view
-
-One-click sharing (video without watermark): Click to view
-
-Zhiliao (Zhihu Enhancement Module): Click to view
-
-Traffic 12123 blocks root detection: Click to view
-
-Mask Hide Enhancement Module: Click to view
-
-You just long-pressed to copy and access: Click to view
-
-Navigation bar extension module: Click to view
-
-Today's Headlines+: Click to view
-
-Pretend to share: Click to view
-
-Magisk Hide (Mask Enhancement Module): Click to view
-
-Tai Chi Renewal Treasure (Tai Chi Yin Specific): Click to view
-
-A module that will make you think, "Holy crap!": Click to view
-
-App Settings Reborn Version: Click to view
-
-Lark Assistant: Click to view
-
-Data filtering: Click to view
-
-Alibaba's Xposed anti-detection system: Click to view
-
-Taofanfan (Automatic Coupon Claim): Click to view
-
-Pinduoduo's No-Buy Assistant: Click to view
-
-JD.com historical prices: Click to view
-
-Momo bulk messaging module: Click to view
-
-DDex Unpacking (XP): Click to view
-
-DJkwaiching (Cracked Music VIP): Click to view
-
-Blued module: Click to view
-
-King of Glory Wi-Fi Information Hijacking: Click to view
-
-Pipeline module collection: Click to view
-
-Xiaocao Video Assistant: Click to view
-
-VCAM (Virtual Camera): Click to view
-
-Anime Home Enhanced Module: Click to view
-
-Xposed Tool (One-click to embed XP modules): Click to view
-
-Alipay's "Show Off" Module: Click to view
-
-Money Tracker Automatic Accounting Plugin: Click to view
-
-AnyDebug (Modify application layout parameters): Click to view
-
-Bypass VPN detection: Click to view
-
-Fuck cloud injection (disable cloud injection pop-up): Click to view
-
-QDReadHook: (Qidian Reading Enhancement Module): Click to view
-
-QQ Music Assistant (QQ Music Purifier): Click to view
-
-Download Redirect Module - (Invokes ADM Downloader): Click to view
-
-Do not region lock (remove regional restrictions): Click to view
-
-IMG_20221018_1629403004.png
-[APP] Tech Assistant
-
-    Essential software for gaming
-
-Tech Assistant (Unavoidable Love) Original Author: Click to view
-
-Gadget Remastered Version (by an internal staff member of Kuaibo): Click to view
-
-Gadget Assistant 2 (Hug Cat People11): Click to view
-
-Tech Enthusiast (Unavoidable): Click to view
-[APP Sharing] Magisk, lsposed, xposed modules, root detection tool
-
-ApplistDetector: Click to view
-
-Native Test (Nutouren): Click to view
-
-Momo: Click to view
-
-Hunter: Click to view
-
-IMG_20221018_1604323003.png
-[APP] SSH Terminal Tool
-
-JuiceSSH: Click to view
-
-ConnectBot: Click to view
-
-Primitive ftpd: Click to view
-
-SSH-Termius: Click to view
-[APP] Third-party YouTube channel - ad-free and clean.
-
-Vanced: Click to view
-
-𝐏𝐮𝐫𝐞𝐓𝐮𝐛𝐞𝐫: Click to view
-
-LibreTube: Click to view
-
-YouTube_ReVanced: Click to view
-[APP] Third-party Telegram
-
-POFEN Magic Edition (Built-in Proxy): Click to view
-
-Nekogram X (Built-in Agent): Click to view
-
-Nagram (built-in proxy): Click to view
-
-Nekogram (Built-in Agent): Click to view
-
-GuGugram (requires a VPN): Click to view
-
-Telegraph (Built-in Proxy - Many Features): Click to view
-
-TelegramX (supports SMS verification code login): Click to view
-[APP] File Manager
-
-RE File Manager: Click to view
-
-ES File Explorer Premium Edition: Click to view
-
-NP Manager: Click to view
-
-ES File Explorer (Beautified Version): Click to view
-
-RS File Manager: Click to view
-
-SE File Manager: Click to view
-[APP] Terminal Emulator
-
-Termux: Click to view
-
-ZeroTermux: Click to view
-
-UTermux: Click to view
-
-Terminal emulator: Click to view
-
-Ansole: Click to view
-
-NeoTerm: Click to view
-[APP] JAVA Simulator
-
-J2ME Loader: Click to view
-
-Retro2ME: Click to view
-[APP] App hardening and unpacking tool
-
-BlackDex: Click to view
-
-fdex2: Click to view
-
-Micro-shelling: Click to view
-
-Reflection Master: Click to view
-
-DDex Unpacking (XP): Click to view
-
-DITOR - Unpacking Tool: Click to view
-[APP] Backup Tool
-
-Titanium Backup: Click to view
-
-Super Backup: Click to view
-
-Backup Toolbox: Click to view
-
-Data backup: Click to view
-[APP] Online video playback software
-
-Planet Video: Click to view
-
-American TV Series Bird: Click to view
-
-TV Home 3.0: Click to view
-
-Xiaocao Movies: Click to view
-
-American TV Series Planet: Click to view
-[APP] Apk Editing Tool
-
-Apk Editor: Click to view
-
-APK Editor R3: Click to view
-
-Apktool M (Apk decompiler): Click to view
-
-NP Manager: Click to view
-
-MT Manager: Click to view
-[APP] Application frozen
-
-Hail: Click to view
-
-Refrigerator: Click to view
-[APP] Download Tool
-
-ADM (Download Tool): Click to view
-
-IDM+ (Download Tool): Click to view
-
-Lightning-fast download: Click to view
-
-Torrent Player: Click to view
-
-Torrent/Magnet Downloader: Click to view
-
-MagnetCloud Premium Version: Click to view
-
-tTorrent torrent downloader: Click to view
-
-Lazy Bear Download: Click to view
-
-Hulk Download: Click to view
-
-High-speed download: Click to view
-
-Bingbing Magnet Downloader: Click to view
-
-Offline Cloud: Click to view
-
-Thunder Unlimited Speed ​​Version: Click to view
-
-Download via KuaiNiao: Click to view
-
-All-in-one download: Click to view
-
-Rocket BT Downloader: Click to view
-
-Peregrine Downloader: Click to view
-
-Download Toolbox: Click to view
-
-Download Wukong: Click to view
-[APP] HiShoot2i (with screenshots)
-
-    Screenshot with a case, as the name suggests, is like putting a phone case on a screenshot, adding a proportionally sized frame to the screenshot to create a rendered image that rivals an advertisement.
-
-HiShoot2i Chinese version: Click to view
-
-Featured Templates (Lanzou Cloud): Click to view
-
-Template preview: Click to view
-
-Other templates (Baidu Cloud): Click to view. Extraction code: h368
-
-Some template preview images: Click to view
-[APP] SMS spoofing
-
-    Add SMS messages to your local device with one click. You can set it to receive messages from anyone, just like a normal SMS message. This application is for entertainment purposes only!
-
-Fake SMS messages: Click to view
-[APP] Packet capture tool
-
-HttpCanary (Little Yellow Bird): Click to view
-
-Wicap (Android sniffer): Click to view
-
-Packet Capture (no root required): Click to view
-
-Packet Detector: Click to view
-[APP] MacroDroid Smart Trigger
-
-    A task automation configuration tool; if you can think of it, it can do it. It's powerful, similar to Tasker and Xposed Edge.
-
-MacroDroid: Click to view
-
-Auxiliary modules: Click to view
-
-Automatic email sending plugin: Click to view
-【YX】Nostalgic Mini-Games
-
-Plants vs. Zombies 1 Collection: Click to view
-
-Plants vs. Zombies North American Chinese Version: Click to view
-
-Lone Shooter Collection: Click to view
-
-IMG_20220220_152839785821.png
-[APP] Application Sharing
-
-UC Browser (Ad-free version): Click to view
-
-QQ Browser (Ad-free version): Click-through rate
-
-Sharingan (Disabled Service): Click to view
-
-Internet speed test: Click to view
-
-Say Goodbye to Temperature Control (Delete Temperature Control): Click to view
-
-Image Assistant (Extract, Flash REC): Click to view
-
-TWRP (Download and flash TWRP): Click to view
-
-Cellular-Pro (Band Lock): Click to view
-
-APK Editor: Click to view
-
-Microsoft Remote Desktop: Click to view
-
-Lyrics matching (download from NetEase Cloud Music): Click to view
-
-QuickPic Browser (Modified Version): Click to view
-
-China Unicom Business Hall (Remove Advertisement): Click to view
-
-Black threshold (prevents execution): Click to view
-
-Iodine Tincture Editor (Sparkling Iodine Tincture): Click to view
-
-UnionPay QuickPass (Google version): Click to view
-
-Nova Desktop: Click to view
-
-Titanium Backup: Click to view
-
-A knock-off Google Play Store: Click to view
-
-Aptoide Open Source App Store: Click to view
-
-Third-party YouTube channel (no ads): Click to view
-
-Photo editor: Click to view
-
-Virtual camera (uses photos from your album to pretend you're taking pictures): Click to view
-
-Telegram (Chinese version): Click to view
-
-Telegram Magic Edition (with built-in kick): Click to view
-
-NekogramX (a third-party Telegram service with built-in kicker): Click to view
-
-King's Privilege Acquisition: Click to view
-
-SD Maid Premium Version: Click to view
-
-Asoft Background Removal Member Version: Click to view
-
-Automatic brick-saving function by a god: Click to view
-
-MX_Player video player: Click to view
-
-Lanyun (a third-party cloud computing platform): Click to view
-
-Xunyou Mobile Game Accelerator (VIP Version): Click to view
-
-Tencent Mobile Game Accelerator (Modified Version): Click to view
-
-See third-party Weibo posts: Click to view
-
-HiGo Google Framework Installer: Click to view
-
-Status Bar Lyrics - Premium Version: Click-through rate
-
-Li Tiaotiao (Automatically skip ads): Click to view
-
-One-finger Zen (Automatically skip ads): Click to view
-
-AetherSX2 (PS2 game emulator): Click to view
-
-Lucky Patcher: Click to view
-
-Andronix (installing Linux on your phone): Click to view
-
-Screen translation: Click to view
-
-MIUI Downloader: Click to view
-
-Two Elements (Android Container): Click to view
-
-TikTok (international version): Click to view
-
-Windmill Anime Modified Version: Click to view
-
-Lanyun (Lanzou Cloud third-party client): Click to view
-
-Mask root permission switch: Click to view
-
-Beautify (Mobile Theme Creation): Click to view
-
-Beetle ADB Assistant: Click to view
-
-AccubatteryPro - Precise Battery Level: Click to view
-
-Cleaning (Garbage Removal): Click to view
-
-Green Ad Removal (Automatically Skip Splash Screen Ads): Click to view
-
-Coolapk Ad-Free Version: Click to view
-
-Momo (Detection Tool): Click to view
-
-Cosmic Toolbox: Click to view
-
-Today's Watermark Camera (Time can be changed): Click to view
-
-V-AB Update Helper (System ROM Update Tool): Click to view
-[WX] Micro Theme
-
-    The WeChat theme customization feature requires a tip to activate.
-
-    Theme download: https://nalankang.lanzn.com/b00u44cpg
-
-Micro X Theme (Comic): Click to view
-
-Micro X Theme "Obito and Rin": Click to view
-
-Micro X Theme: Q Version Spider-Man: Click to view
-
-MicroX Theme "Untitled": Click to view
-
-Chat wallpapers: Click to view
-[WJ] Tech Tips
-
-Tutorial on creating SIM card flashable ROMs on mobile devices: Click to view
-
-Meizu 16T Unlock Tutorial (Pure Mobile App): Click to View
-
-Tutorial on preventing accidenion of files on your phone: Click to view
-
-Meizu phone original flash package: Click to view
-
-Tutorial on customizing application names: Click to view
-
-UC Browser Startup Ad Removal Tutorial: Click to view
-
-Solution for SELinux not being in strict mode: Click to view
-
-Tutorial on disabling app launch page ads: Click to view
-
-Translate English software into Chinese: Click to view
-
-Repair boot installation mask tutorial: Click to view
-
-Tutorial on hiding root access after enabling Zygisk with Mask: Click to view
-
-2022_0114_124720-1820.png
-PC-based tool collection
-
-Autumn Box: Click to view
-
-ADB tools: Click to view
-
-Qualcomm full range of drivers: Click to view
-
-ADB & FastBoot drivers: Click to view
-
-Gadget Toolbox: Click to view
-
-Gadget Assistant PC Version: Click to view
-
-CMD Command Version of Gadget Assistant: Click to view
-
-Xiaomi Flash Tool After-Sales Version: Click to view
-
-Qualcomm 9008 flashing tool: Click to view
-
-Baidu Cloud unlimited speed download tool: Click to view
-About
-
-Backup of the application collection shared by the expert Midnight God [Gitee repository link below] https://gitee.com/grbnb/xp_module.git
-grbnb.suiyue.tk/
+RESOURCE LIST — Original by: CoolApk - Midnight God (http://www.coolapk.com/u/462071)
+
+Lanzou Cloud Drive Unified Password: OJBK
+Update Collection: https://flowery-espadrille-695.notion.site/7e52fb27108d4b7099aa6245a4d1d9eb
+Donate: https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/vt6sid
+Telegram Channel: http://t.me/OJBK2333
+
+================================================================
+MAGISK — STABLE VERSION
+================================================================
+Note: Keep flash zip and manager version numbers consistent.
+
+Magisk Flash Zip: https://nalankang.lanzouo.com/b00u7gexg
+Magisk Manager: https://nalankang.lanzouo.com/b00u7gcij
+
+================================================================
+MAGISK — CANARY VERSION
+================================================================
+Note: Keep flash zip and manager version numbers consistent.
+
+Canary Manager: https://nalankang.lanzouo.com/b00v4q5yb
+Canary Flash Zip: https://nalankang.lanzouo.com/b00v2ob6f
+Shamiko (Hide MagiskHide): https://nalankang.lanzouo.com/b00v9d09i
+
+================================================================
+MAGISK — ALPHA VERSION
+================================================================
+Author: vvb2060, based on Canary with additional new features.
+Note: Keep flash zip and manager version numbers consistent.
+
+Alpha Manager: https://nalankang.lanzouo.com/b00uotzpe
+Alpha Flash Zip: https://nalankang.lanzouo.com/b00uotyle
+Shamiko (Hide MagiskHide): https://nalankang.lanzouo.com/b00v9d09i
+
+================================================================
+MAGISK — DELTA VERSION
+================================================================
+Author: HUSKYDG
+Features: Brick protection, core mode switch, multi-instance app hiding,
+          unencrypted F2FS optimization, enhanced module mounting
+Note: Keep flash zip and manager version numbers consistent.
+
+Delta Manager: https://nalankang.lanzoum.com/b00w6mtza
+Delta Flash Zip: https://nalankang.lanzoum.com/b00w6mwle
+
+================================================================
+MAGISK — LITE VERSION
+================================================================
+Whitelist mode — all apps hidden by default; only checked apps get root.
+Note: Keep flash zip and manager version numbers consistent.
+
+Lite Manager: https://nalankang.lanzouo.com/b00v8k94d
+Lite Flash Zip: https://nalankang.lanzouo.com/b00v8kaje
+Magisk Custom Channel: https://magisk.topjohnwu.com/zh.html
+Magisk Font (Chikushi A Maru): https://nalankang.lanzouo.com/b00vsaycb
+Magisk Module Collection: https://nalankang.lanzouo.com/b00u8npfc
+
+================================================================
+APATCH
+================================================================
+New root solution after Magisk & KernelSU. Supports kernel-level root,
+kernel modules, and Magisk modules. Some modules require ZygiskNext.
+
+APatch: https://nalankang.lanzoum.com/b00y1whwh
+ZygiskNext: https://nalankang.lanzoum.com/b00y1whpa
+Usage Guide: https://www.coolapk.com/feed/52761883
+Detailed Guide (VPN required): https://telegra.ph/Apatch中文组常见问题及使用方法-01-09
+
+================================================================
+LSPOSED FRAMEWORK (Android 8.1–12)
+================================================================
+Riru Module: https://nalankang.lanzouo.com/b00u7gi9g
+LSPosed Stable: https://nalankang.lanzouo.com/b00uiewlg
+LSPosed Beta: https://nalankang.lanzouo.com/b00u7rzoj
+Android 8.0 Compatible Version: https://nalankang.lanzouo.com/b00uu1hva
+
+================================================================
+EDXPOSED FRAMEWORK (Android 8.0–11)
+================================================================
+EDXposed Manager (Beautified Branch): https://nalankang.lanzouo.com/b00tml4pc
+EdXposed Manager (Official Stable): https://nalankang.lanzouo.com/b00u12ibi
+EdXposed Manager (Official Preview): https://nalankang.lanzouo.com/b00u12i4b
+Riru Module: https://nalankang.lanzouo.com/b00u7gi9g
+Edxposed Alpha (S version): https://nalankang.lanzouo.com/b00u7gnpc
+Edxposed Alpha (Y version): https://nalankang.lanzouo.com/b00u7gq8d
+Edxposed Canary (S & Y versions): https://nalankang.lanzouo.com/b00u7h7ah
+
+================================================================
+DREAMLAND FRAMEWORK (Android 7.0–12)
+================================================================
+Riru Module: https://nalankang.lanzouo.com/b00u7gi9g
+Dreamland Manager: https://nalankang.lanzouo.com/b00uicrmf
+magisk-dreamland: https://nalankang.lanzouo.com/b00uicrad
+
+================================================================
+ROOT-FREE XPOSED FRAMEWORK
+================================================================
+Tianjian (Enter 0000, long-press D, tap Visit top-right for password): https://nalankang.lanzouo.com/b00uu09lg
+Taichi: https://nalankang.lanzouo.com/b00uicmcf
+App Reincarnation: https://nalankang.lanzouo.com/b00u1wq0f
+VirtualXposed: https://nalankang.lanzouo.com/b00u1wqgb
+SandVXposed: https://www.coolapk.com/apk/io.virtualapp.sandvxposed64
+God's Hand: https://nalankang.lanzouo.com/b00uucuad
+VMOS Pro (Virtual Master): https://nalankang.lanzouo.com/b00um855g
+SlimVXP: https://www.coolapk.com/apk/io.virtualapp.sandvxposed
+BlackBox: https://nalankang.lanzouo.com/b00vkf9ub
+LSPatch Stable: https://nalankang.lanzouo.com/b00vvd25i
+LSPatch Beta: https://nalankang.lanzouo.com/b00vvd26j
+XKai: https://nalankang.lanzouo.com/b00vvyaxa
+
+================================================================
+XP MODULE — TIKTOK (DOUYIN) MODULES
+================================================================
+Douyin Assistant: https://nalankang.lanzouo.com/b00um3gmj
+Douyin+: https://nalankang.lanzouo.com/b00u6mqej
+Douyin Companion: https://nalankang.lanzouo.com/b00t5ypuj
+AdAway: https://nalankang.lanzouo.com/b00tsmbgh
+Three Thousand Ways to Kill You: https://nalankang.lanzouo.com/b00tw4jhc
+NuoNuoNuo: https://nalankang.lanzouo.com/b00u5t5wh
+HookBox: https://nalankang.lanzouo.com/b00uembsb
+Yangtze River No. 7: https://nalankang.lanzouo.com/b00tuzfsd
+Little Pigeon (watermark-free video download): https://nalankang.lanzouo.com/b00vs6o1g
+Destiny (formerly LanFeng): https://nalankang.lanzouo.com/b00vz18ef
+Douyin Little Helper: https://nalankang.lanzoum.com/b00w5xqqd
+VodkaMod: https://nalankang.lanzoum.com/b00w9rwcd
+DestinyImm (Douyin Immersive Module): https://nalankang.lanzoum.com/b00xzr6ob
+Freedom: https://nalankang.lanzouu.com/b0hca34eb
+
+================================================================
+XP MODULE — ANT FOREST MODULES
+================================================================
+Auto-watering, energy collection, chicken feeding, check-in, etc.
+
+Crystal Version: https://nalankang.lanzouo.com/b00tsmwvi
+Autumn Wind Version: https://nalankang.lanzouo.com/b00tphmhg
+Crayon Shin-chan Version: https://nalankang.lanzouo.com/b00u7fmyj
+Rainy Season Version: https://nalankang.lanzouo.com/b00v77tpa
+Sesame Seed: https://nalankang.lanzoum.com/b00x9r8ve
+Sesame Paste X: https://nalankang.lanzouu.com/b0hcad99g
+
+================================================================
+XP MODULE — HIDE APP LIST
+================================================================
+Hides specified apps to avoid detection.
+
+Hide App List: https://nalankang.lanzouo.com/b00ujaeti
+Riru – Hide My Applist: https://nalankang.lanzouo.com/b00unry9e
+App List Detector: https://nalankang.lanzouo.com/b00uwpoeb
+Secret Space: https://nalankang.lanzouo.com/b00vbys7c
+
+================================================================
+XP MODULE — CORE PATCH
+================================================================
+Allows downgrade installs, disables signature verification.
+
+Core Patch 3.8 (Android 10–12): https://nalankang.lanzouo.com/b00u2j7xc
+Core Patch 2.2 (Android 9–10): https://nalankang.lanzouo.com/iQS6Gjdk6zi
+Core Patch 2.1 (Android 8.x): https://nalankang.lanzouo.com/iq7ZYjdk6ve
+Core Patch 2.0 (Android 7.x): https://nalankang.lanzouo.com/ic56Ljgow5g
+Core Patch 1.4 (Android 4.x–6.x): https://nalankang.lanzouo.com/iaKd1jdk6pi
+
+================================================================
+XP MODULE — APP MANAGEMENT
+================================================================
+App Manager: https://nalankang.lanzouo.com/ibNpugt6sih
+Stop Running: https://nalankang.lanzouo.com/b00tjjhaf
+Greenify: https://nalankang.lanzouo.com/b00tw4f3e
+App Controller: https://nalankang.lanzouo.com/ili9Rgt6rib
+Thanox (Thanos): https://nalankang.lanzouo.com/b00ucbm7i
+DeepSleep (Control background wake): https://nalankang.lanzouo.com/b00vsg6vi
+Auto Tombstone Background: https://nalankang.lanzouo.com/b00vxosna
+NoActive (Tombstone): https://nalankang.lanzouo.com/b00vxorzg
+MiTlite (Tombstone Module): https://nalankang.lanzoum.com/b00vzbpng
+
+================================================================
+XP MODULE — FINGERPRINT PAYMENT
+================================================================
+Xposed Version: https://nalankang.lanzouo.com/b00twbp5i
+Magisk Riru Version: https://nalankang.lanzouo.com/b00utf13e
+Magisk Zygisk Version: https://nalankang.lanzouo.com/b00v90psj
+
+================================================================
+XP MODULE — CANCEL DIALOG
+================================================================
+Dialog Cancel: https://nalankang.lanzouo.com/iHJzpl4nyuh
+Dialog Cancel Beta: https://nalankang.lanzouo.com/iX6Cvl4nzjc
+Dialog Cancel Fixed: https://nalankang.lanzouo.com/b00vnmxqb
+Dialog Cancel New Version: https://nalankang.lanzouo.com/b00vz164d
+Dia (Dialog Cancel New): https://nalankang.lanzoum.com/b00wa5mkf
+
+================================================================
+XP MODULE — PRIVACY PROTECTION
+================================================================
+My Privacy: https://nalankang.lanzouo.com/iIw5Foda0sf
+X Privacy Guard: https://nalankang.lanzouo.com/b00uanape
+XPrivacyLua: https://nalankang.lanzouo.com/b00u9131a
+Release My Clipboard: https://www.coolapk.com/apk/cn.nlifew.clipmgr
+
+================================================================
+XP MODULE — APP CRACKING (Unlock VIP for some apps & offline games)
+================================================================
+vipHook: https://nalankang.lanzouo.com/b00tym8ed
+GodVip: https://nalankang.lanzouo.com/b00uk8e4h
+BuyTool Lucky In-App Purchase: https://nalankang.lanzouo.com/b00ttwnti
+BuyTool Usage Guide: https://www.coolapk.com/feed/15028248
+Heavenly VIP: https://nalankang.lanzouo.com/b00usgjyd
+DaoDaoDao: https://nalankang.lanzouo.com/b00usyqdc
+Jasi Cracker: https://nalankang.lanzouo.com/b00uzhq8h
+simpleVip: https://nalankang.lanzouo.com/b00uzhqcb
+mHook Manager: https://nalankang.lanzouo.com/b00v4u35e
+esXplorer (Crack ES File Manager VIP): https://nalankang.lanzouo.com/b00v629ih
+Hook Module: https://nalankang.lanzouo.com/b00v635of
+KModule: https://nalankang.lanzouo.com/b00usnx1g
+WuWei: https://nalankang.lanzouo.com/b00vbmg4f
+Wild Grass Collection (novel app VIP): https://nalankang.lanzoum.com/b00vgt8di
+KuTong Hook: https://nalankang.lanzouo.com/b00vpfnej
+Hippo Video universal module: https://nalankang.lanzouo.com/b00vpfnbg
+Master Brother Video module: https://nalankang.lanzouo.com/b00vpfn6b
+FlyMelon Video universal module: https://nalankang.lanzouo.com/b00vpfn8d
+Xiaocao Video universal module: https://nalankang.lanzouo.com/b00vpfn5a
+Fuck VIP: https://nalankang.lanzouo.com/b00vta7qj
+Fuck Guangsu VM XP Module: https://nalankang.lanzouo.com/b00vta7cf
+JsHook: https://nalankang.lanzouo.com/b00vv5shi
+Vip Kill: https://nalankang.lanzouo.com/b00w27pvi
+UnlockVIP: https://nalankang.lanzouo.com/b00w27q1e
+Hooker: https://nalankang.lanzouo.com/b00w27q2f
+FCHook: https://nalankang.lanzouo.com/b00w3s2ab
+VMOS Pro++: https://nalankang.lanzouo.com/b00w3s2ef
+Fuck VMOS Pro: https://nalankang.lanzoum.com/b00w5qhde
+Fuck MP3 Extractor/Converter: https://nalankang.lanzoum.com/b00w5qiwj
+VIP for Yuki: https://nalankang.lanzoum.com/b00w7tped
+Hook Vip: https://nalankang.lanzoum.com/b00wba9mf
+FakeFL (Fake Location Module): https://nalankang.lanzoum.com/b00wcp60b
+Premium Membership Service: https://nalankang.lanzoum.com/b00wdbdgb
+VIP Module: https://nalankang.lanzoum.com/b00wj7b5a
+MyApp: https://nalankang.lanzoum.com/b00wl69mb
+Lucky Patcher: https://nalankang.lanzoum.com/b00u06nfa
+MyHook: https://nalankang.lanzoum.com/b00wo5r4d
+Dawn: https://nalankang.lanzoum.com/b00wpd4qb
+Screw the Membership: https://nalankang.lanzoum.com/b00x9r85i
+Fuck for VIP: https://nalankang.lanzoum.com/b00xu7tej
+Hook Tools: https://nalankang.lanzouu.com/b0hcagu6h
+
+================================================================
+XP MODULE — KUWO MUSIC
+================================================================
+Kuwo & Kugou VIP: https://nalankang.lanzouo.com/b00ujhxza
+Kuwo Enhancement Plugin: https://nalankang.lanzouo.com/b00vpfnfa
+Kuwo VIP: https://nalankang.lanzouo.com/b00vlet8j
+Kuwo Enhancement: https://nalankang.lanzouo.com/b00vnxgqf
+iKuwo: https://nalankang.lanzoum.com/b00wg5cij
+
+================================================================
+XP MODULE — WECHAT ENHANCEMENT MODULES
+================================================================
+V++: https://nalankang.lanzouo.com/iFHt3n8udfe
+NvWaShí: https://nalankang.lanzouo.com/tp/iva8Uuedfli
+WeiMotion (step counter): https://nalankang.lanzouo.com/tp/iyGE2ghdg5c
+WeiX Module: https://nalankang.lanzouo.com/b00tujq4j
+WeChat Groups: https://nalankang.lanzouo.com/b00u7165a
+WeChat Mass Messaging: https://nalankang.lanzouo.com/b00u7164j
+WeChat Secret Friends: https://nalankang.lanzouo.com/b00u716hc
+WeChat Enhancement: https://nalankang.lanzouo.com/b00u7311i
+WeChat Meme Battle: https://nalankang.lanzouo.com/b00u7163i
+Play WeChat: https://nalankang.lanzouo.com/b00u757wh
+Enterprise Assistant: https://nalankang.lanzoui.com/b00u716mh
+WeChat Learn English: https://nalankang.lanzouo.com/b00udu6vg
+TSBattery (Battery Saver): https://nalankang.lanzouo.com/b00utqtkf
+Simulate WeChat Shake: https://nalankang.lanzouo.com/ibL7Xp64jze
+MDWechat (WeChat Beautify): https://nalankang.lanzouo.com/b00u7166b
+Remove WeChat Feed: https://nalankang.lanzouo.com/tp/iTrToghd41g
+I Don't Need Confirmation: https://nalankang.lanzouo.com/b00v82usf
+QQCleaner Lite: https://nalankang.lanzouo.com/b00vrngib
+QQ Slim (Cache Cleaner): https://nalankang.lanzouo.com/b00tszuzi
+Disable WeChat Signature Verification: https://nalankang.lanzouo.com/b00vv5k1e
+Feige Legend (Enterprise WeChat red packet snatcher): https://nalankang.lanzoum.com/b00w6ipyb
+Enterprise WeChat Location Takeover: https://nalankang.lanzoum.com/b00w7hg4h
+WeChat Pad (Phone + tablet simultaneous login): https://nalankang.lanzoum.com/b00w7lwud
+WeChat Group Message Assistant: https://nalankang.lanzoum.com/b00w9a34j
+WeChat Face Blur: https://nalankang.lanzoum.com/b00wj4cng
+Leap Year (WeChat Enhancement): https://nalankang.lanzoum.com/b00x9r8fi
+
+================================================================
+XP MODULE — QQ ENHANCEMENT MODULES
+================================================================
+QN (Enhancement): https://nalankang.lanzouo.com/b00tsdawd
+QX (Enhancement): https://nalankang.lanzouo.com/b00u0c8md
+Green Bean (Enhancement): https://nalankang.lanzouo.com/b00u74h3c
+QScript: https://nalankang.lanzouo.com/b00u94zfe
+H.entai.Q (Enhancement): https://nalankang.lanzouo.com/b00u73uof
+ColorQQ2 (Theme Beautify): https://nalankang.lanzouo.com/b00u9sekh
+XAutoDaily (Auto Check-in): https://nalankang.lanzouo.com/b00udwffg
+HuaQ: https://nalankang.lanzouo.com/b00tg274j
+QQ Battery Saver: https://nalankang.lanzouo.com/b00u9clng
+QQ Cleaner: https://nalankang.lanzouo.com/id15ckb
+QQ Slim (Cache Cleaner): https://nalankang.lanzouo.com/b00tszuzi
+TSBattery (Battery Saver): https://nalankang.lanzouo.com/b00utqtkf
+QAuxiliary (Enhancement): https://nalankang.lanzouo.com/b00vc3gha
+QQCleaner Lite: https://nalankang.lanzouo.com/b00vrngib
+QTool (QQ Enhancement): https://nalankang.lanzouo.com/b00vlucje
+Little Colorful Bean (QQ Assistant): https://nalankang.lanzouo.com/b00w5akcf
+QQ Repeater: https://nalankang.lanzoum.com/b00u9f1yf
+TL_ing (QQ Enhancement): https://nalankang.lanzoum.com/b00wg5fod
+
+================================================================
+XP MODULE — SYSTEM ENHANCEMENT
+================================================================
+Xp Quick Translate: https://nalankang.lanzouo.com/tp/ipnxCn6pb3i
+Global Copy: https://nalankang.lanzouo.com/iNjcbh1ex8d
+Force Screenshot: https://nalankang.lanzouo.com/iDOdis7llzc
+Fingerprint Payment: https://nalankang.lanzouo.com/b00twbp5i
+Lock Notification: https://www.coolapk.com/apk/me.singleneuron.locknotification
+Custom Text: https://nalankang.lanzouo.com/izfDpdcai0d
+Hammer BigBang: https://www.coolapk.com/apk/com.forfan.bigbang.coolapk
+Fake WiFi Connection: https://nalankang.lanzouo.com/b00tvgw6f
+Remove Screenshot Delay: https://nalankang.lanzouo.com/isXezjesckd
+Accessibility Daemon: https://nalankang.lanzouo.com/iRz8qim5hda
+MiWindow (Global Floating Window): https://www.coolapk.com/apk/com.sunshine.freeform
+Native Music Notification Bar: https://nalankang.lanzouo.com/b00tsmf3i
+SMS Verification Code Extractor: https://nalankang.lanzouo.com/b00uaxssf
+Navigation Bar Extension: https://www.coolapk.com/apk/com.egguncle.xposednavigationbar
+xSuite (Modify app icons): https://nalankang.lanzouo.com/i49dhgt6zij
+Xposed Edge Pro (Edge gestures): https://nalankang.lanzouo.com/b00tvgqqj
+iPlayMachine Installer Takeover: https://nalankang.lanzouo.com/b00ujhxvg
+Block Updates: https://nalankang.lanzouo.com/iALHhqxzrzg
+Flat Style Bar Indicators (Status bar beautify): https://nalankang.lanzouo.com/b00ursodi
+Clipboard Filter: https://nalankang.lanzouo.com/b00uxukdc
+Ink Status Bar Lyrics: https://nalankang.lanzouo.com/b00uzgujg (use with Jiuyu Lyrics below)
+Jiuyu Lyrics: https://nalankang.lanzouu.com/b0hccrpmb
+Volume Level+: https://nalankang.lanzouo.com/irAP4p31ida
+Non-Disabled (Fake no accessibility service): https://nalankang.lanzouo.com/b00v7ufmb
+SkyOlin Assistant (Split screen): https://nalankang.lanzouo.com/b00vbffoh
+Secret Space: https://nalankang.lanzouo.com/b00vbys7c
+Free Screen Rotation: https://nalankang.lanzouo.com/b00vj5gif
+Refuse Forced Brightness: https://nalankang.lanzouo.com/b00vj5gli
+Set App Full Screen: https://nalankang.lanzouo.com/b00vloi6b
+Process Lock: https://nalankang.lanzouo.com/b00vtzfkb
+Force Dark Mode: https://nalankang.lanzoum.com/b00wj4cjc
+NekoSMS (Spam SMS Blocker): https://nalankang.lanzoum.com/b00wltcpa
+HideZoomWindow (Hide floating windows from screenshots): https://nalankang.lanzoum.com/b00wmlqtg
+
+================================================================
+XP MODULE — SPOOF DEVICE INFO
+================================================================
+App Disguise: https://nalankang.lanzouo.com/b00u9amhe
+App Variables: https://nalankang.lanzouo.com/iFeH6h1ehxc
+iPlayMachine App Disguise: https://nalankang.lanzouo.com/b00uj175i
+Phone Viewer: https://nalankang.lanzouo.com/b00v891id
+Android Faker: https://nalankang.lanzouo.com/b00v88yxa
+Device ID Changer: https://nalankang.lanzouo.com/b00v894xg
+Guise – App Variables: https://nalankang.lanzoum.com/b00wihi9a
+
+================================================================
+XP MODULE — STORAGE REDIRECT
+================================================================
+Redirects app-generated folders/files to prevent clutter on SD card.
+
+Storage Redirect: https://nalankang.lanzouo.com/irdVpqq85gb
+XInternalSD: https://nalankang.lanzouo.com/i44wggt6jni
+LT NoLitter Remastered: https://nalankang.lanzouo.com/iP7gb03mea1g
+Media Storage Manager: https://nalankang.lanzoum.com/b00x9r7wj
+
+================================================================
+XP MODULE — "STUDY STRONG NATION" APP ASSISTANT MODULES
+================================================================
+Auto-click to complete tasks: score tasks, sequential tasks, challenge quizzes,
+weekly quizzes, 2-player battles, 4-player battles.
+
+BaWang Study Strong: https://nalankang.lanzouo.com/b00up7oda
+WangZai Study Strong: https://nalankang.lanzouo.com/b00unbzje
+XiaoLeiFeng Study Strong: https://nalankang.lanzouo.com/b00umdy0f
+AChao Study Strong: https://nalankang.lanzouo.com/b00umdy1g
+Advanced Study Strong: https://nalankang.lanzouo.com/b00umdy4j
+Study Machine Study Strong: https://nalankang.lanzouo.com/b00umdxyd
+Auto Study Strong: https://nalankang.lanzouo.com/b00upocjg
+Shiguang Study Strong: https://nalankang.lanzouo.com/b00uqe7fi
+Study Assistant: https://nalankang.lanzouo.com/b00utuj4d
+AI Study Strong: https://nalankang.lanzouo.com/b00v0v3sj
+One-Click Study Strong: https://nalankang.lanzouo.com/b00v44m8f
+Tech Study Strong: https://nalankang.lanzouo.com/b00v9lzsf
+Study Strong Expert: https://nalankang.lanzouo.com/b00ve2g7g
+Study It Study Strong: https://nalankang.lanzouo.com/b00vg2urc
+
+================================================================
+XP MODULE — FAKE GPS / VIRTUAL LOCATION
+================================================================
+Simulates a fake geographic location.
+
+Simulate Location: https://nalankang.lanzouo.com/b00tvpb1i
+Cataclysm: https://nalankang.lanzouo.com/izZ3xljlaqh
+X Location Protection: https://nalankang.lanzouo.com/b00ut32sd
+Dialog Cancel Beta: https://nalankang.lanzouo.com/iX6Cvl4nzjc
+Virtual Location: https://nalankang.lanzouo.com/b00v8fv7i
+
+================================================================
+XP MODULE — TRANSLATION MODULES
+================================================================
+Translate in-app text to Chinese (or other languages).
+
+AllTrans: https://nalankang.lanzouo.com/b00tngrof
+AllTrans Tutorial: https://www.coolapk.com/feed/23531453
+WeChat Learn English: https://nalankang.lanzouo.com/b00udu6vg
+Xp Quick Translate: https://nalankang.lanzouo.com/tp/ipnxCn6pb3i
+
+================================================================
+XP MODULE — MIUI SYSTEM EXCLUSIVE MODULES
+================================================================
+XMiTools: https://www.coolapk.com/apk/com.tianma.tweaks.miui
+Xiaomi Purify: https://nalankang.lanzouo.com/b00tyatha
+MIUI Global High Framerate: https://nalankang.lanzouo.com/b00ud00wb
+Miui12 Dual Status Bar: https://www.coolapk.com/apk/com.lz.teemo
+Unlock MIUI Keyboard Optimization: https://nalankang.lanzouo.com/b00ud00la
+MiuiHome Desktop Enhancement: https://nalankang.lanzouo.com/b00v28daf
+ChiMi (MIUI Enhancement): https://nalankang.lanzouo.com/b00t6n0ti
+CustoMIUIzer: https://nalankang.lanzouo.com/b00tyaawb
+MIUI Dual-App Restriction Remover: https://nalankang.lanzouo.com/b00u9zola
+Remove Camera Shutter Sound: https://nalankang.lanzouo.com/b00uhrdud
+iPlayMachine MIUI Installer: https://nalankang.lanzouo.com/b00ujhxte
+iPlayMachine MIUI Advanced Settings: https://nalankang.lanzouo.com/b00ujhxqb
+TaoMiShui (MIUI Ad Remover): https://nalankang.lanzouo.com/b00ukbeab
+Stop Meddling (Kill accessibility 10s wait): https://nalankang.lanzouo.com/b00ulw6ch
+MIUI Accent Color: https://nalankang.lanzouo.com/b00ulw97a
+MIUltra (MIUI 12.5 Extension): https://nalankang.lanzouo.com/b00usk4wf
+Xiaomi Sports Hook: https://nalankang.lanzouo.com/b00uz62yd
+Status Bar Lyrics: https://nalankang.lanzouo.com/b00uzgujg
+Xiaomi Push Enhancement: https://nalankang.lanzouo.com/b00uzzc2f
+Hide MIUI Warrior Badge: https://nalankang.lanzouo.com/b00v2o9li
+AppLock (Prevent swipe kill / one-tap clean): https://nalankang.lanzouo.com/b00v4oaej
+MiCode (Xiaomi Browser Enhancement): https://www.coolapk.com/apk/xyz.kymirai.micode
+Show Seconds Independently: https://nalankang.lanzouo.com/b00v7h4ni
+MIUI Native Notification Icons: https://nalankang.lanzouo.com/b00v9rnab
+CoarseGrain: https://nalankang.lanzouo.com/b00v9zykf
+Xiaomi Translate+: https://nalankang.lanzouo.com/b00va0h4d
+MIUI Time Show Seconds: https://nalankang.lanzouo.com/b00vbja3a
+Unlock Xiaomi Wonderful: https://nalankang.lanzouo.com/b00vbja1i
+WooBoxForMIUI (MIUI 13 Extension): https://nalankang.lanzouo.com/b00vc2p2d
+Unlock MIUI+: https://nalankang.lanzouo.com/b00vczkba
+No More MIUI Lag: https://nalankang.lanzouo.com/b00vcvnha
+MIUI Theme Crack: https://nalankang.lanzouo.com/b00velxyj
+MIUI Toolbox: https://nalankang.lanzouo.com/b00vg2u8d
+AppLock (v2): https://nalankang.lanzouo.com/b00vi88ne
+MIUI Performance Savior: https://nalankang.lanzouo.com/b00vkcyng
+MaxFreeForm (Unlock MIUI 13 multi-window limit): https://nalankang.lanzouo.com/b00vlohgf
+MiuiMediaEditor (MIUI Gallery Enhancement): https://nalankang.lanzouo.com/b00vn4gfa
+MIUI Mask Evolution: https://nalankang.lanzouo.com/b00vm6mxa
+MIUI Modify Native Installer: https://nalankang.lanzouo.com/b00vqp23i
+Ink Desk: https://nalankang.lanzouo.com/b00vqp1uj
+AutoNFC: https://nalankang.lanzouo.com/b00vqs8wb
+MIUI QOL (System Enhancement): https://nalankang.lanzouo.com/b00vu6xof
+MIUI Screen Recording Evolution: https://nalankang.lanzouo.com/b00vvd0de
+Xiaomi No-Miao Share: https://nalankang.lanzouo.com/b00vz17di
+MiTlite (Tombstone Module): https://nalankang.lanzouo.com/b00vzbpng
+MIUI Installer Evolution: https://nalankang.lanzoum.com/b00w3euqb
+Miller (MIUI Power Optimization): https://nalankang.lanzouo.com/b00w3s25g
+Your Operator Messages Are All Ads: https://nalankang.lanzoum.com/b00w65i3a
+MIUI Update Evolution: https://nalankang.lanzoum.com/b00w6ze6j
+WINI (Floating Notification Blur): https://nalankang.lanzoum.com/b00w8v9bc
+5G Toggle: https://nalankang.lanzoum.com/b00w9p9bc
+MIUI Notification Fix: https://nalankang.lanzoum.com/b00wcl3gf
+BetterMiuiExpress (Show delivery info on home screen): https://nalankang.lanzoum.com/b00w38glg
+Portal Enhancement: https://nalankang.lanzoum.com/b00wmgeqb
+MIUI Free Floating Window X: https://nalankang.lanzoum.com/b00x2h8ef
+Cemiuiler (MIUI System Enhancement): https://nalankang.lanzoum.com/b00x2h8pg
+StarVoyager (System Enhancement): https://nalankang.lanzoum.com/b00x34bfc
+
+================================================================
+XP MODULE — FLYME SYSTEM EXCLUSIVE MODULES
+================================================================
+FXposed: https://nalankang.lanzouo.com/b00tg28vc
+Flyme Assistant: https://nalankang.lanzouo.com/b00t637bc
+Flyme 10 Assistant: https://nalankang.lanzoum.com/b00x2h9li
+MZXPT (Meizu Toolbox): https://nalankang.lanzouo.com/b00tw4g4b
+Flyme Toolbox: https://nalankang.lanzouo.com/b00uyi65e
+
+================================================================
+XP MODULE — COLOROS SYSTEM EXCLUSIVE MODULES
+================================================================
+Wanwu: https://www.coolapk.com/apk/com.bangtu.opaod
+OnePlus Extension: https://www.coolapk.com/apk/com.davidking.optools
+OnePlus Hydrogen/Oxygen Theme: https://www.coolapk.com/apk/com.jizhi.optheme
+OnePlus Fingerprint Extension: https://www.coolapk.com/apk/com.davidking.xposed.opfingerprint
+OnePlus Status Bar Network Speed: https://www.coolapk.com/apk/me.seasonyuu.xposed.networkspeedindicator.h2os
+ColorOSTool System Enhancement: https://nalankang.lanzouo.com/b00utw46h
+WooBox For ColorOS: https://nalankang.lanzouo.com/b00vkrz0j
+ColorOS Notification Icon Enhancement: https://nalankang.lanzouo.com/b00vdjeeh
+LuckyTool: https://nalankang.lanzouo.com/b00vxpfyj
+ColorOS6 System Enhancement: https://nalankang.lanzoum.com/b00wmwf9g
+OxygenCustomizer: https://nalankang.lanzouu.com/b0hc83xdc
+
+================================================================
+XP MODULE — NETEASE CLOUD MUSIC MODULES
+================================================================
+Cloud Village Janitor: https://nalankang.lanzouo.com/in7DElr49xe
+Dolby Big Speaker Beta: https://nalankang.lanzouo.com/b00u9dtif
+UnblockMusic Pro: https://nalankang.lanzouo.com/b00u9dtwj
+NetEase Cloud Plugin: https://nalankang.lanzouo.com/iFEzDgt5bri
+Disable Album Cover Rotation: https://nalankang.lanzouo.com/b00u9ezsh
+NetEase Cloud No-VIP: https://nalankang.lanzouo.com/b00ve8qyj
+
+================================================================
+XP MODULE — WEIBO PURIFICATION
+================================================================
+Weibo+: https://nalankang.lanzouo.com/b00u8r25i
+AdAway: https://nalankang.lanzouo.com/b00tsmbgh
+Weibo Assistant: https://nalankang.lanzouo.com/b00ullbyd
+This Is Truly Lite (Weibo Lite/Speed ad remove): https://nalankang.lanzoum.com/b00wcl3nc
+
+================================================================
+XP MODULE — BAIDU TIEBA PURIFICATION
+================================================================
+Baidu Tieba Companion: https://nalankang.lanzouo.com/b00u0l13g
+Baidu Tieba Assistant: https://nalankang.lanzouo.com/b00uecoyf
+TiebaTS (Tieba Purify): https://nalankang.lanzouo.com/b00tzwihc
+Lianbi Module: https://nalankang.lanzouo.com/b00tsmwqd
+
+================================================================
+XP MODULE — BANK APP ROOT DETECTION BYPASS
+================================================================
+CCB Killer: https://nalankang.lanzouo.com/insPchnubsj
+CCB Ignore Root (Fixed): https://nalankang.lanzouo.com/ifQ6Chnuekj
+BankRX (ICBC & CCB): https://nalankang.lanzouo.com/iQH4Nhpiuni
+Wujiandao (ABC, ICBC, Anti-Fraud Center bypass): https://nalankang.lanzouo.com/b00v8j57g
+
+================================================================
+XP MODULE — BILIBILI ENHANCEMENT
+================================================================
+Bilibili Roaming: https://nalankang.lanzouo.com/b00ttp0kj
+Bilibili Patch: https://nalankang.lanzouo.com/igGPQlrcepe
+Lianbi Module: https://nalankang.lanzouo.com/b00tsmwqd
+FuckBilibiliVote (Remove B-site video popups): https://nalankang.lanzouo.com/b00vq2xsb
+No Portrait Mode: https://nalankang.lanzouo.com/b00vtzfja
+Bilibili Roaming X: https://nalankang.lanzoum.com/b00wa2dib
+B-site Member Video Quality: https://nalankang.lanzoum.com/b00wpxvhe
+
+================================================================
+NOVEL CRACKING MODULES
+================================================================
+Fanqie Novel Hook VIP: https://nalankang.lanzouo.com/b00vpo0ub
+Novel Hook Module: https://nalankang.lanzoum.com/b00wcowqh
+Wild Grass Collection: https://nalankang.lanzoum.com/b00vgt8di
+Fanqie Novel: https://nalankang.lanzoum.com/b00wj7b8d
+Fanqie Universal Module: https://nalankang.lanzoum.com/b00wo5r9i
+
+================================================================
+XP MODULE — STEP COUNT / FITNESS MODIFIER
+================================================================
+Modifies step count to fake fitness stats.
+
+Sports Modifier: https://nalankang.lanzouo.com/b00to5bpa
+Sports Accelerator: https://nalankang.lanzouo.com/b00u8tp0d
+Sports Simulator: https://nalankang.lanzouo.com/iAVp7lridyd
+
+================================================================
+XP MODULE — STATUS BAR COLOR CHANGE
+================================================================
+Weiju Old Version: https://nalankang.lanzouo.com/iXbImrfwr7i
+Weiju New Version: https://nalankang.lanzouo.com/apk/io.ikws4.weiju
+PerfectColorBar: https://www.lanzoui.com/irKuHgt707e
+Auto Immersive Status Bar: https://nalankang.lanzouo.com/iWnM5stybvi
+
+================================================================
+XP MODULE — HIDE ROOT & XPOSED FROM DETECTION
+================================================================
+RootCloak: https://nalankang.lanzouo.com/iD7LLjks9ab
+zuper (Hide Xposed & Root): https://nalankang.lanzouo.com/i2iuJgvqumf
+Hide App List: https://nalankang.lanzouo.com/b00ujaeti
+XposedHider: https://nalankang.lanzouo.com/b00v4pjpa
+SudoHide: https://nalankang.lanzouo.com/b00v4pjkf
+
+================================================================
+XP MODULE — BYPASS VPN DETECTION
+================================================================
+NoVPNDetect: https://nalankang.lanzoum.com/b00wckerg
+Bypass VPN Detection: https://nalankang.lanzoum.com/b00vsaxud
+Algorithm Assistant: https://nalankang.lanzoum.com/b00umtq4h
+Dialbox: https://nalankang.lanzoum.com/b00wa5mkf
+
+================================================================
+XP MODULE — GRAVITY BOX
+================================================================
+GravityBox [Android 8]: https://nalankang.lanzouo.com/b00u9xezc
+GravityBox [Android 9]: https://nalankang.lanzouo.com/b00u9xf7a
+GravityBox [Android 10]: https://nalankang.lanzouo.com/b00u9xfdg
+GravityBox [Android 11]: https://nalankang.lanzouo.com/b00u9xffi
+
+================================================================
+XP MODULE — AD REMOVAL MODULES
+================================================================
+AD Quick Kill: https://nalankang.lanzouo.com/b00u7asef
+Dasheng Purify: https://nalankang.lanzouo.com/b00u8uhij
+Dasheng Purify (Magisk version): https://nalankang.lanzouo.com/b00v95m8b
+Wukong Accelerator: https://nalankang.lanzouo.com/b00u8uhja
+AdBlocker: https://nalankang.lanzouo.com/b00tf5ive
+Lianbi Module: https://nalankang.lanzouo.com/b00tsmwqd
+Xianyu Assistant: https://nalankang.lanzouo.com/b00un0t1e
+Telegram Ad Blocker: https://nalankang.lanzouo.com/b00v0v12b
+Telegram Ad Remove Module: https://nalankang.lanzoui.com/b00v0v15e
+Twitter Ad Remove: https://nalankang.lanzouo.com/b00vauqdg
+Twitter Ad Eater: https://nalankang.lanzoum.com/b00wa9rze
+FuckCoolapkR (CoolApk Ad Remove): https://nalankang.lanzouo.com/b00vio87e
+VideoAdKill (Tencent/Youku/iQiyi/Huya ad remove): https://nalankang.lanzoum.com/b00wgwabc
+ZuiYouHook (Zuiyou ad remove): https://nalankang.lanzoum.com/b00wl69ba
+Go F*** Yourself Ads: https://nalankang.lanzoum.com/b00wnf7wf
+FuckAD: https://nalankang.lanzoum.com/b00woi3gj
+Splash Screen Assistant: https://nalankang.lanzoum.com/b00wwnzcf
+
+================================================================
+XP MODULE — PIPIXIA (KUAISHOU) MODULES
+================================================================
+Kuaishou+: https://nalankang.lanzouo.com/b00u8r2cf
+AdAway: https://nalankang.lanzouo.com/b00tsmbgh
+NuoNuoNuo: https://nalankang.lanzouo.com/b00u5t5wh
+Pipixia Assistant: https://nalankang.lanzouo.com/b00tvgswh
+Three Thousand Ways to Kill You: https://nalankang.lanzouo.com/b00tw4jhc
+Pipi Funny Assistant: https://nalankang.lanzoum.com/b00w4s6lc
+
+================================================================
+XP MODULE — XIAOHONGSHU (RED) MODULES
+================================================================
+AdAway: https://nalankang.lanzouo.com/b00tsmbgh
+X Xiaohongshu: https://nalankang.lanzouo.com/b00u9cabi
+Xiaohongshu+: https://nalankang.lanzouo.com/b00ucb8pc
+Red Potato Pig Hand: https://nalankang.lanzouo.com/b00vdhfxa
+
+================================================================
+XP MODULE — DINGTALK MODULES
+================================================================
+DingTalk Clock-in: https://nalankang.lanzouo.com/b00tw4j8d
+DingTalk Assistant: https://nalankang.lanzouo.com/b00ty6xeh
+DingTalk Anti-Recall: https://nalankang.lanzouo.com/b00vn4gqb
+DingTalk Enhancement: https://nalankang.lanzouo.com/b00vs1a1c
+Hammer: https://nalankang.lanzoum.com/b00w65hri
+
+================================================================
+XP MODULE — TELEGRAM MODULES
+================================================================
+TMoe (Telegram Enhancement): https://nalankang.lanzouo.com/b00vudbyf
+Telegram Ad Blocker: https://nalankang.lanzouo.com/b00v0v12b
+Telegram Ad Remove: https://nalankang.lanzoui.com/b00v0v15e
+TeleSpeed (Boost Telegram download speed): https://nalankang.lanzoum.com/b00waav1a
+Telegram Helper: https://nalankang.lanzoum.com/b00waaxxe
+TG++: https://nalankang.lanzoum.com/b00x9r9kj
+Telegram Assistant: https://nalankang.lanzoum.com/b00x9r7qd
+Re-telegram: https://nalankang.lanzoum.com/b00x9r9fe
+
+================================================================
+XP MODULE — YOUTUBE MODULES
+================================================================
+YouTube AdAway: https://nalankang.lanzoum.com/b00w6v3tc
+YouTube Assistant: https://nalankang.lanzouo.com/b00u8om6b
+
+================================================================
+XP MODULE — OTHER MODULES
+================================================================
+Algorithm Assistant (Hook Tool): https://nalankang.lanzouo.com/b00umtq4h
+God Mode: https://nalankang.lanzouo.com/b00um9gha
+Heavenly Mode: https://nalankang.lanzoui.com/b00vio9qj
+Scheduled Cleaner: https://nalankang.lanzouo.com/i62C4ilqksd
+Xposed Blacklist (Disable Xposed): https://nalankang.lanzouo.com/iuJe2h1efgd
+AllTrans (In-app Translation): https://www.coolapk.com/feed/23531453
+Remove Built-in Browser: https://nalankang.lanzouo.com/iJLBYiqgs6j
+One-Click Share (Watermark-free video): https://nalankang.lanzouo.com/b00u71tcf
+Zhiliao (Zhihu Enhancement): https://nalankang.lanzouo.com/b00tt2w1e
+Traffic 12123 Root Bypass: https://nalankang.lanzouo.com/id38v2h
+Magisk Hide Enhancement: https://nalankang.lanzouo.com/iMmPihuq4wj
+You Can Long-Press to Copy and Visit: https://nalankang.lanzouo.com/b00tys3qb
+Navigation Bar Extension: https://www.coolapk.com/apk/com.egguncle.xposednavigationbar
+Toutiao+: https://nalankang.lanzouo.com/b00u8r28b
+Fake Share: https://nalankang.lanzouo.com/iOJ09lmdg4b
+Magisk Hide Enhancement (v2): https://nalankang.lanzouo.com/iMmPihuq4wj
+Taichi Update Gem (Taichi Yin exclusive): https://nalankang.lanzouo.com/itU7Fkwxova
+OMG Module: https://nalankang.lanzouo.com/ii7Hzgt6zsj
+App Settings Reborn: https://nalankang.lanzouo.com/b00u7e3ni
+Feishu Assistant: https://nalankang.lanzouo.com/b00tx61rc
+Data Filter: https://nalankang.lanzouo.com/b00ubhcpg
+Alibaba Anti-Xposed Detection: https://nalankang.lanzouo.com/ikPQ5n2y3pc
+TaoFanFan (Auto coupon): https://nalankang.lanzouo.com/b00ue7nlg
+Pinduoduo No-Group Helper: https://nalankang.lanzouo.com/b00u6yczi
+JD Historical Price: https://nalankang.lanzouo.com/irbo1pi4lve
+Momo Mass Messaging: https://nalankang.lanzouo.com/b00uli2mj
+DDex Unpack (XP): https://nalankang.lanzouo.com/b00vcvtla
+DJkwaiching (Crack music VIP): https://nalankang.lanzouo.com/b00tytm1g
+Blued Module: https://nalankang.lanzouo.com/b00up6lzi
+Wangzhe Rensheng WiFi Hijack: https://nalankang.lanzouo.com/ib4F3s4471e
+YouTube Module Collection: https://nalankang.lanzouo.com/b00u8om6b
+Xiaocao Video Assistant: https://nalankang.lanzouo.com/b00utv70d
+VCAM (Virtual Camera): https://nalankang.lanzouo.com/b00uud7hi
+Dongman Home Enhancement: https://nalankang.lanzouo.com/b00uwt6zi
+Xposed Tool (One-click built-in XP module): https://nalankang.lanzouo.com/b00vsay9i
+Alipay Flex Module: https://nalankang.lanzouo.com/b00v730da
+Qianji Auto Accounting Plugin: https://nalankang.lanzouo.com/b00v7fjjc
+AnyDebug (Modify app layout parameters): https://nalankang.lanzoui.com/b00vhv14f
+Bypass VPN Detection: https://nalankang.lanzouo.com/b00vsaxud
+Fuck Cloud Injection (Block cloud injection popups): https://nalankang.lanzouo.com/b00vta76j
+QDReadHook (Qidian Reading Enhancement): https://nalankang.lanzouo.com/b00vu7rof
+Q Music Assistant (QQ Music Purify): https://nalankang.lanzoum.com/b00w6v3oh
+Download Redirect (Call ADM downloader): https://nalankang.lanzoum.com/b00whqfvc
+No Region Lock (Remove region restrictions): https://nalankang.lanzoum.com/b00wwnzwf
+
+================================================================
+APP — PHONE TWEAKING TOOLS
+================================================================
+GaoJi Assistant (original author): https://nalankang.lanzouo.com/b00uks1sd
+GaoJi Remastered: https://nalankang.lanzouo.com/b00tugduj
+GaoJi Assistant 2: https://nalankang.lanzouo.com/b00uks28j
+GaoJi Client: https://nalankang.lanzoum.com/b00woxkmh
+
+================================================================
+APP — ROOT DETECTION TOOLS
+================================================================
+ApplistDetector: https://nalankang.lanzoum.com/b00uwpoeb
+Native Test (Minotaur): https://nalankang.lanzoum.com/b00y2lgmb
+Momo: https://nalankang.lanzoum.com/b00vno8mj
+Hunter: https://nalankang.lanzoum.com/b00y2lhwh
+
+================================================================
+APP — SSH TERMINAL TOOLS
+================================================================
+JuiceSSH: https://nalankang.lanzoum.com/b00w76gvi
+ConnectBot: https://nalankang.lanzoum.com/b00w76gif
+Primitive ftpd: https://nalankang.lanzoum.com/b00w76gre
+SSH Termius: https://nalankang.lanzoum.com/b00w76gwj
+
+================================================================
+APP — THIRD-PARTY YOUTUBE (AD-FREE)
+================================================================
+Vanced: https://nalankang.lanzouo.com/b00ujce7i
+PureTuber: https://nalankang.lanzouo.com/b00usb4ba
+LibreTube: https://nalankang.lanzouo.com/b00vsd3ta
+YouTube ReVanced: https://nalankang.lanzoum.com/b00vvp3hi
+
+================================================================
+APP — THIRD-PARTY TELEGRAM (WITH BUILT-IN PROXY)
+================================================================
+Telegram Magic Version: https://nalankang.lanzouo.com/b00v8earg
+Nekogram X: https://nalankang.lanzoum.com/b00w5nh7a
+Nagram: https://nalankang.lanzoum.com/b00w5nila
+Nekogram: https://nalankang.lanzoum.com/b00w5nguh
+GuGugram (requires VPN): https://nalankang.lanzoum.com/b00w5nj2h
+Telegraph (feature-rich): https://nalankang.lanzoum.com/b00wgwa1c
+TelegramX (SMS verification login): https://nalankang.lanzoum.com/b00xvtozi
+
+================================================================
+APP — FILE MANAGERS
+================================================================
+RE File Manager: https://nalankang.lanzouo.com/b00u85wja
+ES File Manager Pro: https://nalankang.lanzouo.com/b00u2b9pi
+NP Manager: https://nalankang.lanzouo.com/b00u7565e
+ES Manager Beautified: https://nalankang.lanzouo.com/b00uwhrob
+RS File Manager: https://nalankang.lanzouo.com/b00v3lsaj
+SE File Manager: https://nalankang.lanzouo.com/b00v55w4d
+
+================================================================
+APP — TERMINAL EMULATORS
+================================================================
+Termux: https://nalankang.lanzouo.com/b00v67ype
+ZeroTermux: https://cloud.189.cn/t/aqam2uZNJ7ny
+UTermux: https://cloud.189.cn/t/YbmqaiqYniIn
+Terminal Emulator: https://nalankang.lanzouo.com/b00v67zte
+Ansole: https://nalankang.lanzouo.com/b00v681pc
+NeoTerm: https://nalankang.lanzouo.com/b00v681xa
+
+================================================================
+APP — JAVA EMULATORS
+================================================================
+J2ME Loader: https://nalankang.lanzouo.com/b00vaursh
+Retro2ME: https://nalankang.lanzouo.com/b00vaurhg
+
+================================================================
+APP — APK UNPACKING TOOLS
+================================================================
+BlackDex: https://nalankang.lanzouo.com/b00um84kf
+fdex2: https://nalankang.lanzouo.com/iBdENqkpmng
+MicroUnpack: https://nalankang.lanzouo.com/iFfamqkpmoh
+Reflection Master: https://nalankang.lanzouo.com/b00v2j5ud
+DDex Unpack (XP): https://nalankang.lanzouo.com/b00vcvtla
+DITOR Unpack Tool: https://nalankang.lanzouo.com/b00vdbu8j
+
+================================================================
+APP — BACKUP TOOLS
+================================================================
+Titanium Backup: https://nalankang.lanzouo.com/b00u85wmd
+Super Backup: https://nalankang.lanzouo.com/b00v82qxg
+Backup Toolbox: https://nalankang.lanzoum.com/b00xytfvi
+Data Backup: https://nalankang.lanzoum.com/b00y31fxc
+
+================================================================
+APP — ONLINE VIDEO STREAMING
+================================================================
+Planet Video: https://nalankang.lanzouo.com/b00v2atfi
+MeiJuNiao: https://nalankang.lanzouo.com/b00v2assf
+TV Home 3.0: https://nalankang.lanzouo.com/b00uvarti
+Xiaocao Video: https://nalankang.lanzouo.com/b00uvtgkh
+MeiJu Planet: https://nalankang.lanzouo.com/b00uoxh3i
+
+================================================================
+APP — APK EDITING TOOLS
+================================================================
+APK Editor: https://nalankang.lanzouo.com/b00u06q0d
+APK Editor R3: https://nalankang.lanzouo.com/b00uud6lg
+Apktool M (APK Decompile): https://nalankang.lanzouo.com/b00uud6kf
+NP Manager: https://nalankang.lanzouo.com/b00u7565e
+MT Manager: https://www.coolapk.com/apk/bin.mt.plus
+
+================================================================
+APP — APP FREEZING
+================================================================
+Hail: https://nalankang.lanzouo.com/b00vjgpxa
+Ice Box: https://nalankang.lanzouo.com/b00vjgpsf
+
+================================================================
+APP — DOWNLOAD TOOLS
+================================================================
+ADM: https://nalankang.lanzouo.com/b00u06sid
+IDM+: https://nalankang.lanzouo.com/b00u06sje
+Flash Download: https://nalankang.lanzouo.com/b00u06tlc
+Torrent Magnet Player: https://nalankang.lanzouo.com/b00uunmef
+Torrent Magnet Downloader: https://nalankang.lanzouo.com/b00uunmja
+Magnet Cloud Pro: https://nalankang.lanzouo.com/b00ur7bhi
+tTorrent: https://nalankang.lanzouo.com/b00uz3ikh
+Lazy Bear Download: https://nalankang.lanzouo.com/b00uz3ibi
+Hulk Download: https://nalankang.lanzouo.com/b00u79kob
+Speed Download: https://nalankang.lanzouo.com/b00v2asli
+Ice Ice Magnet Downloader: https://nalankang.lanzouo.com/b00v2w6yb
+Offline Cloud: https://nalankang.lanzouo.com/b00u79khe
+Xunlei No-Speed-Limit: https://nalankang.lanzouo.com/b00v8e9zi
+Fast Bird Download: https://nalankang.lanzouo.com/b00v8mdhc
+All-in-One Downloader: https://nalankang.lanzouo.com/b00va46tg
+Rocket BT Downloader: https://nalankang.lanzouo.com/b00vb309a
+Peregrine Downloader: https://nalankang.lanzoui.com/b00vfsk6b
+Download Toolbox: https://nalankang.lanzouo.com/b00w3f0gh
+Wukong Download: https://nalankang.lanzoum.com/b00wm50id
+
+================================================================
+APP — HISHOOT2I (DEVICE FRAME SCREENSHOT)
+================================================================
+Adds a phone frame around screenshots for polished renders.
+
+HiShoot2i (Chinese): https://nalankang.lanzouo.com/ihKhIu8yelc
+Selected Templates (Lanzou): https://nalankang.lanzouo.com/b00tvr6yd
+Other Templates (Baidu): https://pan.baidu.com/share/init?surl=ZmToxkG__uLjFFZfep8eeg&pwd=h368 (Code: h368)
+
+================================================================
+APP — SMS SPOOFER (FOR ENTERTAINMENT ONLY)
+================================================================
+Fake SMS: https://nalankang.lanzouo.com/iAmMrsm3l1a
+
+================================================================
+APP — PACKET CAPTURE TOOLS
+================================================================
+HttpCanary (Yellow Bird): https://nalankang.lanzouo.com/b00usn91c
+Wicap (Android Sniffer): https://nalankang.lanzouo.com/b00usn8te
+Packet Capture (No-root): https://nalankang.lanzouo.com/b00usn8yj
+Capture Wizard: https://nalankang.lanzouo.com/b00vb69jc
+
+================================================================
+APP — MACRODROID (SMART TRIGGER / AUTOMATION)
+================================================================
+Like Tasker — automate anything.
+
+MacroDroid: https://nalankang.lanzouo.com/b00usijgh
+Helper Module: https://nalankang.lanzouo.com/b00usiqle
+Auto Email Plugin: https://nalankang.lanzouo.com/b00utusqj
+
+================================================================
+RETRO GAMES
+================================================================
+Plants vs. Zombies 1 Collection: https://nalankang.lanzouo.com/b00uu2nsj
+PvZ North America Chinese Version: https://cloud.189.cn/t/faUjeaA3Evqm
+Lone Gunman Collection: https://cloud.189.cn/t/BvmeMv3qe22e
+
+================================================================
+APP — MISC APPS
+================================================================
+UC Browser (Ad-free): https://nalankang.lanzouo.com/b00uotlmh
+QQ Browser (Ad-free): https://nalankang.lanzouo.com/b00usnkpc
+Sharingan Eye (Disable services): https://nalankang.lanzouo.com/b00ucdbhe
+Network Speed Test: https://nalankang.lanzouo.com/b00u06nch
+Thermal Control Remover: https://nalankang.lanzouo.com/i8YXOig4oob
+Mirror Assistant (Extract/Flash Recovery): https://nalankang.lanzouo.com/ilViPijcsna
+TWRP (Download & Flash TWRP): https://nalankang.lanzouo.com/b00u06y2d
+Cellular Pro (Band lock): https://nalankang.lanzouo.com/b00u06pna
+APK Editor: https://nalankang.lanzouo.com/b00u06q0d
+Microsoft Remote Desktop: https://nalankang.lanzouo.com/b00u06qib
+Lyrics Adapter (NetEase Music download): https://nalankang.lanzouo.com/b00u06rdc
+Quick Pic Browser (Modded): https://nalankang.lanzouo.com/b00u06uhe
+China Unicom App (Ad-free): https://nalankang.lanzouo.com/b00uq36md
+Black Domain (Block running): https://nalankang.lanzouo.com/b00u71uwb
+Iodine Editor: https://nalankang.lanzouo.com/is0vQkt9fsb
+Cloud QuickPass (Google version): https://nalankang.lanzouo.com/b00u71vte
+Nova Launcher: https://nalankang.lanzouo.com/b00u7cmgd
+Titanium Backup: https://nalankang.lanzouo.com/b00u85wmd
+Fake Google Play Store: https://nalankang.lanzouo.com/b00u7hyze
+Aptoide Open Source App Store: https://nalankang.lanzouo.com/b00uuddhe
+Third-party YouTube (Ad-free): https://nalankang.lanzouo.com/b00ujce7i
+Photo Editor: https://nalankang.lanzouo.com/b00uo1fkb
+Virtual Camera (use album photos as live camera): https://nalankang.lanzouo.com/b00up86ej
+FeiLiao (Chinese Telegram): https://nalankang.lanzouo.com/b00upq0bi
+Telegram Magic Version (with proxy): https://nalankang.lanzouo.com/b00v8earg
+NekogramX (with proxy): https://nalankang.lanzouo.com/b00vcrn1a
+SD Maid Pro: https://nalankang.lanzouo.com/b00ur7bgh
+Aoshe Cutout Pro: https://nalankang.lanzouo.com/b00ur7bja
+Auto Brick Recovery: https://nalankang.lanzouo.com/b00urjnza
+MX Player: https://nalankang.lanzouo.com/b00ursr2f
+LanYun (3rd-party Lanzou client): https://nalankang.lanzouo.com/b083z1nsj
+Xunyou Mobile Game Accelerator (Pro): https://nalankang.lanzouo.com/b00usp1kf
+Tencent Mobile Accelerator (Modded): https://nalankang.lanzouo.com/b00v8m6zi
+See (3rd-party Weibo): https://nalankang.lanzouo.com/b00uumzmf
+HiGo Google Framework Installer: https://nalankang.lanzouo.com/b00uuxmbc
+LiTiaoTiao (Auto skip ads): https://nalankang.lanzouo.com/b00v0m18d
+YiZhiChan (Auto skip ads): https://nalankang.lanzouo.com/b00v8ktla
+AetherSX2 (PS2 Emulator): https://nalankang.lanzouo.com/b00v3iwqb
+Lucky Patcher: https://nalankang.lanzouo.com/b00u06nfa
+Andronix (Install Linux on Android): https://nalankang.lanzouo.com/b00v6275c
+Screen Translate: https://nalankang.lanzouo.com/b00v75tyh
+MIUI Downloader: https://nalankang.lanzouo.com/b00v7ef5i
+Liangyi (Android Container): https://cloud.189.cn/t/7BvEJ32qINNr
+TikTok (International): https://nalankang.lanzouo.com/b00vcpf8h
+Fengche Anime Modded: https://nalankang.lanzouo.com/b00v9ce9g
+LanYun v2: https://nalankang.lanzouo.com/b00v9m5dg
+Magisk Root Toggle: https://nalankang.lanzouo.com/b00vaasbg
+Love Beautify (Theme maker): https://nalankang.lanzouo.com/b00vauqib
+Beetle ADB Assistant: https://nalankang.lanzouo.com/b00vd9rde
+AccuBattery Pro: https://nalankang.lanzouo.com/b00vdbnwb
+QingZhuo (Junk cleaner): https://nalankang.lanzouo.com/b00vgt4hi
+Green Ad Remove (Auto skip splash ads): https://nalankang.lanzouo.com/b00vijqoj
+CoolApk Ad-free: https://nalankang.lanzouo.com/b00vjm8ja
+Momo (Detection tool): https://nalankang.lanzouo.com/b00vno8mj
+Universe Toolbox: https://nalankang.lanzouo.com/b00w27qfi
+Today Watermark Camera (editable timestamp): https://nalankang.lanzoum.com/b00x5pbza
+V-AB Update Helper (Update system ROM): https://nalankang.lanzouu.com/b0hcbjeba
+
+================================================================
+WECHAT THEMES (WEI-X THEMES)
+================================================================
+Theme download: https://nalankang.lanzn.com/b00u44cpg
+
+WeX Theme "Manga": https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/mmkw3xqkuissd74g
+WeX Theme "Obito & Rin": https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/gyp451wmq5bnx9l4
+WeX Theme "Chibi Spider-Man": https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/sn3wm152q2h5s3gm
+WeX Theme "Untitled": https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/fyeutmlief8fdf4h
+Chat Wallpapers: https://nalankang.lanzoum.com/iehdcjw2the
+
+================================================================
+TIPS & TUTORIALS
+================================================================
+Make flash zip / fastboot package on phone: https://www.coolapk.com/feed/22941669
+Meizu 16T bootloader unlock (phone-only): https://www.coolapk.com/feed/22941669
+Prevent accidental file deletion: https://www.coolapk.com/feed/21508157
+Meizu OEM fastboot package: https://www.coolapk.com/feed/21349572
+Custom app name tutorial: https://www.coolapk.com/feed/15346519
+Remove UC Browser splash ad: https://www.coolapk.com/feed/21502013
+Fix SELinux not in enforcing mode: https://www.coolapk.com/feed/24620582
+Disable app splash screen ads: https://www.coolapk.com/feed/27731488
+Translate English apps to Chinese: https://www.coolapk.com/feed/23531453
+Patch boot image to install Magisk: https://www.coolapk.com/feed/32152531
+Hide root after enabling Zygisk in Magisk: https://www.coolapk.com/feed/33457333
+
+================================================================
+PC — PHONE TOOLS
+================================================================
+Autumn Box (Qiu Zhi He): https://nalankang.lanzouo.com/b00u8myid
+ADB Tool: https://nalankang.lanzouo.com/b00u8mv1i
+Qualcomm All-Series Driver: https://nalankang.lanzouo.com/iPzC9lgltwj
+ADB & FastBoot Driver: https://nalankang.lanzouo.com/iIk1Xlgltsf
+Phone Tweaking Toolbox: https://nalankang.lanzouo.com/b00u8nnqb
+GaoJi Assistant PC: https://nalankang.lanzouo.com/b00u8muij
+GaoJi Assistant CMD: https://nalankang.lanzouo.com/b00uugykb
+Xiaomi Fastboot Tool (Service): https://cloud.189.cn/t/e6Vra2jAfuae
+Qualcomm 9008 Fastboot Tool: https://nalankang.lanzouo.com/iPvjYp8qw2d
+Baidu Cloud Speed Downloader: https://nalankang.lanzouo.com/iD2Ldxkw51g
