@@ -1,1629 +1,1445 @@
-## 说明：资源均来自[【酷安】午夜神](http://www.coolapk.com/u/462071)
+Note: All resources are from [Coolapk] Midnight God    Lanzou Cloud Drive unified password: OJBK    Update Collection: Click to view. Please buy me a Coke to support me: Donate to my Telegram channel: OJBK233320220220142638Aicy775.png【MAGISK】Mask Stable Version    It's best to ensure that the version numbers of the flashable ROM and the file manager are consistent to avoid unnecessary problems.Mask card swipe package: Click to viewMask Manager: Click to view【MAGISK】Mask Canary Version    It's best to ensure that the version numbers of the flashable ROM and the file manager are consistent to avoid unnecessary problems.Canary Edition Manager: Click to viewCanary Edition SIM Card Pack: Click to viewShamiko (Hidden MagiskHide): Click to view【MAGISK】Mask Alpha Version    Author: vvb2060, based on the Canary version, with added new features.    It's best to ensure that the version numbers of the flashable ROM and the file manager are consistent to avoid unnecessary problems.Alpha Manager: Click to viewAlpha version SIM card flashable package: Click to viewShamiko (Hidden MagiskHide): Click to viewIMG_20240111_190420190519.png【MAGISK】Mask Manager Delta Edition    Author: Magisk branch created by HUSKYDG    Built-in brick recovery protection, core mode switch, multi-instance application hide, unencrypted F2FS optimization, and enhanced module mounting.    It's best to ensure that the version numbers of the flashable ROM and the file manager are consistent to avoid unnecessary problems.
 
-># 蓝奏云网盘统一密码：`OJBK`
+Delta Manager: Click to view
 
->## 更新合集 ：[点击查看](https://flowery-espadrille-695.notion.site/7e52fb27108d4b7099aa6245a4d1d9eb) 请我喝瓶可乐支持一下：[打赏](https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/vt6sid) T.G电报频道：[OJBK2333](http://t.me/OJBK2333)
+Delta version SIM card swipe package: Click to view
+MAGISK Mask Lite Version
 
+    Initially released as a root manager, it did not offer module support. However, later versions restored module support. In whitelist mode, all applications are hidden by default, and only selected applications can obtain superuser privileges.
 
-![20220220142638Aicy775.png](img/20220220142638Aicy775.png)
+    It's best to ensure that the version numbers of the flashable ROM and the file manager are consistent to avoid unnecessary problems.
 
-###  【MAGISK】面具稳定版
+Lite version of Mask Manager: Click to view
 
-> **卡刷包和管理器版本号最好一致，以免出现不必要的问题。**
+Lite version of the mask swipe pack: Click to view
 
-面具卡刷包： [点击查看](https://nalankang.lanzouo.com/b00u7gexg)
+Mask customization channel: Click to view
 
-面具管理器： [点击查看](https://nalankang.lanzouo.com/b00u7gcij)
+Mask font: Tsukushi Maru: Click to view
 
+Mask Module Collection: Click to view
 
-### 【MAGISK】面具金丝雀版(Canary)
+IMG_20240111_141329141538190626.png
+【APatch】
 
-> **卡刷包和管理器版本号最好一致，以免出现不必要的问题。**
+    APatch is a new root solution following Magisk and Kernel SU, supporting kernel-level rooting, but offering more features. It supports kernel modules and Magisk modules; some modules, such as lsposed, require flashing a ZygiskNext module to function.
 
-金丝雀版管理器：[点击查看](https://nalankang.lanzouo.com/b00v4q5yb)
+APatch: Click to view
 
-金丝雀版卡刷包：[点击查看](https://nalankang.lanzouo.com/b00v2ob6f)
+ZygiskNext: Click to view
 
-Shamiko(隐藏MagiskHide)：[点击查看](https://nalankang.lanzouo.com/b00v9d09i)
+How to use: Click to view
 
+More detailed usage instructions (requires VPN): Click to view
 
-### 【MAGISK】面具阿尔法版(alpha)
+2022-02-02_14-27-30776778.png
+【LSPOSED】Framework - (Android 8.1-12)
 
-> 作者：vvb2060，基于金丝雀版本制作，加入其它新特性
+Riru module: Click to view
 
-> **卡刷包和管理器版本号最好一致，以免出现不必要的问题。**
+LSPosed official version: Click to view
 
-阿尔法版管理器：[点击查看](https://nalankang.lanzouo.com/b00uotzpe)
+LSPosed beta version: Click to view
 
-阿尔法版卡刷包：[点击查看](https://nalankang.lanzouo.com/b00uotyle)
+Available Android 8.0 versions: Click to view
 
-Shamiko(隐藏MagiskHide)：[点击查看](https://nalankang.lanzouo.com/b00v9d09i)
+IMG_20220220_144538780.png
+【EDXPOSED】Framework - (Android 8.0-11)
 
+EDxposed Manager (Branch Enhanced Version): Click to view
 
-![IMG_20240111_190420190519.png](img/IMG_20240111_190420190519.png)
+EdXposed Manager (Official Version): Click to view
 
-### 【MAGISK】面具管理器德尔塔版(Delta)
+EdXposed Manager (Official Early Access Version): Click to view
 
-> 作者：magisk分支由HUSKYDG大神制作
+Riru module: Click to view
 
-> 内置救砖保护、核心模式开关、多开应用hide、未加密F2FS优化、模块挂载增强
+Edxposed Alpha (S version): Click to view
 
-> **卡刷包和管理器版本号最好一致，以免出现不必要的问题。**
+Edxposed Alpha (Y version): Click to view
 
-德尔塔版管理器：[点击查看](https://nalankang.lanzoum.com/b00w6mtza)
+Edxposed Canary (S and Y versions): Click to view
 
-德尔塔版卡刷包：[点击查看](https://nalankang.lanzoum.com/b00w6mwle)
+IMG_20220220_150153781783.png
+【DREAMLAND】Dream Frames - (Android 7.0-12)
 
+Riru module: Click to view
 
-### 【MAGISK】面具lite版
+Dream Manager: Click to view
 
-> 发布之初只作为root管理器，不提供对模块的支持。不过后面的版本作者又恢复了模块支持，白名单模式的Magisk，所有应用程序默认隐藏，只有勾选的应用程序才能获得超级用户权限
+Magisk-Dreamland: Click to view
 
-> **卡刷包和管理器版本号最好一致，以免出现不必要的问题。**
+IMG_20220220_152839785.png
+Rootless XPOSED framework
 
-lite版面具管理器：[点击查看](https://nalankang.lanzouo.com/b00v8k94d)
+Tianjian: (Enter 0000, long press D, tap "Visit" in the upper right corner to get the password): Click to view
 
-lite版面具卡刷包：[点击查看](https://nalankang.lanzouo.com/b00v8kaje)
+Tai Chi: Click to view
 
-面具自定义通道：[点击查看](https://magisk.topjohnwu.com/zh.html)
+Application Rebirth: Click to view
 
-面具字体： 筑紫𝐀丸： [点击查看](https://nalankang.lanzouo.com/b00vsaycb)
+VirtualXposed: Click to view
 
-面具模块合集：[点击查看](https://nalankang.lanzouo.com/b00u8npfc)
+SandVXposed: Click to view
 
+God's Hand: Click to view
 
-![IMG_20240111_141329141538190626.png](img/IMG_20240111_141329141538190626.png)
+VMOS Pro (Virtual Master): Click to view
 
-### 【APatch】
+SlimVXP: Click to view
 
-> APatch是继magisk、Kernel SU后全新的root解决方案，支持内核级别的root，但APatch提供的功能更多。支持内核模块和magisk模块，部分模块需要刷入ZygiskNext模块才能使用比如lsposed
+BlackBox: Click to view
 
-APatch：[点击查看](https://nalankang.lanzoum.com/b00y1whwh)
+LSPatch Stable Version: Click to view
 
-ZygiskNext：[点击查看](https://nalankang.lanzoum.com/b00y1whpa)
+LSPatch beta version: Click to view
 
-使用方法：[点击查看](https://www.coolapk.com/feed/52761883?shareKey=YTRiOGIxMTVmYzRhNjU5ZGY3ZDQ~&shareUid=462071&shareFrom=com.coolapk.market_13.4.1)
+X Open: Click to view
 
-更详细的使用方法(需要翻墙)：[点击查看](https://telegra.ph/Apatch中文组常见问题及使用方法-01-09)
+IMG_20220220_161114788.png
+[XP Module] TikTok Module
 
+TikTok Assistant: Click to view
 
-![2022-02-02_14-27-30776778.png](img/2022-02-02_14-27-30776778.png)
+Douyin+: Click to view
 
-### 【LSPOSED】框架-(安卓8.1-12)
+TikTok Companion: Click to view
 
-Riru模块： [点击查看](https://nalankang.lanzouo.com/b00u7gi9g)
+AdAway: Click to view
 
-LSPosed正式版：[点击查看](https://nalankang.lanzouo.com/b00uiewlg)
+I'll take your life three thousand times: Click to view
 
-LSPosed测试版： [点击查看](https://nalankang.lanzouo.com/b00u7rzoj)
+Nono no um: Click to view
 
-安卓8.0可用版本：[点击查看](https://nalankang.lanzouo.com/b00uu1hva)
+HookBox: Click to view
 
+CJ7: Click to view
 
-![IMG_20220220_144538780.png](img/IMG_20220220_144538780.png)
+Little Pigeon (Video download without watermark): Click to view
 
-### 【EDXPOSED】框架-(安卓8.0-11)
+Destiny (formerly LanFeng): Click to view
 
-EDxposed管理器(分支美化版)： [点击查看](https://nalankang.lanzouo.com/b00tml4pc)
+Douyin Master: Click to view
 
-EdXposed管理器(官方正式版)： [点击查看](https://nalankang.lanzouo.com/b00u12ibi)
+VodkaMod: Click to view
 
-EdXposed管理器(官方先行版)：[点击查看](https://nalankang.lanzouo.com/b00u12i4b)
+DestinyImm (TikTok Immersive Module): Click to view
 
-Riru模块： [点击查看](https://nalankang.lanzouo.com/b00u7gi9g)
+Freedom: Click to view
 
-Edxposed阿尔法(S版)： [点击查看](https://nalankang.lanzouo.com/b00u7gnpc)
+IMG_20240112_075424080005.png
+[XP Module] Ant Forest Module
 
-Edxposed阿尔法(Y版)： [点击查看](https://nalankang.lanzouo.com/b00u7gq8d)
+    Ant Forest 🌱 Automatic watering, energy collection, chicken feeding, check-in...
 
-Edxposed金丝雀(S版和Y版)： [点击查看](https://nalankang.lanzouo.com/b00u7h7ah)
+Crystal version: Click to view
 
+Autumn Wind Version: Click to view
 
-![IMG_20220220_150153781783.png](img/IMG_20220220_150153781783.png)
+Crayon Shin-chan version: Click to view
 
-### 【DREAMLAND】梦境框架-(安卓7.0-12)
+Rainy Season Version: Click to view
 
-Riru模块： [点击查看](https://nalankang.lanzouo.com/b00u7gi9g)
+Sesame seeds: Click to view
 
-梦境管理器：[点击查看](https://nalankang.lanzouo.com/b00uicrmf)
+Sesame Paste X: Click to view
 
-magisk-dreamland：[点击查看](https://nalankang.lanzouo.com/b00uicrad)
+IMG_20240112_075424081539.png
+[XP Module] Hide Application List
 
+    This module provides several hiding methods for specific software to avoid detection.
 
-![IMG_20220220_152839785.png](img/IMG_20220220_152839785.png)
+Hide app list: Click to view
 
-### 免【ROOT】XPOSED框架
+Riru-Hide My Applist: Click to view
 
-天鉴：(输入0000长按D，右上点造访-得到密码)：[点击查看](https://nalankang.lanzouo.com/b00uu09lg)
+Application list detector: Click to view
 
-太极：[点击查看](https://nalankang.lanzouo.com/b00uicmcf)
+Hidden Space: Click to view
 
-应用转生： [点击查看](https://nalankang.lanzouo.com/b00u1wq0f)
+IMG_20240112_075424082040.png
+[XP Module] Core Crack
 
-VirtualXposed： [点击查看](https://nalankang.lanzouo.com/b00u1wqgb)
+    Allow downgraded app installation, disable package manager signature verification, disable APK signature verification
 
-SandVXposed：[点击查看](https://www.coolapk.com/apk/io.virtualapp.sandvxposed64)
+Core crack 3.8 (Android 10-12): Click to view
 
-神之手：[点击查看](https://nalankang.lanzouo.com/b00uucuad)
+Core crack 2.2 (Android 9-10): Click to view
 
-VMOS Pro(虚拟大师)：[点击查看](https://nalankang.lanzouo.com/b00um855g)
+Core crack 2.1 (Android 8.x): Click to view
 
-SlimVXP：[点击查看](https://www.coolapk.com/apk/io.virtualapp.sandvxposed)
+Core Hack 2.0 (Android 7.x): Click to view
 
-BlackBox黑盒：[点击查看](https://nalankang.lanzouo.com/b00vkf9ub)
+Core crack 1.4 (Android 4.x-6.x): Click to view
+[XP Module] Application Management Module
 
-LSPatch稳定版：[点击查看](https://nalankang.lanzouo.com/b00vvd25i)
+Application Management: Click to view
 
-LSPatch测试版：[点击查看](https://nalankang.lanzouo.com/b00vvd26j)
+Prevent execution: Click to view
 
-X开：[点击查看](https://nalankang.lanzouo.com/b00vvyaxa)
+Green Guardian: Click to view
 
+Application Controller: Click to view
 
-![IMG_20220220_161114788.png](img/IMG_20220220_161114788.png)
+Thanos: Click to view
 
-### 【XP模块】 抖音模块
+DeepSleep (Controls application background wake-up): Click to view
 
-抖音助手： [点击查看](https://nalankang.lanzouo.com/b00um3gmj)
+Automatic Tombstone Backend: Click to view
 
-抖音+： [点击查看](https://nalankang.lanzouo.com/b00u6mqej)
+NoActive (Tombstone): Click to view
 
-抖音伴侣： [点击查看](https://nalankang.lanzouo.com/b00t5ypuj)
+MiTlite (Tombstone Module): Click to view
 
-AdAway： [点击查看](https://nalankang.lanzouo.com/b00tsmbgh)
+DMINI_8aef76ad581e7105.jpg
+[XP Module] Fingerprint Payment Module
 
-要你命三千： [点击查看](https://nalankang.lanzouo.com/b00tw4jhc)
+Xposed version: Click to view
 
-诺诺诺嗯： [点击查看](https://nalankang.lanzouo.com/b00u5t5wh)
+Riru version of the mask: Click to view
 
-HookBox：[点击查看](https://nalankang.lanzouo.com/b00uembsb)
+Zygisk version of the mask: Click to view
+[XP Module] Cancel dialog box
 
-长江七号：[点击查看](https://nalankang.lanzouo.com/b00tuzfsd)
+Cancel dialog box: Click to view
 
-小鸽子(视频无水印下载)：[点击查看](https://nalankang.lanzouo.com/b00vs6o1g)
+Cancel beta version in dialog box: Click to view
 
-Destiny(原LanFeng)：[点击查看](https://nalankang.lanzouo.com/b00vz18ef)
+Dialog box unfixed version: Click to view
 
-逗音小能手：[点击查看](https://nalankang.lanzoum.com/b00w5xqqd)
+Cancel the new version of the dialog box: Click to view
 
-VodkaMod：[点击查看](https://nalankang.lanzoum.com/b00w9rwcd)
+Dia (Cancel the new version of the dialog box) Click to view
 
-DestinyImm(抖音沉浸模块)：[点击查看](https://nalankang.lanzoum.com/b00xzr6ob)
+v2-21786f18225c06f4d135082d97ecc7b3_1440w083937.png
+[XP Module] Privacy Protection Module
 
-Freedom：[点击查看](https://nalankang.lanzouu.com/b0hca34eb)
+My privacy: Click to view
 
+X Privacy Protection: Click to view
 
-![IMG_20240112_075424080005.png](img/IMG_20240112_075424080005.png)
+XPrivacyLua: Click to view
 
-### 【XP模块】 蚂蚁森林模块
+Release my clipboard: Click to view
 
-> 蚂蚁森林🌱自动浇水、收能量、喂鸡、签到…
+v2-21786f18225c06f4d135082d97ecc7b3_1440w090052.png
+[XP Module] Application Cracking Module: Allows you to get some software and single-player games for free.
 
-水晶版： [点击查看](https://nalankang.lanzouo.com/b00tsmwvi)
+vipHook: Click to view
 
-秋风版： [点击查看](https://nalankang.lanzouo.com/b00tphmhg)
+GodVip: Click to view
 
-蜡笔小新版：[点击查看](https://nalankang.lanzouo.com/b00u7fmyj)
+BuyTool Lucky In-App Purchase: Click to view
 
-雨季版：[点击查看](https://nalankang.lanzouo.com/b00v77tpa)
+BuyTool User Guide: Click to view
 
-芝麻粒：[点击查看](https://nalankang.lanzoum.com/b00x9r8ve)
+Heavenly Emperor VIP (Cracked App VIP): Click to view
 
-芝麻糊X：[点击查看](https://nalankang.lanzouu.com/b0hcad99g)
+Dao Dao Dao (Cracked App VIP): Click to view
 
+Jasi cracker: Click to view
 
-![IMG_20240112_075424081539.png](img/IMG_20240112_075424081539.png)
+simpleVip: Click to view
 
-### 【XP模块】隐藏应用列表
+mHook Manager: Click to view
 
-> 该模块提供了一些隐藏方式用于隐藏某些指定的软件从而不被检测到
+esXplorer (Cracked ES File Explorer VIP): Click to view
 
-隐藏应用列表：[点击查看](https://nalankang.lanzouo.com/b00ujaeti)
+Hook module: Click to view
 
-Riru-Hide My Applist：[点击查看](https://nalankang.lanzouo.com/b00unry9e)
+KModule (Cracked VIP Software): Click to view
 
-应用列表检测器：[点击查看](https://nalankang.lanzouo.com/b00uwpoeb)
+WuWei (VIP access to some cracked software): Click to view
 
-隐秘空间：[点击查看](https://nalankang.lanzouo.com/b00vbys7c)
+Wild Grass Collection: (Cracked VIP access to some novel reading software) Click to view
 
+Coolhook: Click to view
 
-![IMG_20240112_075424082040.png](img/IMG_20240112_075424082040.png)
+Hippo Video and other universal modules: Click to view
 
-### 【XP模块】 核心破解
+Master Brother Film and Television Module: Click to view
 
-> 允许降级安装应用，禁用软件包管理器签名验证，禁用APK签名验证
+Feigua Video and other compatible modules: Click to view
 
-核心破解3.8(安卓10-12)： [点击查看](https://nalankang.lanzouo.com/b00u2j7xc)
+Xiaocao Video All-in-One Module: Click to view
 
-核心破解2.2(安卓9-10)： [点击查看](https://nalankang.lanzouo.com/iQS6Gjdk6zi)
+Fuck VIP (Cracked VIP for some apps): Click to view
 
-核心破解2.1(安卓8.x)： [点击查看](https://nalankang.lanzouo.com/iq7ZYjdk6ve)
+Fuck Light Speed ​​Virtual Machine XP Module: Click to view
 
-核心破解2.0(安卓7.x)： [点击查看](https://nalankang.lanzouo.com/ic56Ljgow5g)
+JsHook (Cracked VIP Software): Click to view
 
-核心破解1.4(安卓4.x-6.x)： [点击查看](https://nalankang.lanzouo.com/iaKd1jdk6pi)
+VIP Kill (Cracks VIP for Some Software): Click to view
 
+UnlockVIP (Crack some software VIPs): Click to view
 
-### 【XP模块】 应用管理模块
+Hooker (Cracks some software VIP): Click to view
 
-应用管理： [点击查看](https://nalankang.lanzouo.com/ibNpugt6sih)
+FCHook (VIP access to cracked software): Click to view
 
-阻止运行： [点击查看](https://nalankang.lanzouo.com/b00tjjhaf)
+VMOS Pro++ (Virtual Machine Cracking Module): Click to view
 
-绿色守护： [点击查看](https://nalankang.lanzouo.com/b00tw4f3e)
+Fuck VMOS Pro (virtual machine hacking module): Click to view
 
-应用控制器： [点击查看](https://nalankang.lanzouo.com/ili9Rgt6rib)
+Fuck MP3 Extractor Converter: Click to view
 
-Thanox(灭霸)： [点击查看](https://nalankang.lanzouo.com/b00ucbm7i)
+VIP for Yuki (VIP access to some cracked software): Click to view
 
-DeepSleep(控制应用后台唤醒)：[点击查看](https://nalankang.lanzouo.com/b00vsg6vi)
+Hook VIP (Crack some software VIPs): Click to view
 
-自动墓碑后台：[点击查看](https://nalankang.lanzouo.com/b00vxosna)
+FakeFL (Fake Location module): Click to view
 
-NoActive(墓碑)：[点击查看](https://nalankang.lanzouo.com/b00vxorzg)
+Enjoy premium membership services (VIP access to some software): Click to view
 
-MiTlite(墓碑模块)：[点击查看](https://nalankang.lanzoum.com/b00vzbpng)
+VIP module (cracked VIP access to some software): Click to view
 
+MyApp (Cracked VIP for Some Software): Click to view
 
+Lucky Patcher: Click to view
 
-![DMINI_8aef76ad581e7105.jpg](img/DMINI_8aef76ad581e7105.jpg)
+MyHook (Cracked VIP Software): Click to view
 
-### 【XP模块】指纹支付模块
+Dawn Break (Cracked VIP Software): Click to view
 
-xposed版：[点击查看](https://nalankang.lanzouo.com/b00twbp5i)
+Fuck VIP: (Cracked VIP software) Click to view
 
-面具Riru版：[点击查看](https://nalankang.lanzouo.com/b00utf13e)
+Fuck for VIP (Code unlocks some software membership and ad-removal modules): Click to view
 
-面具Zygisk版：[点击查看](https://nalankang.lanzouo.com/b00v90psj)
+Hook Tools (Crack some software VIP): Click to view
 
+IMG_20220221_2130196276.png
+[XP Module] Kuwo Music Module
 
-### 【XP模块】取消对话框
+Kuwo and Kugou VIP: Click to view
 
-对话框取消： [点击查看](https://nalankang.lanzouo.com/iHJzpl4nyuh)
+Kuwo Enhancement Plugin: Click to view
 
-对话框取消beta版： [点击查看](https://nalankang.lanzouo.com/iX6Cvl4nzjc)
+Kuwo VIP: Click to view
 
-对话框取消修复版：[点击查看](https://nalankang.lanzouo.com/b00vnmxqb)
+Kuwo Enhancement: Click to view
 
-对话框取消新版：[点击查看](https://nalankang.lanzouo.com/b00vz164d)
+Love Cool Me: Click to view
 
-Dia(对话框取消新版）[点击查看](https://nalankang.lanzoum.com/b00wa5mkf)
+IMG_20221011_1538532889.png
+[XP Modules] Collection of WeChat Enhancement Modules
 
+V++: Click to view
 
-![v2-21786f18225c06f4d135082d97ecc7b3_1440w083937.png](img/v2-21786f18225c06f4d135082d97ecc7b3_1440w083937.png)
+Nuwa Stone: Click to view
 
-### 【XP模块】隐私保护模块
+Micro-exercise: Click to view
 
-我的隐私：[点击查看](https://nalankang.lanzouo.com/iIw5Foda0sf)
+Micro X Module: Click to view
 
-X隐私保护： [点击查看](https://nalankang.lanzouo.com/b00uanape)
+WeChat groups: Click to view
 
-XPrivacyLua： [点击查看](https://nalankang.lanzouo.com/b00u9131a)
+WeChat group messaging: Click to view
 
-放开我的剪贴板： [点击查看](https://www.coolapk.com/apk/cn.nlifew.clipmgr)
+WeChat close friends: Click to view
 
+WeChat Enhancements: Click to view
 
-![v2-21786f18225c06f4d135082d97ecc7b3_1440w090052.png](img/v2-21786f18225c06f4d135082d97ecc7b3_1440w090052.png)
+WeChat Meme Battle: Click to view
 
-### 【XP模块】 应用破解模块：可以白嫖部分软件和单机游戏
+Enjoy WeChat: Click to view
 
-vipHook： [点击查看](https://nalankang.lanzouo.com/b00tym8ed)
+Enterprise Assistant: Click to view
 
-GodVip：[点击查看](https://nalankang.lanzouo.com/b00uk8e4h)
+Learn English on WeChat: Click to view
 
-BuyTool幸运内购： [点击查看](https://nalankang.lanzouo.com/b00ttwnti)
+TSBattery (Power Saving Module): Click to view
 
-BuyTool使用介绍：[点击查看](https://www.coolapk.com/feed/15028248?shareKey=ODA0MjEyNzUyOTEyNjBjZGIyNGM~&shareUid=462071&shareFrom=com.coolapk.market_11.2.4-beta6)
+Simulate WeChat's Shake feature: Click to view
 
-天帝VIP(破解应用VIP)：[点击查看](https://nalankang.lanzouo.com/b00usgjyd)
+MDWechat (WeChat customization): Click to view
 
-道道道(破解应用VIP)：[点击查看](https://nalankang.lanzouo.com/b00usyqdc)
+To hell with WeChat's news feed: Click to view
 
-Jasi破解器：[点击查看](https://nalankang.lanzouo.com/b00uzhq8h)
+I don't need confirmation: Click to view
 
-simpleVip：[点击查看](https://nalankang.lanzouo.com/b00uzhqcb)
+QQCleaner Lite (a lightweight, streamlined module): Click to view
 
-mHook管理器：[点击查看](https://nalankang.lanzouo.com/b00v4u35e)
+QQ Slimming Module (QQ/TIM/WeChat Cache and Junk Cleaner): Click to view
 
-esXplorer(破解ES文件管理器VIP)：[点击查看](https://nalankang.lanzouo.com/b00v629ih)
+Disable WeChat signature verification: Click to view
 
-Hook模块：[点击查看](https://nalankang.lanzouo.com/b00v635of)
+Feige Legend (Enterprise WeChat Red Envelope Grab): Click to view
 
-KModule(破解部分软件VIP)：[点击查看](https://nalankang.lanzouo.com/b00usnx1g)
+Enterprise Micro-Henchman (Taking over Enterprise WeChat Location Services): Click to view
 
-WuWei(破解部分软件VIP)：[点击查看](https://nalankang.lanzouo.com/b00vbmg4f)
+WeChat Pad (Enable simultaneous login on mobile and tablet): Click to view
 
-野草集：(破解部分小说软件VIP)[点击查看](https://nalankang.lanzoum.com/b00vgt8di)
+WeChat Group Message Assistant: Click to view
 
-酷通hook：[点击查看](https://nalankang.lanzouo.com/b00vpfnej)
+WeChat Face Mask: Click to view
 
-河马视频等通杀模块：[点击查看](https://nalankang.lanzouo.com/b00vpfnbg)
+Leap February (WeChat Enhancement Module): Click to view
 
-大师兄影视模块：[点击查看](https://nalankang.lanzouo.com/b00vpfn6b)
+20220220194848Aicy-1798.png
+[XP Modules] Collection of QQ Enhancement Modules
 
-飞瓜影视等通杀模块：[点击查看](https://nalankang.lanzouo.com/b00vpfn8d)
+QN (Enhancement Module): Click to view
 
-小草视频通杀模块：[点击查看](https://nalankang.lanzouo.com/b00vpfn5a)
+QX (Enhanced Module): Click to view
 
-Fuck VIP(破解部分应用VIP)：[点击查看](https://nalankang.lanzouo.com/b00vta7qj)
+Green Bean (Enhanced Module): Click to view
 
-Fuck光速虚拟机XP模块：[点击查看](https://nalankang.lanzouo.com/b00vta7cf)
+QScript module: Click to view
 
-JsHook(破解部分软件VIP)：[点击查看](https://nalankang.lanzouo.com/b00vv5shi)
+H.entai.Q (Enhanced Module): Click to view
 
-Vip Kill(破解部分软件VIP)：[点击查看](https://nalankang.lanzouo.com/b00w27pvi)
+ColorQQ2 (Theme Customization): Click to view
 
-UnlockVIP(破解部分软件VIP)：[点击查看](https://nalankang.lanzouo.com/b00w27q1e)
+XAutoDaily (Automatic Check-in): Click to view
 
-Hooker(破解部分软件VIP)：[点击查看](https://nalankang.lanzouo.com/b00w27q2f)
+Flower Q: Click to view
 
-FCHook(破解部分软件VIP)：[点击查看](https://nalankang.lanzouo.com/b00w3s2ab)
+QQ power saving module: Click to view
 
-VMOS Pro++(虚拟机破解模块)：[点击查看](https://nalankang.lanzouo.com/b00w3s2ef)
+QQ Cleanup: Click to view
 
-Fuck VMOS Pro(虚拟机破解模块)：[点击查看](https://nalankang.lanzoum.com/b00w5qhde)
+QQ Slimming (Cache Cleanup): Click to view
 
-Fuck MP3提取转换器：[点击查看](https://nalankang.lanzoum.com/b00w5qiwj)
+TSBattery (Power Saving Module): Click to view
 
-VIP for Yuki(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b00w7tped)
+QAuxiliary (Enhancement Module): Click to view
 
-Hook Vip(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b00wba9mf)
+QQCleaner Lite (a lightweight, streamlined module): Click to view
 
-FakeFL(Fake Location模块)：[点击查看](https://nalankang.lanzoum.com/b00wcp60b)
+QTool (QQ Enhancement Module): Click to view
 
-尊享会员服务(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b00wdbdgb)
+Little Colorful Bean (QQ Auxiliary Module): Click to view
 
-VIP模块(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b00wj7b5a)
+QQ Repeater: Click to view
 
-MyApp(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b00wl69mb)
+TL_ing (QQ Enhancement Module): Click to view
+[XP Module] System Enhancement Module
 
-幸运破解器：[点击查看](https://nalankang.lanzoum.com/b00u06nfa)
+XP Translate: Click to view
 
-MyHook(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b00wo5r4d)
+Global copy: Click to view
 
-破晓(破解部分软件VIP)：[点击查看](https://nalankang.lanzoum.com/b00wpd4qb)
+Forced screenshot: Click to view
 
-去他妈的会员：(破解部分软件VIP)[点击查看](https://nalankang.lanzoum.com/b00x9r85i)
+Fingerprint payment: Click to view
 
-Fuck for VIP(码解部分软件会员与去广告的模块)：[点击查看](https://nalankang.lanzoum.com/b00xu7tej)
+Locked notification: Click to view
 
-Hook Tools(破解部分软件VIP)：[点击查看](https://nalankang.lanzouu.com/b0hcagu6h)
+Custom text: Click to view
 
+Hammer BigBang: Click to view
 
-![IMG_20220221_2130196276.png](img/IMG_20220221_2130196276.png)
+Fake WiFi connection: Click to view
 
-### 【XP模块】酷我音乐模块
+Remove screenshot delay: Click to view
 
-酷我酷狗VIP：[点击查看](https://nalankang.lanzouo.com/b00ujhxza)
+Accessibility - Daemon: Click to view
 
-酷我增强插件：[点击查看](https://nalankang.lanzouo.com/b00vpfnfa)
+Mi Window - Global Mini Window: Click to view
 
-酷我VIP：[点击查看](https://nalankang.lanzouo.com/b00vlet8j)
+Native music notification bar: Click to view
 
-酷我增强：[点击查看](https://nalankang.lanzouo.com/b00vnxgqf)
+SMS verification code extraction: Click to view
 
-爱酷我：[点击查看](https://nalankang.lanzoum.com/b00wg5cij)
+Navigation bar extension module: Click to view
 
+xSuite (Change App Icon): Click to view
 
+Xposed Edge Pro (Edge Gestures): Click to view
 
-![IMG_20221011_1538532889.png](img/IMG_20221011_1538532889.png)
+iPlayMachines - Installer Takeover: Click to view
 
-### 【XP模块】 微信增强模块合集
+Prevent update: Click to view
 
-V++： [点击查看](https://nalankang.lanzouo.com/iFHt3n8udfe)
+Flat Style Bar Indicators (Status Bar Customization): Click to view
 
-女娲石：[点击查看](https://nalankang.lanzouo.com/tp/iva8Uuedfli)
+Clipboard Filter: Click to view
 
-微运动：[点击查看](https://nalankang.lanzouo.com/tp/iyGE2ghdg5c)
+Lyrics in the status bar: Click to view. Use in conjunction with (Wine Domain - Lyrics Acquisition).
 
-微X模块 ： [点击查看](https://nalankang.lanzouo.com/b00tujq4j)
+Lyrics for Wine Domain: Click to view
 
-微信分组： [点击查看](https://nalankang.lanzouo.com/b00u7165a)
+Volume Level +: Click to view
 
-微信群发： [点击查看](https://nalankang.lanzouo.com/b00u7164j)
+Non-disabled (pretending not to use accessibility services): Click to view
 
-微信密友： [点击查看](https://nalankang.lanzouo.com/b00u716hc)
+SkyOlin Assistant (Split Screen): Click to view
 
-微信增强： [点击查看](https://nalankang.lanzouo.com/b00u7311i)
+Hidden Space: Click to view
 
-微信斗图： [点击查看](https://nalankang.lanzouo.com/b00u7163i)
+Free screen rotation: Click to view
 
-畅玩微信： [点击查看](https://nalankang.lanzouo.com/b00u757wh)
+Reject forced brightness: Click to view
 
-企业助手： [点击查看](https://nalankang.lanzoui.com/b00u716mh)
+Set app to full screen: Click to view
 
-微信学英语：[点击查看](https://nalankang.lanzouo.com/b00udu6vg)
+Process lock: Click to view
 
-TSBattery(省电模块)：[点击查看](https://nalankang.lanzouo.com/b00utqtkf)
+Force Dark - Force Dark Mode: Click to view
 
-模拟微信摇一摇：[点击查看](https://nalankang.lanzouo.com/ibL7Xp64jze)
+NekoSMS - Spam SMS Blocker: Click to view
 
-MDWechat(微信美化)： [点击查看](https://nalankang.lanzouo.com/b00u7166b)
+HideZoomWindow (hides the small window from screenshots and screen recordings): Click to view
+[XP Module] Fake Device Information
 
-去TM的微信信息流：[点击查看](https://nalankang.lanzouo.com/tp/iTrToghd41g)
+App disguise: Click to view
 
-我不需要确认：[点击查看](https://nalankang.lanzouo.com/b00v82usf)
+Application variables: Click to view
 
-QQCleaner Lite(轻量版本的瘦身模块)：[点击查看](https://nalankang.lanzouo.com/b00vrngib)
+Playful Gadgets - App Disguise: Click to view
 
-QQ瘦身模块(QQ/TIM/微信缓存垃圾清理)：[点击查看](https://nalankang.lanzouo.com/b00tszuzi)
+Mobile viewer: Click to view
 
-禁用微信签名验证：[点击查看](https://nalankang.lanzouo.com/b00vv5k1e)
+Android Faker: Click to view
 
-飞哥传说(企业微信抢红包)：[点击查看](https://nalankang.lanzoum.com/b00w6ipyb)
+Device ID Changer: Click to view
 
-企微小打手(接管企业微信定位服务)：[点击查看](https://nalankang.lanzoum.com/b00w7hg4h)
+Guise - Applying Variables: Click to view
+[XP Module] Storage Redirection
 
-WeChat Pad(开启手机和平板同时登陆入口)：[点击查看](https://nalankang.lanzoum.com/b00w7lwud)
+    Redirect the paths of folders and files created by applications in the SD card directory to prevent applications from leaving unnecessary files in the SD card directory.
 
-微信群消息助手：[点击查看](https://nalankang.lanzoum.com/b00w9a34j)
+Storage redirection: Click to view
 
-微信糊脸：[点击查看](https://nalankang.lanzoum.com/b00wj4cng)
+XInternalSD: Click to view
 
-闰二月(微信增强模块)：[点击查看](https://nalankang.lanzoum.com/b00x9r8fi)
+LT NoLitter Remastered: Click to view
 
+Media storage device management: Click to view
 
-![20220220194848Aicy-1798.png](img/20220220194848Aicy-1798.png)
+IMG_20220221_153614822.png
+[XP Module] Powerful Nation Assistant Module
 
-### 【XP模块】 QQ增强模块合集
+    Simulates clicks, freeing your hands; a must-have app for students. Features include point-based execution, sequential execution, challenge quizzes, weekly quizzes, two-player battles, and four-player battles.
 
-QN(增强模块)： [点击查看](https://nalankang.lanzouo.com/b00tsdawd)
+Dominant Nation: Click to view
 
-QX(增强模块)： [点击查看](https://nalankang.lanzouo.com/b00u0c8md)
+Want Want Power: Click to view
 
-绿豆(增强模块)：[点击查看](https://nalankang.lanzouo.com/b00u74h3c)
+School Lei Feng Strengthens the Nation: Click to view
 
-QScript脚本模块： [点击查看](https://nalankang.lanzouo.com/b00u94zfe)
+Achaebol Powerhouse: Click to view
 
-H.entai.Q(增强模块)： [点击查看](https://nalankang.lanzouo.com/b00u73uof)
+Advanced Power: Click to view
 
-ColorQQ2(主题美化)：[点击查看](https://nalankang.lanzouo.com/b00u9sekh)
+Learning Machine Powerhouse: Click to view
 
-XAutoDaily(自动签到)：[点击查看](https://nalankang.lanzouo.com/b00udwffg)
+Automatic Learning Power: Click to view
 
-花Q： [点击查看](https://nalankang.lanzouo.com/b00tg274j)
+Time Power: Click to view
 
-QQ省电模块： [点击查看](https://nalankang.lanzouo.com/b00u9clng)
+Learning Assistant: Click to view
 
-QQ净化：[点击查看](https://nalankang.lanzouo.com/id15ckb)
+AI Powerhouse: Click to view
 
-QQ瘦身(缓存清理垃圾)： [点击查看](https://nalankang.lanzouo.com/b00tszuzi)
+One-click to strengthen the nation: Click to view
 
-TSBattery(省电模块)：[点击查看](https://nalankang.lanzouo.com/b00utqtkf)
+A technologically advanced nation: Click to view
 
-QAuxiliary(增强模块)：[点击查看](https://nalankang.lanzouo.com/b00vc3gha)
+A Master of National Strength: Click to view
 
-QQCleaner Lite(轻量版本的瘦身模块)：[点击查看](https://nalankang.lanzouo.com/b00vrngib)
+Learn from the strength of a powerful nation: Click to view
 
-QTool(QQ增强模块)：[点击查看](https://nalankang.lanzouo.com/b00vlucje)
+IMG_20221011_1552062891.png
+[XP Module] Virtual Location
 
-小彩豆(QQ辅助模块)：[点击查看](https://nalankang.lanzouo.com/b00w5akcf)
+    It can simulate a fake geographical location.
 
-QQ复读机：[点击查看](https://nalankang.lanzoum.com/b00u9f1yf)
+Simulated location: Click to view
 
-TL_ing(QQ增强模块)：[点击查看](https://nalankang.lanzoum.com/b00wg5fod)
+lataclysm: Click to view
 
+X-Location Protection: Click to view
 
-### 【XP模块】 系统增强模块
+Cancel beta version in dialog box: Click to view
 
-Xp快译： [点击查看](https://nalankang.lanzouo.com/tp/ipnxCn6pb3i)
+Virtual location: Click to view
 
-全局复制： [点击查看](https://nalankang.lanzouo.com/iNjcbh1ex8d)
+aca24bc17f1092792882.png
+[XP Module] Translation Module
 
-强制截图： [点击查看](https://nalankang.lanzouo.com/iDOdis7llzc)
+    Translate the text within the app into Chinese
 
-指纹支付： [点击查看](https://nalankang.lanzouo.com/b00twbp5i)
+AllTrans: Click to view
 
-锁定通知： [点击查看](https://www.coolapk.com/apk/me.singleneuron.locknotification)
+AllTrans User Guide: Click to view
 
-文本自定义： [点击查看](https://nalankang.lanzouo.com/izfDpdcai0d)
+Learn English on WeChat: Click to view
 
-锤子BigBang： [点击查看](https://www.coolapk.com/apk/com.forfan.bigbang.coolapk)
+XP Translate: Click to view
 
-伪装WiFi连接： [点击查看](https://nalankang.lanzouo.com/b00tvgw6f)
+20220221084110Aicy799.png
+[XP Modules] A Collection of MIUI System-Specific Modules
 
-移除截屏延迟： [点击查看](https://nalankang.lanzouo.com/isXezjesckd)
+XMiTools: Click to view
 
-无障碍-Daemon： [点击查看](https://nalankang.lanzouo.com/iRz8qim5hda)
+Xiaomi Air Purifier: Click to view
 
-米窗-全局小窗： [点击查看](https://www.coolapk.com/apk/com.sunshine.freeform)
+MIUI Global High Frame Rate: Click to view
 
-原生音乐通知栏： [点击查](https://nalankang.lanzouo.com/b00tsmf3i)
+MIUI 12 Dual Status Bar: Click to view
 
-短信验证码提取： [点击查看](https://nalankang.lanzouo.com/b00uaxssf)
+Unlock MIUI keyboard optimization: Click to view
 
-导航栏扩展模块： [点击查看](https://www.coolapk.com/apk/com.egguncle.xposednavigationbar)
+Miui Home Desktop Enhancement Module: Click to view
 
-xSuite(修改应用图标)： [点击查看](https://nalankang.lanzouo.com/i49dhgt6zij)
+ChiMi (MIUI Enhanced Module): Click to view
 
-Xposed edge por(边缘手势)： [点击查看](https://nalankang.lanzouo.com/b00tvgqqj)
+CustoMIUIzer (MIUI Dedicated): Click to view
 
-爱玩机-安装器接管：[点击查看](https://nalankang.lanzouo.com/b00ujhxvg)
+MIUI Dual App Restriction Removal Module: Click to view
 
-阻止更新：[点击查看](https://nalankang.lanzouo.com/iALHhqxzrzg)
+Remove the system camera shutter sound module: Click to view
 
-Flat Style Bar Indicators(状态栏美化)：[点击查看](https://nalankang.lanzouo.com/b00ursodi)
+Aiwanji - MIUI Installer: Click to view
 
-剪贴板过滤器：[点击查看](https://nalankang.lanzouo.com/b00uxukdc)
+MIUI Advanced Settings - Click to view
 
-墨•状态栏歌词：[点击查看](https://nalankang.lanzouo.com/b00uzgujg) 配合(酒域-歌词获取)使用
+Rice Water (MIUI Ad Removal Module): Click to view
 
-酒域-歌词获取：[点击查看](https://nalankang.lanzouu.com/b0hccrpmb)
+Mind your own business (kill the barrier-free wait of ten seconds): Click to view
 
-音量级别+：[点击查看](https://nalankang.lanzouo.com/irAP4p31ida)
+MIUI accent colors: Click to view
 
-非残(假装自己没有使用无障碍服务)：[点击查看](https://nalankang.lanzouo.com/b00v7ufmb)
+MIUltra (MIUI 12.5 extension): Click to view
 
-SkyOlin助手(分屏)：[点击查看](https://nalankang.lanzouo.com/b00vbffoh)
+Xiaomi Sports Hook: Click to view
 
-隐秘空间：[点击查看](https://nalankang.lanzouo.com/b00vbys7c)
+Status bar lyrics: Click to view
 
-自由屏幕旋转：[点击查看](https://nalankang.lanzouo.com/b00vj5gif)
+Xiaomi Push Enhancement Module: Click to view
 
-拒绝强制亮度：[点击查看](https://nalankang.lanzouo.com/b00vj5gli)
+Hide MIUI Warrior icon: Click to view
 
-设置应用全屏：[点击查看](https://nalankang.lanzouo.com/b00vloi6b)
+AppLock (prevents specific apps from being killed or cleared with a single swipe): Click to view
 
-进程锁：[点击查看](https://nalankang.lanzouo.com/b00vtzfkb)
+MiCode (Xiaomi Browser Enhancement Module): Click to view
 
-Force Dark-强制深色模式：[点击查看](https://nalankang.lanzoum.com/b00wj4cjc)
+Independent second display: Click to view
 
-NekoSMS-垃圾短信拦截器：[点击查看](https://nalankang.lanzoum.com/b00wltcpa)
+MIUI native notification icons: Click to view
 
-HideZoomWindow(从截图和录屏中隐藏小窗)：[点击查看](https://nalankang.lanzoum.com/b00wmlqtg)
+Whole grains: Click to view
 
+Xiaomi Translate+: Click to view
 
-### 【XP模块】伪装设备信息
+MIUI Time Display in Seconds: Click to view
 
-应用伪装： [点击查看](https://nalankang.lanzouo.com/b00u9amhe)
+Unlock Xiaomi Miao: Click to view
 
-应用变量： [点击查看](https://nalankang.lanzouo.com/iFeH6h1ehxc)
+WooBoxForMIUI (MIUI 13 System Extension): Click to view
 
-爱玩机-应用伪装：[点击查看](https://nalankang.lanzouo.com/b00uj175i)
+Unlock MIUI+: Click to view
 
-手机查看器：[点击查看](https://nalankang.lanzouo.com/b00v891id)
+No Kami allowed: Click to view
 
-Android Faker：[点击查看](https://nalankang.lanzouo.com/b00v88yxa)
+MIUI theme hack: Click to view
 
-设备ID更改器：[点击查看](https://nalankang.lanzouo.com/b00v894xg)
+MIUI Toolbox: Click to view
 
-Guise-应用变量：[点击查看](https://nalankang.lanzoum.com/b00wihi9a)
+AppLock (prevents apps from being killed by swiping or allows for one-click cleanup): Click to view
 
+MIUI Performance Savior: Click to view
 
-### 【XP模块】 存储重定向
+MaxFreeForm (Remove MIUI 13 Multi-Window Restriction): Click to view
 
-> 重定向应用程序在sdcard目录下生成的文件夹和文件的路径，防止应用在sdcard目录下乱拉屎
+MiuiMediaEditor (MIUI Gallery Enhancement Module): Click to view
 
-存储重定向：[点击查看](https://nalankang.lanzouo.com/irdVpqq85gb)
+MIUI Mask Evolution: Click to view
 
-XInternalSD：[点击查看](https://nalankang.lanzouo.com/i44wggt6jni)
+MIUI Modified Native Installer: Click to view
 
-LT NoLitter重制版：[点击查看](https://nalankang.lanzouo.com/iP7gb03mea1g)
+Ink & Table: Click to view
 
-媒体存储设备管理：[点击查看](https://nalankang.lanzoum.com/b00x9r7wj)
+AutoNFC: Click to view
 
+MIUI QOL (System Enhancement Module): Click to view
 
-![IMG_20220221_153614822.png](img/IMG_20220221_153614822.png)
+MIUI Screen Recording Evolution: Click to view
 
-### 【XP模块】 强国助手模块
+Xiaomi is in trouble: Click to view
 
-> 模拟点击，解放双手，学生党必备的软件 积分执行、顺序执行、挑战答题、每周答题、双人对战、四人对战
+MiTlite (Tombstone Module): Click to view
 
-霸王强国：[点击查看](https://nalankang.lanzouo.com/b00up7oda)
+MIUI Installer Evolution: Click to view
 
-旺仔强国：[点击查看](https://nalankang.lanzouo.com/b00unbzje)
+Miller (MUI power optimization module): Click to view
 
-校雷锋强国：[点击查看](https://nalankang.lanzouo.com/b00umdy0f)
+Your marketing messages are basically all ads: Click to view
 
-阿超强国：[点击查看](https://nalankang.lanzouo.com/b00umdy1g)
+MIUI Update & Evolution: Click to View
 
-高级强国：[点击查看](https://nalankang.lanzouo.com/b00umdy4j)
+WINI - Floating Notification Blur Module: Click to view
 
-学习机强国：[点击查看](https://nalankang.lanzouo.com/b00umdxyd)
+5G switch: Click to view
 
-自动学习强国：[点击查看](https://nalankang.lanzouo.com/b00upocjg)
+MIUI notification fix: Click to view
 
-时光强国：[点击查看](https://nalankang.lanzouo.com/b00uqe7fi)
+BetterMiuiExpress (directly displays package information on the negative one screen): Click to view
 
-学习助手：[点击查看](https://nalankang.lanzouo.com/b00utuj4d)
+Enhanced portal: Click to view
 
-AI强国：[点击查看](https://nalankang.lanzouo.com/b00v0v3sj)
+MIUI FreeFormX: Click to view
 
-一键强国：[点击查看](https://nalankang.lanzouo.com/b00v44m8f)
+Cemiuiler-MIUI System Enhancement Module: Click to view
 
-科技强国：[点击查看](https://nalankang.lanzouo.com/b00v9lzsf)
+StarVoyager (System Enhancement): Click to view
 
-强国能手：[点击查看](https://nalankang.lanzouo.com/b00ve2g7g)
+IMG_20220221_085858801.png
+[XP Modules] Collection of Flyme System Dedicated Modules
 
-学习一下强国：[点击查看](https://nalankang.lanzouo.com/b00vg2urc)
+FXposed: Click to view
 
+Flyme Assistant: Click to view
 
-![IMG_20221011_1552062891.png](img/IMG_20221011_1552062891.png)
+Flyme 10 Assistant: Click to view
 
-### 【XP模块】 虚拟定位
+MZXPT (Meizu Toolbox): Click to view
 
-> 可以模拟一个虚假的地理位置
+Flyme Toolbox: Click to view
 
-模拟位置： [点击查看](https://nalankang.lanzouo.com/b00tvpb1i)
+IMG_20220422_1925241225.png
+[XP Modules] Collection of ColorOS System Dedicated Modules
 
-lataclysm： [点击查看](https://nalankang.lanzouo.com/izZ3xljlaqh)
+Everything: Click to view
 
-X定位保护：[点击查看](https://nalankang.lanzouo.com/b00ut32sd)
+OnePlus Expansion: Click to view
 
-对话框取消beta版： [点击查看](https://nalankang.lanzouo.com/iX6Cvl4nzjc)
+OnePlus Hydrogen Oxygen Theme: Click to view
 
-虚拟定位：[点击查看](https://nalankang.lanzouo.com/b00v8fv7i)
+OnePlus fingerprint extension: Click to view
 
+OnePlus status bar network speed: Click to view
 
-![aca24bc17f1092792882.png](img/aca24bc17f1092792882.png)
+ColorOSTool System Enhancement Module: Click to view
 
-### 【XP模块】 翻译模块
+WooBox for ColorOS: Click to view
 
-> 把app内的文字翻译成中文
+Enhanced ColorOS notification icons: Click to view
 
-AllTrans： [点击查看](https://nalankang.lanzouo.com/b00tngrof)
+LuckyTool: Click to view
 
-AllTrans使用教程：[点击查看](https://www.coolapk.com/feed/23531453?shareKey=M2Y0OTg1ZTRmMDk2NjE2N2QwYjY~&shareUid=462071&shareFrom=com.coolapk.market_11.2.3)
+ColorOS6 (System Enhancement Module): Click to view
 
-微信学英语：[点击查看](https://nalankang.lanzouo.com/b00udu6vg)
+OxygenCustomizer (System Enhancement): Click to view
 
-Xp快译： [点击查看](https://nalankang.lanzouo.com/tp/ipnxCn6pb3i)
+20220221091208Aicy804.png
+[XP Modules] NetEase Cloud Music Module Collection
 
+Cloud Village Cleaners: Click to view
 
-![20220221084110Aicy799.png](img/20220221084110Aicy799.png)
+Dolby Big Speaker Beta: Click to view
 
-### 【XP模块】 MIUI系统专用模块合集
+UnblockMusic Pro: Click to view
 
-XMiTools： [点击查看](https://www.coolapk.com/apk/com.tianma.tweaks.miui)
+NetEase Cloud Music Plugin: Click to view
 
-小米净化： [点击查看](https://nalankang.lanzouo.com/b00tyatha)
+Album cover cannot be rotated: Click to view
 
-MIUI全局高帧： [点击查看](https://nalankang.lanzouo.com/b00ud00wb)
+NetEase Diaomao Cloud: Click to view
 
-Miui12双排状态栏： [点击查看](https://www.coolapk.com/apk/com.lz.teemo)
+IMG_20220221_113124805.png
+[XP Module] Weibo Cleanup Module
 
-解锁MIUI键盘优化： [点击查看](https://nalankang.lanzouo.com/b00ud00la)
+Weibo+: Click to view
 
-MiuiHome桌面增强模块：[点击查看](https://nalankang.lanzouo.com/b00v28daf)
+AdAway: Click to view
 
-ChiMi(MIUI增强模块)： [点击查看](https://nalankang.lanzouo.com/b00t6n0ti)
+Weibo Assistant: Click to view
 
-CustoMIUIzer(MIUI专用)： [点击查看](https://nalankang.lanzouo.com/b00tyaawb)
+This is truly a lightweight experience (Weibo Lite/Lite version, ad-free): Click to view
 
-MIUI双开限制解除模块： [点击查看](https://nalankang.lanzouo.com/b00u9zola)
+20220221141156Aicy809828.png
+[XP Module] Baidu Tieba Cleanup Module
 
-移除系统相机拍照声音模块：[点击查看](https://nalankang.lanzouo.com/b00uhrdud)
+Baidu Tieba Companion: Click to view
 
-爱玩机-MIUI安装器：[点击查看](https://nalankang.lanzouo.com/b00ujhxte)
+Baidu Tieba Assistant: Click to view
 
-爱玩机-MIUI高级设置：[点击查看](https://nalankang.lanzouo.com/b00ujhxqb)
+Tieba TS (Tieba Cleanup): Click to view
 
-淘米水(MIUI去广吿模块)：[点击查看](https://nalankang.lanzouo.com/b00ukbeab)
+Lianbi module: Click to view
+[XP Module] CCB & ICBC Module: Ignore ROOT Detection Module
 
-不要多管闲事(干掉无障碍十秒等待)：[点击查看](https://nalankang.lanzouo.com/b00ulw6ch)
+China Construction Bank Killer: Click to view
 
-MIUI强调色：[点击查看](https://nalankang.lanzouo.com/b00ulw97a)
+China Construction Bank's root-ignore fixed version: Click to view
 
-MIUltra(MIUI12.5扩展)：[点击查看](https://nalankang.lanzouo.com/b00usk4wf)
+BankRX (ICBC and CCB): Click to view
 
-小米运动Hook：[点击查看](https://nalankang.lanzouo.com/b00uz62yd)
+Infernal Affairs (Agricultural Bank of China, Industrial and Commercial Bank of China, Anti-Fraud Center blocks root detection): Click to view
 
-状态栏歌词：[点击查看](https://nalankang.lanzouo.com/b00uzgujg)
+20220221142448Aicy812.png
+[XP Module] Bilibili Enhancement Module
 
-小米push增强模块：[点击查看](https://nalankang.lanzouo.com/b00uzzc2f)
+Bilibili Roaming: Click to view
 
-隐藏MIUI勇者标识：[点击查看](https://nalankang.lanzouo.com/b00v2o9li)
+Bilibili Patch: Click to view
 
-AppLock(防止特定应用被侧滑杀死或一键清理)：[点击查看](https://nalankang.lanzouo.com/b00v4oaej)
+Lianbi module: Click to view
 
-MiCode(小米浏览器增强模块)：[点击查看](https://www.coolapk.com/apk/xyz.kymirai.micode)
+FuckBilibiliVote (Fuck your mother's Bilibili video pop-up): Click to view
 
-独立显秒：[点击查看](https://nalankang.lanzouo.com/b00v7h4ni)
+Do not use portrait mode: Click to view
 
-MIUI原生通知图标：[点击查看](https://nalankang.lanzouo.com/b00v9rnab)
+Bilibili Roaming X: Click to view
 
-粗粮：[点击查看](https://nalankang.lanzouo.com/b00v9zykf)
+Bilibili VIP video quality: Click to view
 
-小米翻译+：[点击查看](https://nalankang.lanzouo.com/b00va0h4d)
+IMG_20220529_0705171935.png
+Novel cracking module
 
-Miui时间显秒：[点击查看](https://nalankang.lanzouo.com/b00vbja3a)
+Tomato Novel Hook VIP Module: Click to view
 
-解锁小米妙：[点击查看](https://nalankang.lanzouo.com/b00vbja1i)
+Novel Hook module: Click to view
 
-WooBoxForMIUI(MIUI13系统扩展)：[点击查看](https://nalankang.lanzouo.com/b00vc2p2d)
+Wild Grass Collection: Click to view
 
-解锁MIUI+：[点击查看](https://nalankang.lanzouo.com/b00vczkba)
+Tomato Novels: Click to view
 
-不许卡米：[点击查看](https://nalankang.lanzouo.com/b00vcvnha)
+Tomato Killer: Click to view
 
-Miui主题破解：[点击查看](https://nalankang.lanzouo.com/b00velxyj)
+S21011-144657422890.png
+[XP Module] Motion Modification Module
 
-MIUI工具箱：[点击查看](https://nalankang.lanzouo.com/b00vg2u8d)
+    Modify your step count and show off effortlessly!
 
-AppLock(防止应用被侧滑杀死或一键清理)：[点击查看](https://nalankang.lanzouo.com/b00vi88ne)
+Motion Modifier: Click to view
 
-MIUI性能救星：[点击查看](https://nalankang.lanzouo.com/b00vkcyng)
+Motion Accelerator: Click to view
 
-MaxFreeForm(解除MIUI13多小窗限制)：[点击查看](https://nalankang.lanzouo.com/b00vlohgf)
+Sports simulator: Click to view
+[XP Module] Status Bar Color Change
 
-MiuiMediaEditor(MIUI相册增强模块)：[点击查看](https://nalankang.lanzouo.com/b00vn4gfa)
+Weiju Old Version: Click to view
 
-MIUI遮罩进化：[点击查看](https://nalankang.lanzouo.com/b00vm6mxa)
+New version of Weju: Click to view
 
-MIUI修改原生安装器：[点击查看](https://nalankang.lanzouo.com/b00vqp23i)
+PerfectColorBar: Click to view
 
-墨•桌：[点击查看](https://nalankang.lanzouo.com/b00vqp1uj)
+Automatic immersive status bar: Click to view
+[XP Module] Hides Root and Xposed from being detected.
 
-AutoNFC：[点击查看](https://nalankang.lanzouo.com/b00vqs8wb)
+RootCloak (Hidden Root): Click to view
 
-MIUI QOL(系统增强模块)：[点击查看](https://nalankang.lanzouo.com/b00vu6xof)
+Zuper (hides Xposed and Root): Click to view
 
-MIUI录屏进化：[点击查看](https://nalankang.lanzouo.com/b00vvd0de)
+Hide app list: Click to view
 
-小米不妙·享：[点击查看](https://nalankang.lanzouo.com/b00vz17di)
+XposedHider (Hidden Xposed): Click to view
 
-MiTlite(墓碑模块)：[点击查看](https://nalankang.lanzouo.com/b00vzbpng)
+SudoHide (Hide Xposed): Click to view
+[XP Module] Bypassing VPN Detection
 
-MIUI安装器进化：[点击查看](https://nalankang.lanzoum.com/b00w3euqb)
+NoVPNDetect: Click to view
 
-Miller(MUI功耗优化模块)：[点击查看](https://nalankang.lanzouo.com/b00w3s25g)
+Bypass VPN detection: Click to view
 
-你这运营消息根本就全都是广告吧：[点击查看](https://nalankang.lanzoum.com/b00w65i3a)
+Algorithm Assistant: Click to view
 
-MIUI更新进化：[点击查看](https://nalankang.lanzoum.com/b00w6ze6j)
+Dialbox: Click to view
+[XP Module] Gravity Toolbox
 
-WINI-悬浮通知模糊模块：[点击查看](https://nalankang.lanzoum.com/b00w8v9bc)
+GravityBox [Android 8]: Click to view
 
-5G开关：[点击查看](https://nalankang.lanzoum.com/b00w9p9bc)
+GravityBox [Android 9]: Click to view
 
-MIUI通知修复：[点击查看](https://nalankang.lanzoum.com/b00wcl3gf)
+GravityBox [Android 10]: Click to view
 
-BetterMiuiExpress(负一屏直接显示快递信息)：[点击查看](https://nalankang.lanzoum.com/b00w38glg)
+GravityBox [Android 11]: Click to view
 
-传送门增强：[点击查看](https://nalankang.lanzoum.com/b00wmgeqb)
+IMG_20221011_1519312886.png
+[XP Module] Ad Removal Module
 
-MIUI自由小窗X-MiuiFreeFormX：[点击查看](https://nalankang.lanzoum.com/b00x2h8ef)
+Fast-Moving Consumer Goods (FMCG): Click to view
 
-Cemiuiler-MIUI系统增强模块：[点击查看](https://nalankang.lanzoum.com/b00x2h8pg)
+Great Sage Purification: Click to view
 
-StarVoyager(系统增强)：[点击查看](https://nalankang.lanzoum.com/b00x34bfc)
+Great Sage Purification - Magisk Version: Click to view
 
+Wukong Accelerator: Click to view
 
-![IMG_20220221_085858801.png](img/IMG_20220221_085858801.png)
+AdBlocker: Click to view
 
-### 【XP模块】 Flyme系统专用模块合集
+Lianbi module: Click to view
 
-FXposed： [点击查看](https://nalankang.lanzouo.com/b00tg28vc)
+Xianyu Assistant: Click to view
 
-Flyme助手： [点击查看](https://nalankang.lanzouo.com/b00t637bc)
+Telegram Ad Blocker: Click to view
 
-Flyme10助手：[点击查看](https://nalankang.lanzoum.com/b00x2h9li)
+Telegram ad-blocking module: Click to view
 
-MZXPT(魅族工具箱)： [点击查看](https://nalankang.lanzouo.com/b00tw4g4b)
+Twitter ad-free module: Click to view
 
-flyme工具箱：[点击查看](https://nalankang.lanzouo.com/b00uyi65e)
+Twitter Ad Eater: Click to view
 
+FuckCoolapkR - Ad-removal module on Coolapk: Click to view
 
-![IMG_20220422_1925241225.png](img/IMG_20220422_1925241225.png)
+VideoAdKill (Ad-removal module for Tencent, Youku, iQiyi, and Huya): Click to view
 
-### 【XP模块】 ColorOS系统专用模块合集
+ZuiYouHook ad-free module: Click to view
 
-万物： [点击查看](https://www.coolapk.com/apk/com.bangtu.opaod)
+Screw your ads: Click to view
 
-一加拓展： [点击查看](https://www.coolapk.com/apk/com.davidking.optools)
+FuckAD - Fuck Ads: Click to view
 
-一加氢氧主题： [点击查看](https://www.coolapk.com/apk/com.jizhi.optheme)
+Splash screen assistant: Click to view
 
-一加指纹拓展： [点击查看](https://www.coolapk.com/apk/com.davidking.xposed.opfingerprint)
+IMG_20220221_143749814.png
+[XP Modules] Pipi Shrimp Kuaishou Module Collection
 
-一加状态栏网速： [点击查看](https://www.coolapk.com/apk/me.seasonyuu.xposed.networkspeedindicator.h2os)
+Kuaishou+: Click to view
 
-ColorOSTool系统增强模块：[点击查看](https://nalankang.lanzouo.com/b00utw46h)
+AdAway: Click to view
 
-WooBox For ColorOS：[点击查看](https://nalankang.lanzouo.com/b00vkrz0j)
+Nono no um: Click to view
 
-ColorOS通知图标增强：[点击查看](https://nalankang.lanzouo.com/b00vdjeeh)
+Pipi Shrimp Assistant: Click to view
 
-LuckyTool：[点击查看](https://nalankang.lanzouo.com/b00vxpfyj)
+I'll take your life three thousand times: Click to view
 
-ColorOS6(系统增强模块)：[点击查看](https://nalankang.lanzoum.com/b00wmwf9g)
+Pipi Funny Assistant: Click to view
 
-OxygenCustomizer(系统增强)：[点击查看](https://nalankang.lanzouu.com/b0hc83xdc)
+S21011-150318612888.png
+[XP Module] Xiaohongshu Module
 
+AdAway: Click to view
 
-![20220221091208Aicy804.png](img/20220221091208Aicy804.png)
+Xiaohongshu: Click to view
 
-### 【XP模块】 网易云音乐模块合集
+Xiaohongshu+: Click to view
 
-云村清洁工： [点击查看](https://nalankang.lanzouo.com/in7DElr49xe)
+Sweet Potato and Pig Trotters: Click to view
 
-杜比大喇叭β版： [点击查看](https://nalankang.lanzouo.com/b00u9dtif)
+IMG_20221011_1555412892.png
+[XP Module] DingTalk Module
 
-UnblockMusic Pro： [点击查看](https://nalankang.lanzouo.com/b00u9dtwj)
+DingTalk Check-in: Click to view
 
-网易云音乐插件： [点击查看](https://nalankang.lanzouo.com/iFEzDgt5bri)
+DingTalk Assistant: Click to view
 
-专辑封面禁旋转： [点击查看](https://nalankang.lanzouo.com/b00u9ezsh)
+DingTalk Anti-Recall Tool: Click to view
 
-网易叼毛云：[点击查看](https://nalankang.lanzouo.com/b00ve8qyj)
+DingTalk Enhancements: Click to view
 
+Hammer: Click to view
 
-![IMG_20220221_113124805.png](img/IMG_20220221_113124805.png)
+IMG_20221011_1524592887.png
+[XP Module] Telegram Module
 
-### 【XP模块】 微博净化模块
+TMoe (Telegraph Enhancement Module): Click to view
 
-微博+： [点击查看](https://nalankang.lanzouo.com/b00u8r25i)
+Telegram Ad Blocker: Click to view
 
-AdAway： [点击查看](https://nalankang.lanzouo.com/b00tsmbgh)
+Telegram ad-blocking module: Click to view
 
-微博助手：[点击查看](https://nalankang.lanzouo.com/b00ullbyd)
+TeleSpeed ​​(improves Telegram download speed): Click to view
 
-这真轻享(微博轻享版/极速版去广告)：[点击查看](https://nalankang.lanzoum.com/b00wcl3nc)
+Telegram Helper: Click to view
 
+TG++: Click to view
 
-![20220221141156Aicy809828.png](img/20220221141156Aicy809828.png)
+Telegram Assistant: Click to view
 
-### 【XP模块】 百度贴吧净化模块
+Re-telegram: Click to view
 
-百度贴吧伴侣： [点击查看](https://nalankang.lanzouo.com/b00u0l13g)
+IMG_20221016_0037052984.png
+[XP Module] YouTube Module
 
-百度贴吧助手：[点击查看](https://nalankang.lanzouo.com/b00uecoyf)
+YouTube AdAway: Click to view
 
-帖吧TS(帖吧净化)： [点击查看](https://nalankang.lanzouo.com/b00tzwihc)
+YouTube Assistant: Click to view
+[XP Modules] Other Module Collection
 
-联璧模块： [点击查看](https://nalankang.lanzouo.com/b00tsmwqd)
+Algorithm Assistant (Hook Tool): Click to view
 
+God Mode: Click to view
 
-### 【XP模块】 建行工行模块忽略ROOT检测模块
+Heavenly Emperor Mode: Click to view
 
-建行杀手： [点击查看](https://nalankang.lanzouo.com/insPchnubsj)
+Scheduled cleanup (clean up files and folders): Click to view
 
-建行忽略root修复版： [点击查看](https://nalankang.lanzouo.com/ifQ6Chnuekj)
+Xposed Blacklist (Disable Xposed): Click to view
 
-BankRX(工行建行)： [点击查看](https://nalankang.lanzouo.com/iQH4Nhpiuni)
+AllTrans (In-App Translation): Click to view
 
-无间道(农行、工行、反诈中心屏蔽root检测)：[点击查看](https://nalankang.lanzouo.com/b00v8j57g)
+Go to your grandpa's built-in browser: Click to view
 
+One-click sharing (video without watermark): Click to view
 
-![20220221142448Aicy812.png](img/20220221142448Aicy812.png)
+Zhiliao (Zhihu Enhancement Module): Click to view
 
-### 【XP模块】 哔哩哔哩增强模块
+Traffic 12123 blocks root detection: Click to view
 
-哔哩漫游： [点击查看](https://nalankang.lanzouo.com/b00ttp0kj)
+Mask Hide Enhancement Module: Click to view
 
-哔哩补丁： [点击查看](https://nalankang.lanzouo.com/igGPQlrcepe)
+You just long-pressed to copy and access: Click to view
 
-联璧模块： [点击查看](https://nalankang.lanzouo.com/b00tsmwqd)
+Navigation bar extension module: Click to view
 
-FuckBilibiliVote(去你妈b站视频弹窗)：[点击查看](https://nalankang.lanzouo.com/b00vq2xsb)
+Today's Headlines+: Click to view
 
-不要竖屏：[点击查看](https://nalankang.lanzouo.com/b00vtzfja)
+Pretend to share: Click to view
 
-哔哩漫游X：[点击查看](https://nalankang.lanzoum.com/b00wa2dib)
+Magisk Hide (Mask Enhancement Module): Click to view
 
-b站会员画质：[点击查看](https://nalankang.lanzoum.com/b00wpxvhe)
+Tai Chi Renewal Treasure (Tai Chi Yin Specific): Click to view
 
+A module that will make you think, "Holy crap!": Click to view
 
-![IMG_20220529_0705171935.png](img/IMG_20220529_0705171935.png)
+App Settings Reborn Version: Click to view
 
-### 小说破解模块
+Lark Assistant: Click to view
 
-番茄小说hookvip模块：[点击查看](https://nalankang.lanzouo.com/b00vpo0ub)
+Data filtering: Click to view
 
-小说Hook模块：[点击查看](https://nalankang.lanzoum.com/b00wcowqh)
+Alibaba's Xposed anti-detection system: Click to view
 
-野草集：[点击查看](https://nalankang.lanzoum.com/b00vgt8di)
+Taofanfan (Automatic Coupon Claim): Click to view
 
-番茄小说：[点击查看](https://nalankang.lanzoum.com/b00wj7b8d)
+Pinduoduo's No-Buy Assistant: Click to view
 
-番茄通杀：[点击查看](https://nalankang.lanzoum.com/b00wo5r9i)
+JD.com historical prices: Click to view
 
+Momo bulk messaging module: Click to view
 
-![S21011-144657422890.png](img/S21011-144657422890.png)
+DDex Unpacking (XP): Click to view
 
-### 【XP模块】 运动修改模块
+DJkwaiching (Cracked Music VIP): Click to view
 
-> 修改步数，让你装逼不费劲！
+Blued module: Click to view
 
-运动修改器： [点击查看](https://nalankang.lanzouo.com/b00to5bpa)
+King of Glory Wi-Fi Information Hijacking: Click to view
 
-运动加速器： [点击查看](https://nalankang.lanzouo.com/b00u8tp0d)
+Pipeline module collection: Click to view
 
-运动模拟器： [点击查看](https://nalankang.lanzouo.com/iAVp7lridyd)
+Xiaocao Video Assistant: Click to view
 
+VCAM (Virtual Camera): Click to view
 
-### 【XP模块】状态栏变色
+Anime Home Enhanced Module: Click to view
 
-微聚旧版： [点击查看](https://nalankang.lanzouo.com/iXbImrfwr7i)
+Xposed Tool (One-click to embed XP modules): Click to view
 
-微聚新版： [点击查看](https://nalankang.lanzouo.com/apk/io.ikws4.weiju)
+Alipay's "Show Off" Module: Click to view
 
-PerfectColorBar： [点击查看](https://www.lanzoui.com/irKuHgt707e)
+Money Tracker Automatic Accounting Plugin: Click to view
 
-自动沉浸式状态栏：[点击查看](https://nalankang.lanzouo.com/iWnM5stybvi)
+AnyDebug (Modify application layout parameters): Click to view
 
+Bypass VPN detection: Click to view
 
-### 【XP模块】 隐藏Root和xposed不被检测到
+Fuck cloud injection (disable cloud injection pop-up): Click to view
 
-RootCloak(隐藏Root)：[点击查看](https://nalankang.lanzouo.com/iD7LLjks9ab)
+QDReadHook: (Qidian Reading Enhancement Module): Click to view
 
-zuper(隐藏Xposed和Root)： [点击查看](https://nalankang.lanzouo.com/i2iuJgvqumf)
+QQ Music Assistant (QQ Music Purifier): Click to view
 
-隐藏应用列表：[点击查看](https://nalankang.lanzouo.com/b00ujaeti)
+Download Redirect Module - (Invokes ADM Downloader): Click to view
 
-XposedHider(隐藏Xposed)：[点击查看](https://nalankang.lanzouo.com/b00v4pjpa)
+Do not region lock (remove regional restrictions): Click to view
 
-SudoHide(隐藏Xposed)：[点击查看](https://nalankang.lanzouo.com/b00v4pjkf)
+IMG_20221018_1629403004.png
+[APP] Tech Assistant
 
+    Essential software for gaming
 
-### 【XP模块】过VPN检测
+Tech Assistant (Unavoidable Love) Original Author: Click to view
 
-NoVPNDetect：[点击查看](https://nalankang.lanzoum.com/b00wckerg)
+Gadget Remastered Version (by an internal staff member of Kuaibo): Click to view
 
-过VPN检测：[点击查看](https://nalankang.lanzoum.com/b00vsaxud)
+Gadget Assistant 2 (Hug Cat People11): Click to view
 
-算法助手：[点击查看](https://nalankang.lanzoum.com/b00umtq4h)
+Tech Enthusiast (Unavoidable): Click to view
+[APP Sharing] Magisk, lsposed, xposed modules, root detection tool
 
-Dialbox：[点击查看](https://nalankang.lanzoum.com/b00wa5mkf)
+ApplistDetector: Click to view
 
+Native Test (Nutouren): Click to view
 
-### 【XP模块】 重力工具箱
+Momo: Click to view
 
-GravityBox[安卓8]：[点击查看](https://nalankang.lanzouo.com/b00u9xezc)
+Hunter: Click to view
 
-GravityBox[安卓9]：[点击查看](https://nalankang.lanzouo.com/b00u9xf7a)
+IMG_20221018_1604323003.png
+[APP] SSH Terminal Tool
 
-GravityBox[安卓10]：[点击查看](https://nalankang.lanzouo.com/b00u9xfdg)
+JuiceSSH: Click to view
 
-GravityBox[安卓11]：[点击查看](https://nalankang.lanzouo.com/b00u9xffi)
+ConnectBot: Click to view
 
+Primitive ftpd: Click to view
 
-![IMG_20221011_1519312886.png](img/IMG_20221011_1519312886.png)
+SSH-Termius: Click to view
+[APP] Third-party YouTube channel - ad-free and clean.
 
-### 【XP模块】去广吿模块
+Vanced: Click to view
 
-AD快消：[点击查看](https://nalankang.lanzouo.com/b00u7asef)
+𝐏𝐮𝐫𝐞𝐓𝐮𝐛𝐞𝐫: Click to view
 
-大圣净化： [点击查看](https://nalankang.lanzouo.com/b00u8uhij)
+LibreTube: Click to view
 
-大圣净化-Magisk版：[点击查看](https://nalankang.lanzouo.com/b00v95m8b)
+YouTube_ReVanced: Click to view
+[APP] Third-party Telegram
 
-悟空加速： [点击查看](https://nalankang.lanzouo.com/b00u8uhja)
+POFEN Magic Edition (Built-in Proxy): Click to view
 
-AdBlocker： [点击查看](https://nalankang.lanzouo.com/b00tf5ive)
+Nekogram X (Built-in Agent): Click to view
 
-联璧模块： [点击查看](https://nalankang.lanzouo.com/b00tsmwqd)
+Nagram (built-in proxy): Click to view
 
-闲鱼助手：[点击查看](https://nalankang.lanzouo.com/b00un0t1e)
+Nekogram (Built-in Agent): Click to view
 
-电报广告拦截器：[点击查看](https://nalankang.lanzouo.com/b00v0v12b)
+GuGugram (requires a VPN): Click to view
 
-电报去广告模块：[点击查看](https://nalankang.lanzoui.com/b00v0v15e)
+Telegraph (Built-in Proxy - Many Features): Click to view
 
-推特去广告模块：[点击查看](https://nalankang.lanzouo.com/b00vauqdg)
+TelegramX (supports SMS verification code login): Click to view
+[APP] File Manager
 
-Twitter Ad Eater(推特广告吞噬者)：[点击查看](https://nalankang.lanzoum.com/b00wa9rze)
+RE File Manager: Click to view
 
-FuckCoolapkR-酷安去广告模块：[点击查看](https://nalankang.lanzouo.com/b00vio87e)
+ES File Explorer Premium Edition: Click to view
 
-VideoAdKill(腾讯优酷爱奇艺虎牙去广告模块)：[点击查看](https://nalankang.lanzoum.com/b00wgwabc)
+NP Manager: Click to view
 
-ZuiYouHook最右去广告模块：[点击查看](https://nalankang.lanzoum.com/b00wl69ba)
+ES File Explorer (Beautified Version): Click to view
 
-去你大爷的广告：[点击查看](https://nalankang.lanzoum.com/b00wnf7wf)
+RS File Manager: Click to view
 
-FuckAD-去他妈的广告：[点击查看](https://nalankang.lanzoum.com/b00woi3gj)
+SE File Manager: Click to view
+[APP] Terminal Emulator
 
-开屏小助手：[点击查看](https://nalankang.lanzoum.com/b00wwnzcf)
+Termux: Click to view
 
+ZeroTermux: Click to view
 
-![IMG_20220221_143749814.png](img/IMG_20220221_143749814.png)
+UTermux: Click to view
 
-### 【XP模块】 皮皮虾快手模块合集
+Terminal emulator: Click to view
 
-快手+： [点击查看](https://nalankang.lanzouo.com/b00u8r2cf)
+Ansole: Click to view
 
-AdAway： [点击查看](https://nalankang.lanzouo.com/b00tsmbgh)
+NeoTerm: Click to view
+[APP] JAVA Simulator
 
-诺诺诺嗯： [点击查看](https://nalankang.lanzouo.com/b00u5t5wh)
+J2ME Loader: Click to view
 
-皮皮虾助手： [点击查看](https://nalankang.lanzouo.com/b00tvgswh)
+Retro2ME: Click to view
+[APP] App hardening and unpacking tool
 
-要你命三千： [点击查看](https://nalankang.lanzouo.com/b00tw4jhc)
+BlackDex: Click to view
 
-皮皮搞笑助手：[点击查看](https://nalankang.lanzoum.com/b00w4s6lc)
+fdex2: Click to view
 
+Micro-shelling: Click to view
 
-![S21011-150318612888.png](img/S21011-150318612888.png)
+Reflection Master: Click to view
 
-### 【XP模块】小红书模块
+DDex Unpacking (XP): Click to view
 
-AdAway： [点击查看](https://nalankang.lanzouo.com/b00tsmbgh)
+DITOR - Unpacking Tool: Click to view
+[APP] Backup Tool
 
-X小红书： [点击查看](https://nalankang.lanzouo.com/b00u9cabi)
+Titanium Backup: Click to view
 
-小红书+： [点击查看](https://nalankang.lanzouo.com/b00ucb8pc)
+Super Backup: Click to view
 
-红薯猪手：[点击查看](https://nalankang.lanzouo.com/b00vdhfxa)
+Backup Toolbox: Click to view
 
+Data backup: Click to view
+[APP] Online video playback software
 
-![IMG_20221011_1555412892.png](img/IMG_20221011_1555412892.png)
+Planet Video: Click to view
 
-### 【XP模块】钉钉模块
+American TV Series Bird: Click to view
 
-钉钉打卡： [点击查看](https://nalankang.lanzouo.com/b00tw4j8d)
+TV Home 3.0: Click to view
 
-钉钉助手： [点击查看](https://nalankang.lanzouo.com/b00ty6xeh)
+Xiaocao Movies: Click to view
 
-钉钉反撤回神器：[点击查看](https://nalankang.lanzouo.com/b00vn4gqb)
+American TV Series Planet: Click to view
+[APP] Apk Editing Tool
 
-钉钉增强：[点击查看](https://nalankang.lanzouo.com/b00vs1a1c)
+Apk Editor: Click to view
 
-锤锤：[点击查看](https://nalankang.lanzoum.com/b00w65hri)
+APK Editor R3: Click to view
 
+Apktool M (Apk decompiler): Click to view
 
-![IMG_20221011_1524592887.png](img/IMG_20221011_1524592887.png)
+NP Manager: Click to view
 
-### 【XP模块】telegram电报模块
+MT Manager: Click to view
+[APP] Application frozen
 
-TMoe(电报增强模块)：[点击查看](https://nalankang.lanzouo.com/b00vudbyf)
+Hail: Click to view
 
-电报广告拦截器：[点击查看](https://nalankang.lanzouo.com/b00v0v12b)
+Refrigerator: Click to view
+[APP] Download Tool
 
-电报去广告模块：[点击查看](https://nalankang.lanzoui.com/b00v0v15e)
+ADM (Download Tool): Click to view
 
-TeleSpeed(提升电报下载速度)：[点击查看](https://nalankang.lanzoum.com/b00waav1a)
+IDM+ (Download Tool): Click to view
 
-Telegram Helper(电报增强模块)：[点击查看](https://nalankang.lanzoum.com/b00waaxxe)
+Lightning-fast download: Click to view
 
-TG++：[点击查看](https://nalankang.lanzoum.com/b00x9r9kj)
+Torrent Player: Click to view
 
-电报助手：[点击查看](https://nalankang.lanzoum.com/b00x9r7qd)
+Torrent/Magnet Downloader: Click to view
 
-Re-telegram：[点击查看](https://nalankang.lanzoum.com/b00x9r9fe)
+MagnetCloud Premium Version: Click to view
 
+tTorrent torrent downloader: Click to view
 
-![IMG_20221016_0037052984.png](img/IMG_20221016_0037052984.png)
+Lazy Bear Download: Click to view
 
-### 【XP模块】YouTube油管模块
+Hulk Download: Click to view
 
-YouTube AdAway：[点击查看](https://nalankang.lanzoum.com/b00w6v3tc)
+High-speed download: Click to view
 
-油管助手：[点击查看](https://nalankang.lanzouo.com/b00u8om6b)
+Bingbing Magnet Downloader: Click to view
 
+Offline Cloud: Click to view
 
-### 【XP模块】其他模块合集
+Thunder Unlimited Speed ​​Version: Click to view
 
-算法助手(Hook工具)：[点击查看](https://nalankang.lanzouo.com/b00umtq4h)
+Download via KuaiNiao: Click to view
 
-上帝模式：[点击查看](https://nalankang.lanzouo.com/b00um9gha)
+All-in-one download: Click to view
 
-天帝模式：[点击查看](https://nalankang.lanzoui.com/b00vio9qj)
+Rocket BT Downloader: Click to view
 
-定时清理(清理文件和文件夹)： [点击查看](https://nalankang.lanzouo.com/i62C4ilqksd)
+Peregrine Downloader: Click to view
 
-xposed黑名单(禁用Xposed)： [点击查看](https://nalankang.lanzouo.com/iuJe2h1efgd)
+Download Toolbox: Click to view
 
-AllTrans(应用内翻译)：[点击查看](https://www.coolapk.com/feed/23531453?shareKey=MjE0Mjk1NTEyNDRkNjBjZGMyZDY~&shareUid=462071&shareFrom=com.coolapk.market_11.2.4-beta6)
+Download Wukong: Click to view
+[APP] HiShoot2i (with screenshots)
 
-去伱大爷的内置浏览器： [点击查看](https://nalankang.lanzouo.com/iJLBYiqgs6j)
+    Screenshot with a case, as the name suggests, is like putting a phone case on a screenshot, adding a proportionally sized frame to the screenshot to create a rendered image that rivals an advertisement.
 
-一键分享(视频无水印)： [点击查看](https://nalankang.lanzouo.com/b00u71tcf)
+HiShoot2i Chinese version: Click to view
 
-知了(知乎增强模块)： [点击查看](https://nalankang.lanzouo.com/b00tt2w1e)
+Featured Templates (Lanzou Cloud): Click to view
 
-交通12123屏蔽root检测 ： [点击查看](https://nalankang.lanzouo.com/id38v2h)
+Template preview: Click to view
 
-面具hide增强模块： [点击查看](https://nalankang.lanzouo.com/iMmPihuq4wj)
+Other templates (Baidu Cloud): Click to view. Extraction code: h368
 
-你才长按复制访问：[点击查看](https://nalankang.lanzouo.com/b00tys3qb)
+Some template preview images: Click to view
+[APP] SMS spoofing
 
-导航栏扩展模块： [点击查看](https://www.coolapk.com/apk/com.egguncle.xposednavigationbar)
+    Add SMS messages to your local device with one click. You can set it to receive messages from anyone, just like a normal SMS message. This application is for entertainment purposes only!
 
-今日头条+： [点击查看](https://nalankang.lanzouo.com/b00u8r28b)
+Fake SMS messages: Click to view
+[APP] Packet capture tool
 
-假装分享： [点击查看](https://nalankang.lanzouo.com/iOJ09lmdg4b)
+HttpCanary (Little Yellow Bird): Click to view
 
-Magisk hide(面具增强模块)： [点击查看](https://nalankang.lanzouo.com/iMmPihuq4wj)
+Wicap (Android sniffer): Click to view
 
-太极更新宝(太极阴专用)： [点击查看](https://nalankang.lanzouo.com/itU7Fkwxova)
+Packet Capture (no root required): Click to view
 
-一个让你感觉卧曹卧曹的模块： [点击查看](https://nalankang.lanzouo.com/ii7Hzgt6zsj)
+Packet Detector: Click to view
+[APP] MacroDroid Smart Trigger
 
-应用设置重生版： [点击查看](https://nalankang.lanzouo.com/b00u7e3ni)
+    A task automation configuration tool; if you can think of it, it can do it. It's powerful, similar to Tasker and Xposed Edge.
 
-飞书助手： [点击查看](https://nalankang.lanzouo.com/b00tx61rc)
+MacroDroid: Click to view
 
-数据过滤： [点击查看](https://nalankang.lanzouo.com/b00ubhcpg)
+Auxiliary modules: Click to view
 
-阿里系Xposed反检测： [点击查看](https://nalankang.lanzouo.com/ikPQ5n2y3pc)
+Automatic email sending plugin: Click to view
+【YX】Nostalgic Mini-Games
 
-淘饭饭(自动领券)：[点击查看](https://nalankang.lanzouo.com/b00ue7nlg)
+Plants vs. Zombies 1 Collection: Click to view
 
-拼夕夕免拼助手：[点击查看](https://nalankang.lanzouo.com/b00u6yczi)
+Plants vs. Zombies North American Chinese Version: Click to view
 
-京东历史价格：[点击查看](https://nalankang.lanzouo.com/irbo1pi4lve)
+Lone Shooter Collection: Click to view
 
-陌陌群发模块：[点击查看](https://nalankang.lanzouo.com/b00uli2mj)
+IMG_20220220_152839785821.png
+[APP] Application Sharing
 
-DDex脱壳(XP)：[点击查看](https://nalankang.lanzouo.com/b00vcvtla)
+UC Browser (Ad-free version): Click to view
 
-DJkwaiching(破解音乐VIP)：[点击查看](https://nalankang.lanzouo.com/b00tytm1g)
+QQ Browser (Ad-free version): Click-through rate
 
-Blued模块：[点击查看](https://nalankang.lanzouo.com/b00up6lzi)
+Sharingan (Disabled Service): Click to view
 
-王者人生wifi信息劫持：[点击查看](https://nalankang.lanzouo.com/ib4F3s4471e)
+Internet speed test: Click to view
 
-油管模块合集： [点击查看](https://nalankang.lanzouo.com/b00u8om6b)
+Say Goodbye to Temperature Control (Delete Temperature Control): Click to view
 
-小草影视助手：[点击查看](https://nalankang.lanzouo.com/b00utv70d)
+Image Assistant (Extract, Flash REC): Click to view
 
-VCAM(虚拟摄像头)：[点击查看](https://nalankang.lanzouo.com/b00uud7hi)
+TWRP (Download and flash TWRP): Click to view
 
-动漫之家增强模块：[点击查看](https://nalankang.lanzouo.com/b00uwt6zi)
+Cellular-Pro (Band Lock): Click to view
 
-Xposed Tool(一键内置XP模块)：[点击查看](https://nalankang.lanzouo.com/b00vsay9i)
+APK Editor: Click to view
 
-支付宝装X模块：[点击查看](https://nalankang.lanzouo.com/b00v730da)
+Microsoft Remote Desktop: Click to view
 
-钱迹自动记账插件：[点击查看](https://nalankang.lanzouo.com/b00v7fjjc)
+Lyrics matching (download from NetEase Cloud Music): Click to view
 
-AnyDebug(修改应用布局参数)：[点击查看](https://nalankang.lanzoui.com/b00vhv14f)
+QuickPic Browser (Modified Version): Click to view
 
-过VPN检测：[点击查看](https://nalankang.lanzouo.com/b00vsaxud)
+China Unicom Business Hall (Remove Advertisement): Click to view
 
-Fuck云注入(禁止云注入弹窗)：[点击查看](https://nalankang.lanzouo.com/b00vta76j)
+Black threshold (prevents execution): Click to view
 
-QDReadHook：(起点阅读增强模块)：[点击查看](https://nalankang.lanzouo.com/b00vu7rof)
+Iodine Tincture Editor (Sparkling Iodine Tincture): Click to view
 
-Q音助手(QQ音乐净化)：[点击查看](https://nalankang.lanzoum.com/b00w6v3oh)
+UnionPay QuickPass (Google version): Click to view
 
-下载重定向模块-(调用ADM下载器)：[点击查看](https://nalankang.lanzoum.com/b00whqfvc)
+Nova Desktop: Click to view
 
-不要锁区(解除区域限制)：[点击查看](https://nalankang.lanzoum.com/b00wwnzwf)
+Titanium Backup: Click to view
 
+A knock-off Google Play Store: Click to view
 
-![IMG_20221018_1629403004.png](img/IMG_20221018_1629403004.png)
+Aptoide Open Source App Store: Click to view
 
-### 【APP】搞机助手
+Third-party YouTube channel (no ads): Click to view
 
-> 玩机必备软件
+Photo editor: Click to view
 
-搞机助手(情非得已)原创作者：[点击查看](https://nalankang.lanzouo.com/b00uks1sd)
+Virtual camera (uses photos from your album to pretend you're taking pictures): Click to view
 
-搞机重制版(快播内部工作人员)：[点击查看](https://nalankang.lanzouo.com/b00tugduj)
+Telegram (Chinese version): Click to view
 
-搞机助手2(抱抱猫People11)：[点击查看](https://nalankang.lanzouo.com/b00uks28j)
+Telegram Magic Edition (with built-in kick): Click to view
 
-搞机客(情非得已)：[点击查看](https://nalankang.lanzoum.com/b00woxkmh)
+NekogramX (a third-party Telegram service with built-in kicker): Click to view
 
+King's Privilege Acquisition: Click to view
 
-### 【APP分享】magisk、lsposed、xposed模块、root检测工具
+SD Maid Premium Version: Click to view
 
-ApplistDetector：[点击查看](https://nalankang.lanzoum.com/b00uwpoeb)
+Asoft Background Removal Member Version: Click to view
 
-Native Test(牛头人)：[点击查看](https://nalankang.lanzoum.com/b00y2lgmb)
+Automatic brick-saving function by a god: Click to view
 
-Momo：[点击查看](https://nalankang.lanzoum.com/b00vno8mj)
+MX_Player video player: Click to view
 
-Hunter：[点击查看](https://nalankang.lanzoum.com/b00y2lhwh)
+Lanyun (a third-party cloud computing platform): Click to view
 
+Xunyou Mobile Game Accelerator (VIP Version): Click to view
 
-![IMG_20221018_1604323003.png](img/IMG_20221018_1604323003.png)
+Tencent Mobile Game Accelerator (Modified Version): Click to view
 
-### 【APP】SSH终端工具
+See third-party Weibo posts: Click to view
 
-JuiceSSH：[点击查看](https://nalankang.lanzoum.com/b00w76gvi)
+HiGo Google Framework Installer: Click to view
 
-ConnectBot：[点击查看](https://nalankang.lanzoum.com/b00w76gif)
+Status Bar Lyrics - Premium Version: Click-through rate
 
-Primitive ftpd：[点击查看](https://nalankang.lanzoum.com/b00w76gre)
+Li Tiaotiao (Automatically skip ads): Click to view
 
-SSH-Termius：[点击查看](https://nalankang.lanzoum.com/b00w76gwj)
+One-finger Zen (Automatically skip ads): Click to view
 
+AetherSX2 (PS2 game emulator): Click to view
 
-### 【APP】第三方油管纯净无广吿
+Lucky Patcher: Click to view
 
-Vanced：[点击查看](https://nalankang.lanzouo.com/b00ujce7i)
+Andronix (installing Linux on your phone): Click to view
 
-𝐏𝐮𝐫𝐞𝐓𝐮𝐛𝐞𝐫：[点击查看](https://nalankang.lanzouo.com/b00usb4ba)
+Screen translation: Click to view
 
-LibreTube：[点击查看](https://nalankang.lanzouo.com/b00vsd3ta)
+MIUI Downloader: Click to view
 
-YouTube_ReVanced：[点击查看](https://nalankang.lanzoum.com/b00vvp3hi)
+Two Elements (Android Container): Click to view
 
+TikTok (international version): Click to view
 
-### 【APP】第三方𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦电报
+Windmill Anime Modified Version: Click to view
 
-𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦魔法版(内置代理)：[点击查看](https://nalankang.lanzouo.com/b00v8earg)
+Lanyun (Lanzou Cloud third-party client): Click to view
 
-Nekogram X(内置代理)：[点击查看](https://nalankang.lanzoum.com/b00w5nh7a)
+Mask root permission switch: Click to view
 
-Nagram(内置代理)：[点击查看](https://nalankang.lanzoum.com/b00w5nila)
+Beautify (Mobile Theme Creation): Click to view
 
-Nekogram(内置代理)：[点击查看](https://nalankang.lanzoum.com/b00w5nguh)
+Beetle ADB Assistant: Click to view
 
-GuGugram(需要梯子)：[点击查看](https://nalankang.lanzoum.com/b00w5nj2h)
+AccubatteryPro - Precise Battery Level: Click to view
 
-Telegraph(内置代理-功能超多)：[点击查看](https://nalankang.lanzoum.com/b00wgwa1c)
+Cleaning (Garbage Removal): Click to view
 
-TelegramX(支持短信验证码登录)：[点击查看](https://nalankang.lanzoum.com/b00xvtozi)
+Green Ad Removal (Automatically Skip Splash Screen Ads): Click to view
 
+Coolapk Ad-Free Version: Click to view
 
-### 【APP】文件管理器
+Momo (Detection Tool): Click to view
 
-RE文件管理器： [点击查看](https://nalankang.lanzouo.com/b00u85wja)
+Cosmic Toolbox: Click to view
 
-ES文件管理器会员版： [点击查看](https://nalankang.lanzouo.com/b00u2b9pi)
+Today's Watermark Camera (Time can be changed): Click to view
 
-NP管理器： [点击查看](https://nalankang.lanzouo.com/b00u7565e)
+V-AB Update Helper (System ROM Update Tool): Click to view
+[WX] Micro Theme
 
-ES管理器美化版：[点击查看](https://nalankang.lanzouo.com/b00uwhrob)
+    The WeChat theme customization feature requires a tip to activate.
 
-RS文件管理器：[点击查看](https://nalankang.lanzouo.com/b00v3lsaj)
+    Theme download: https://nalankang.lanzn.com/b00u44cpg
 
-SE文件管理器：[点击查看](https://nalankang.lanzouo.com/b00v55w4d)
+Micro X Theme (Comic): Click to view
 
+Micro X Theme "Obito and Rin": Click to view
 
-### 【APP】终端模拟器
+Micro X Theme: Q Version Spider-Man: Click to view
 
-Termux：[点击查看](https://nalankang.lanzouo.com/b00v67ype)
+MicroX Theme "Untitled": Click to view
 
-ZeroTermux：[点击查看](https://cloud.189.cn/t/aqam2uZNJ7ny)
+Chat wallpapers: Click to view
+[WJ] Tech Tips
 
-UTermux：[点击查看](https://cloud.189.cn/t/YbmqaiqYniIn)
+Tutorial on creating SIM card flashable ROMs on mobile devices: Click to view
 
-终端模拟器：[点击查看](https://nalankang.lanzouo.com/b00v67zte)
+Meizu 16T Unlock Tutorial (Pure Mobile App): Click to View
 
-Ansole：[点击查看](https://nalankang.lanzouo.com/b00v681pc)
+Tutorial on preventing accidenion of files on your phone: Click to view
 
-NeoTerm：[点击查看](https://nalankang.lanzouo.com/b00v681xa)
+Meizu phone original flash package: Click to view
 
+Tutorial on customizing application names: Click to view
 
-### 【APP】JAVA模拟器
+UC Browser Startup Ad Removal Tutorial: Click to view
 
-J2ME Loader：[点击查看](https://nalankang.lanzouo.com/b00vaursh)
+Solution for SELinux not being in strict mode: Click to view
 
-Retro2ME：[点击查看](https://nalankang.lanzouo.com/b00vaurhg)
+Tutorial on disabling app launch page ads: Click to view
 
+Translate English software into Chinese: Click to view
 
-### 【APP】加固app脱壳工具
+Repair boot installation mask tutorial: Click to view
 
-BlackDex：[点击查看](https://nalankang.lanzouo.com/b00um84kf)
+Tutorial on hiding root access after enabling Zygisk with Mask: Click to view
 
-fdex2：[点击查看](https://nalankang.lanzouo.com/iBdENqkpmng)
+2022_0114_124720-1820.png
+PC-based tool collection
 
-微脱壳：[点击查看](https://nalankang.lanzouo.com/iFfamqkpmoh)
+Autumn Box: Click to view
 
-反射大师：[点击查看](https://nalankang.lanzouo.com/b00v2j5ud)
+ADB tools: Click to view
 
-DDex脱壳(XP)：[点击查看](https://nalankang.lanzouo.com/b00vcvtla)
+Qualcomm full range of drivers: Click to view
 
-DITOR-脱壳工具：[点击查看](https://nalankang.lanzouo.com/b00vdbu8j)
+ADB & FastBoot drivers: Click to view
 
+Gadget Toolbox: Click to view
 
-### 【APP】备份工具
+Gadget Assistant PC Version: Click to view
 
-钛备份： [点击查看](https://nalankang.lanzouo.com/b00u85wmd)
+CMD Command Version of Gadget Assistant: Click to view
 
-超级备份：[点击查看](https://nalankang.lanzouo.com/b00v82qxg)
+Xiaomi Flash Tool After-Sales Version: Click to view
 
-备份工具箱：[点击查看](https://nalankang.lanzoum.com/b00xytfvi)
+Qualcomm 9008 flashing tool: Click to view
 
-数据备份：[点击查看](https://nalankang.lanzoum.com/b00y31fxc)
+Baidu Cloud unlimited speed download tool: Click to view
+About
 
-
-### 【APP】在线影视播放软件
-
-星球视频：[点击查看](https://nalankang.lanzouo.com/b00v2atfi)
-
-美剧鸟：[点击查看](https://nalankang.lanzouo.com/b00v2assf)
-
-电视家3.0：[点击查看](https://nalankang.lanzouo.com/b00uvarti)
-
-小草影视：[点击查看](https://nalankang.lanzouo.com/b00uvtgkh)
-
-美剧星球：[点击查看](https://nalankang.lanzouo.com/b00uoxh3i)
-
-
-### 【APP】Apk编辑工具
-
-Apk编辑器：[点击查看](https://nalankang.lanzouo.com/b00u06q0d)
-
-APK Editor R3：[点击查看](https://nalankang.lanzouo.com/b00uud6lg)
-
-Apktool M(Apk反编译)：[点击查看](https://nalankang.lanzouo.com/b00uud6kf)
-
-NP管理器：[点击查看](https://nalankang.lanzouo.com/b00u7565e)
-
-MT管理器：[点击查看](https://www.coolapk.com/apk/bin.mt.plus)
-
-
-### 【APP】应用冻结
-
-雹：[点击查看](https://nalankang.lanzouo.com/b00vjgpxa)
-
-冰箱：[点击查看](https://nalankang.lanzouo.com/b00vjgpsf)
-
-
-### 【APP】下载工具
-
-ADM(下载工具)： [点击查看](https://nalankang.lanzouo.com/b00u06sid)
-
-IDM+(下载工具)： [点击查看](https://nalankang.lanzouo.com/b00u06sje)
-
-闪电下载： [点击查看](https://nalankang.lanzouo.com/b00u06tlc)
-
-种子磁力播放器：[点击查看](https://nalankang.lanzouo.com/b00uunmef)
-
-种子磁力下载器：[点击查看](https://nalankang.lanzouo.com/b00uunmja)
-
-磁力云高级版：[点击查看](https://nalankang.lanzouo.com/b00ur7bhi)
-
-tTorrent种子下载器：[点击查看](https://nalankang.lanzouo.com/b00uz3ikh)
-
-懒熊下载：[点击查看](https://nalankang.lanzouo.com/b00uz3ibi)
-
-浩克下载：[点击查看](https://nalankang.lanzouo.com/b00u79kob)
-
-极速下载：[点击查看](https://nalankang.lanzouo.com/b00v2asli)
-
-冰冰磁力下载器：[点击查看](https://nalankang.lanzouo.com/b00v2w6yb)
-
-离线云：[点击查看](https://nalankang.lanzouo.com/b00u79khe)
-
-迅雷不限速版：[点击查看](https://nalankang.lanzouo.com/b00v8e9zi)
-
-快鸟下载：[点击查看](https://nalankang.lanzouo.com/b00v8mdhc)
-
-全能下载：[点击查看](https://nalankang.lanzouo.com/b00va46tg)
-
-火箭BT下载器：[点击查看](https://nalankang.lanzouo.com/b00vb309a)
-
-游隼下载器：[点击查看](https://nalankang.lanzoui.com/b00vfsk6b)
-
-下载工具箱：[点击查看](https://nalankang.lanzouo.com/b00w3f0gh)
-
-悟空下载：[点击查看](https://nalankang.lanzoum.com/b00wm50id)
-
-
-### 【APP】HiShoot2i(带壳截图)
-
-> 带壳截图顾名思义就是让截图套上一个手机壳，为平淡无奇的截屏图片套上等比例的手机设备外框，生成一张媲美广告的渲染图
-
-HiShoot2i汉化版：[点击查看](https://nalankang.lanzouo.com/ihKhIu8yelc)
-
-精选模板(蓝奏云)：[点击查看](https://nalankang.lanzouo.com/b00tvr6yd)
-
-模板预览图：[点击查看](https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/ivs060snghe4pmco?#《带壳截图模板》)
-
-其他模板(百度云)： [点击查看](https://pan.baidu.com/share/init?surl=ZmToxkG__uLjFFZfep8eeg&pwd=h368) 提取码:h368
-
-一些模板预览图：[点击查看](https://www.coolapk.com/feed/29231338?shareKey=ZDg5NGQ3NmVhZjY3NjExOTNiOTQ~&shareUid=462071&shareFrom=com.coolapk.market_11.2.3)
-
-
-### 【APP】短信伪造
-
-> 一键添加收发短信到本地,可以任意设置收到任何人给你发来的短信，效果跟正常短信一模一样。应用仅供娱乐！
-
-伪造短信消息：[点击查看](https://nalankang.lanzouo.com/iAmMrsm3l1a)
-
-
-### 【APP】抓包工具
-
-HttpCanary(小黄鸟)：[点击查看](https://nalankang.lanzouo.com/b00usn91c)
-
-Wicap(安卓嗅探器)：[点击查看](https://nalankang.lanzouo.com/b00usn8te)
-
-Packet Capture(免root抓包)：[点击查看](https://nalankang.lanzouo.com/b00usn8yj)
-
-抓包精灵：[点击查看](https://nalankang.lanzouo.com/b00vb69jc)
-
-
-### 【APP】MacroDroid智能触发器
-
-> 一款任务自动化配置工具，只有你想不到，没有他做不到的，功能强大，类似Tasker和xposed edge
-
-MacroDroid：[点击查看](https://nalankang.lanzouo.com/b00usijgh)
-
-辅助模块：[点击查看](https://nalankang.lanzouo.com/b00usiqle)
-
-自动发邮件插件：[点击查看](https://nalankang.lanzouo.com/b00utusqj)
-
-
-### 【YX】怀旧小游戏
-
-植物大战僵尸1代合集： [点击查看](https://nalankang.lanzouo.com/b00uu2nsj)
-
-植物大战僵尸北美汉化版： [点击查看](https://cloud.189.cn/t/faUjeaA3Evqm)
-
-孤胆枪手合集：[点击查看](https://cloud.189.cn/t/BvmeMv3qe22e)
-
-
-![IMG_20220220_152839785821.png](img/IMG_20220220_152839785821.png)
-
-### 【APP】应用分享
-
-UC浏览器(去广吿版)：[点击查看](https://nalankang.lanzouo.com/b00uotlmh)
-
-QQ浏览器(去广吿版)：[点击率就](https://nalankang.lanzouo.com/b00usnkpc)
-
-血轮眼(禁用服务)：[点击查看](https://nalankang.lanzouo.com/b00ucdbhe)
-
-网速测试(网速测试)： [点击查看](https://nalankang.lanzouo.com/b00u06nch)
-
-温控拜拜(删除温控)： [点击查看](https://nalankang.lanzouo.com/i8YXOig4oob)
-
-镜像助手(提取、刷入REC)： [点击查看](https://nalankang.lanzouo.com/ilViPijcsna)
-
-TWRP(下载刷入TWRP)： [点击查看](https://nalankang.lanzouo.com/b00u06y2d)
-
-Cellular-Pro(频段锁定)： [点击查看](https://nalankang.lanzouo.com/b00u06pna)
-
-APK编辑器： [点击查看](https://nalankang.lanzouo.com/b00u06q0d)
-
-微软远程桌面： [点击查看](https://nalankang.lanzouo.com/b00u06qib)
-
-歌词适配(网易云音乐下载)：[点击查看](https://nalankang.lanzouo.com/b00u06rdc)
-
-快图浏览器(魔改版)： [点击查看](https://nalankang.lanzouo.com/b00u06uhe)
-
-联通营业厅(去广吿)： [点击查看](https://nalankang.lanzouo.com/b00uq36md)
-
-黑阈(阻止运行)： [点击查看](https://nalankang.lanzouo.com/b00u71uwb)
-
-碘酒编辑器(气泡碘酒)： [点击查看](https://nalankang.lanzouo.com/is0vQkt9fsb)
-
-云闪付(谷歌版)： [点击查看](https://nalankang.lanzouo.com/b00u71vte)
-
-Nova桌面： [点击查看](https://nalankang.lanzouo.com/b00u7cmgd)
-
-钛备份： [点击查看](https://nalankang.lanzouo.com/b00u85wmd)
-
-山寨版谷歌应用商店： [点击查看](https://nalankang.lanzouo.com/b00u7hyze)
-
-Aptoide开源应用商店：[点击查看](https://nalankang.lanzouo.com/b00uuddhe)
-
-第三方油管(无广吿)：[点击查看](https://nalankang.lanzouo.com/b00ujce7i)
-
-照片编辑器：[点击查看](https://nalankang.lanzouo.com/b00uo1fkb)
-
-虚拟相机(可以用相册里面的照片假装拍照)：[点击查看](https://nalankang.lanzouo.com/b00up86ej)
-
-飞聊(中文版电报)：[点击查看](https://nalankang.lanzouo.com/b00upq0bi)
-
-𝐓𝐞𝐥𝐞𝐠𝐫𝐚𝐦(电报魔法版自带踢子)：[点击查看](https://nalankang.lanzouo.com/b00v8earg)
-
-NekogramX(第三方电报自带踢子)：[点击查看](https://nalankang.lanzouo.com/b00vcrn1a)
-
-王者特权获取：[点击查看](https://nalankang.lanzouo.com/iDWRSs44eni)
-
-SD女佣高级版：[点击查看](https://nalankang.lanzouo.com/b00ur7bgh)
-
-傲软抠图会员版：[点击查看](https://nalankang.lanzouo.com/b00ur7bja)
-
-神仙自动救砖：[点击查看](https://nalankang.lanzouo.com/b00urjnza)
-
-MX\_Player视频播放器：[点击查看](https://nalankang.lanzouo.com/b00ursr2f)
-
-蓝云(第三方蓝奏云)：[点击查看](https://nalankang.lanzouo.com/b083z1nsj)
-
-迅游手游加速器(会员版)：[点击查看](https://nalankang.lanzouo.com/b00usp1kf)
-
-腾讯手游加速器(魔改版)：[点击查看](https://nalankang.lanzouo.com/b00v8m6zi)
-
-See第三方微博：[点击查看](https://nalankang.lanzouo.com/b00uumzmf)
-
-HiGo谷歌框架安装器：[点击查看](https://nalankang.lanzouo.com/b00uuxmbc)
-
-状态栏歌词-高级版：[点击率就](https://nalankang.lanzouo.com/b00uwt8xi)
-
-李跳跳(自动跳过广告)：[点击查看](https://nalankang.lanzouo.com/b00v0m18d)
-
-一指禅(自动跳过广告)：[点击查看](https://nalankang.lanzouo.com/b00v8ktla)
-
-AetherSX2(PS2游戏模拟器)：[点击查看](https://nalankang.lanzouo.com/b00v3iwqb)
-
-幸运破解器：[点击查看](https://nalankang.lanzouo.com/b00u06nfa)
-
-Andronix(手机上安装Linux系统)：[点击查看](https://nalankang.lanzouo.com/b00v6275c)
-
-屏幕翻译：[点击查看](https://nalankang.lanzouo.com/b00v75tyh)
-
-MIUI下载器：[点击查看](https://nalankang.lanzouo.com/b00v7ef5i)
-
-两仪(安卓容器)：[点击查看](https://cloud.189.cn/t/7BvEJ32qINNr)
-
-𝐓𝐢𝐤𝐓𝐨𝐤(抖音国际版)：[点击查看](https://nalankang.lanzouo.com/b00vcpf8h)
-
-风车动漫魔改版：[点击查看](https://nalankang.lanzouo.com/b00v9ce9g)
-
-蓝云(蓝奏云第三方客户端)：[点击查看](https://nalankang.lanzouo.com/b00v9m5dg)
-
-面具root权限开关：[点击查看](https://nalankang.lanzouo.com/b00vaasbg)
-
-爱美化(手机主题制作)：[点击查看](https://nalankang.lanzouo.com/b00vauqib)
-
-甲壳虫ADB助手：[点击查看](https://nalankang.lanzouo.com/b00vd9rde)
-
-AccubatteryPro-精准电量：[点击查看](https://nalankang.lanzouo.com/b00vdbnwb)
-
-清浊(垃圾清理)：[点击查看](https://nalankang.lanzouo.com/b00vgt4hi)
-
-绿去广告(自动跳过开屏广告)：[点击查看](https://nalankang.lanzouo.com/b00vijqoj)
-
-酷安去广告版：[点击查看](https://nalankang.lanzouo.com/b00vjm8ja)
-
-Momo(检测工具)：[点击查看](https://nalankang.lanzouo.com/b00vno8mj)
-
-宇宙工具箱：[点击查看](https://nalankang.lanzouo.com/b00w27qfi)
-
-今日水印相机(可以改时间)：[点击查看](https://nalankang.lanzoum.com/b00x5pbza)
-
-V-AB更新助力(更新系统ROM工具)：[点连查看](https://nalankang.lanzouu.com/b0hcbjeba)
-
-
-### 【WX】微X主题
-
-> 微信主题美化，主题功能需要打赏才能开通
-
-- 主题下载：[https://nalankang.lanzn.com/b00u44cpg](https://nalankang.lanzn.com/b00u44cpg)
-
-微X主题〈漫〉：[点击查看](https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/mmkw3xqkuissd74g?#《X) 
-
-微X主题〈带土与琳〉： [点击查看](https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/gyp451wmq5bnx9l4?#)
-
-微X主题〈Q版蜘蛛侠〉： [点击查看](https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/sn3wm152q2h5s3gm?#)
-
-微X主题〈无题〉： [点击查看](https://www.yuque.com/yuqueyonghuxd6cxl/qdzxvy/fyeutmlief8fdf4h?#)
-
-聊天壁纸：[点击查看](https://nalankang.lanzoum.com/iehdcjw2the)
-
-
-### 【WJ】玩机技巧
-
-手机端制作卡刷包线刷包教程： [点击查看](https://www.coolapk.com/feed/22941669?shareKey=NTVmMWViYjgwMzE0NWZiMTQ3M2E~&shareUid=462071&shareFrom=com.coolapk.market_11.0-beta2)
-
-魅族16T纯手机端解锁教程：[点击查看](https://www.coolapk.com/feed/22941669?shareKey=NGFmMDkxYTVjZWZhNjAyOWU3Zjg~&shareUid=462071&shareFrom=com.coolapk.market_11.0.1)
-
-防止手机文件误删教程： [点击查看](https://www.coolapk.com/feed/21508157?shareKey=MzU5ZTE1ZmRmNmIyNWY3YWM3NGU~&shareUid=462071&shareFrom=com.coolapk.market_10.5.3)
-
-魅族手机原厂线刷包： [点击查看](https://www.coolapk.com/feed/21349572?shareKey=Zjg0ZWY1ZTc2YTA4NWZjOGMwNTY~&shareUid=462071&shareFrom=com.coolapk.market_11.0-beta2)
-
-自定义应用名称教程： [点击查看](https://www.coolapk.com/feed/15346519?shareKey=N2VhYWJjZDU5ZThmNWY3YWM3ZGQ~&shareUid=462071&shareFrom=com.coolapk.market_10.5.3)
-
-UC浏览器去除启动页广告教程： [点击查看](https://www.coolapk.com/feed/21502013?shareKey=MzUxNGMyN2NhMDU3NWY3YWM3NGU~&shareUid=462071&shareFrom=com.coolapk.market_10.5.3)
-
-SELinux未处于严格模式的解决方法：[点击查看](https://www.coolapk.com/feed/24620582?shareKey=NGVmMmIzNWU1ZTg3NjA0NWM5NmU~&shareUid=462071&shareFrom=com.coolapk.market_11.0.3-beta1)
-
-禁用App启动页广告教程：[点击查看](https://www.coolapk.com/feed/27731488?shareKey=ZTZhYzFiZTEwODVmNjBjNzFjMjY~&shareUid=462071&shareFrom=com.coolapk.market_11.2)
-
-把英文软件翻译成中文：[点击查看](https://www.coolapk.com/feed/23531453?shareKey=M2Y0OTg1ZTRmMDk2NjE2N2QwYjY~&shareUid=462071&shareFrom=com.coolapk.market_11.2.3)
-
-修补boot安装面具教程：[点击查看](https://www.coolapk.com/feed/32152531?shareKey=ODdjZGFlMzAzNTliNjFiYThkNDk~&shareUid=462071&shareFrom=com.coolapk.market_11.2.3)
-
-面具开启Zygisk后隐藏root教程：[点击查看](https://www.coolapk.com/feed/33457333?shareKey=MjNiOGZlZDI2MzNjNjIwNTQxOTY~&shareUid=462071&shareFrom=com.coolapk.market_11.2.3)
-
-
-![2022_0114_124720-1820.png](img/2022_0114_124720-1820.png)
-
-### 【PC】端搞机工具合集
-
-秋之盒： [点击查看](https://nalankang.lanzouo.com/b00u8myid)
-
-ADB工具： [点击查看](https://nalankang.lanzouo.com/b00u8mv1i)
-
-高通全系列驱动：[点击查看](https://nalankang.lanzouo.com/iPzC9lgltwj)
-
-ADB&FastBoot驱动：[点击查看](https://nalankang.lanzouo.com/iIk1Xlgltsf)
-
-搞机工具箱：[点击查看](https://nalankang.lanzouo.com/b00u8nnqb)
-
-搞机助手PC版： [点击查看](https://nalankang.lanzouo.com/b00u8muij)
-
-搞机助手CMD命令版：[点击查看](https://nalankang.lanzouo.com/b00uugykb)
-
-小米线刷工具售后版： [点击查看](https://cloud.189.cn/t/e6Vra2jAfuae)
-
-高通9008线刷工具：[点击查看](https://nalankang.lanzouo.com/iPvjYp8qw2d)
-
-百度云不限速下载工具：[点击查看](https://nalankang.lanzouo.com/iD2Ldxkw51g)
+Backup of the application collection shared by the expert Midnight God [Gitee repository link below] https://gitee.com/grbnb/xp_module.git
+grbnb.suiyue.tk/
